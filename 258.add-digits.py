@@ -44,6 +44,7 @@ class Solution(object):
 	# which could covers the most number in computers.
 	#
 	# This solution is brutual and not beautiful, but simple.
+	# The elegent mathmatical way to solve the digital root could be found here: https://en.wikipedia.org/wiki/Digital_root#Congruence_formula
 	#
 	return reduce(lambda x,y: x+y, map(lambda c: int(c), list(str(reduce(lambda x,y: x+y, map(lambda c: int(c), list(str(reduce(lambda x,y: x+y, map(lambda c: int(c), list(str(num))))))))))))
         
