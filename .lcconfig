@@ -1,4 +1,4 @@
 {
-    "AUOT_LOGIN": ture,
+    "AUTO_LOGIN": true,
     "USE_COLOR": true
 }
