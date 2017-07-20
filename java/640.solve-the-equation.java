@@ -3,9 +3,10 @@
  *
  * https://leetcode.com/problems/solve-the-equation
  *
- * Medium (40.47%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (39.84%)
+ * Total Accepted:    2.8K
+ * Total Submissions: 7K
  * Testcase Example:  '"x+5-3+x=6+x-2"'
  *
  * 
