@@ -1,11 +1,12 @@
 #
 # [420] Strong Password Checker
 #
-# https://leetcode.com/problems/strong-password-checker
+# https://leetcode.com/problems/strong-password-checker/description/
 #
-# Hard (20.05%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (20.12%)
+# Total Accepted:    4.2K
+# Total Submissions: 21.1K
 # Testcase Example:  '""'
 #
 # A password is considered strong if below conditions are all met:

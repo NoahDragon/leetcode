@@ -1,11 +1,12 @@
 /*
  * [354] Russian Doll Envelopes
  *
- * https://leetcode.com/problems/russian-doll-envelopes
+ * https://leetcode.com/problems/russian-doll-envelopes/description/
  *
- * Hard (32.04%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (32.45%)
+ * Total Accepted:    27.4K
+ * Total Submissions: 84.4K
  * Testcase Example:  '[[5,4],[6,4],[6,7],[2,3]]'
  *
  * You have a number of envelopes with widths and heights given as a pair of
@@ -23,7 +24,7 @@
  * you can Russian doll is 3 ([2,3] => [5,4] => [6,7]).
  * 
  */
-public class Solution {
+class Solution {
     public int maxEnvelopes(int[][] envelopes) {
         
     }

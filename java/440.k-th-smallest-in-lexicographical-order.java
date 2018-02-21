@@ -1,11 +1,12 @@
 /*
  * [440] K-th Smallest in Lexicographical Order
  *
- * https://leetcode.com/problems/k-th-smallest-in-lexicographical-order
+ * https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/
  *
- * Hard (24.15%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (25.68%)
+ * Total Accepted:    5.6K
+ * Total Submissions: 22K
  * Testcase Example:  '13\n2'
  *
  * Given integers n and k, find the lexicographically k-th smallest integer in
@@ -28,7 +29,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int findKthNumber(int n, int k) {
         
     }

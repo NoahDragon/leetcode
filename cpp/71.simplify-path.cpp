@@ -1,11 +1,12 @@
 /*
  * [71] Simplify Path
  *
- * https://leetcode.com/problems/simplify-path
+ * https://leetcode.com/problems/simplify-path/description/
  *
- * Medium (25.05%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (26.16%)
+ * Total Accepted:    107.7K
+ * Total Submissions: 411.8K
  * Testcase Example:  '"/"'
  *
  * Given an absolute path for a file (Unix-style), simplify it.

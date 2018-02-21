@@ -1,11 +1,12 @@
 /*
  * [530] Minimum Absolute Difference in BST
  *
- * https://leetcode.com/problems/minimum-absolute-difference-in-bst
+ * https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
  *
- * Easy (47.02%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (47.18%)
+ * Total Accepted:    32.3K
+ * Total Submissions: 68.4K
  * Testcase Example:  '[1,null,3,2]'
  *
  * Given a binary search tree with non-negative values, find the minimum
@@ -45,7 +46,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public int getMinimumDifference(TreeNode root) {
         
     }

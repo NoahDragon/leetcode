@@ -1,15 +1,15 @@
 /*
  * [201] Bitwise AND of Numbers Range
  *
- * https://leetcode.com/problems/bitwise-and-of-numbers-range
+ * https://leetcode.com/problems/bitwise-and-of-numbers-range/description/
  *
- * Medium (33.85%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (34.34%)
+ * Total Accepted:    63.3K
+ * Total Submissions: 184.2K
  * Testcase Example:  '0\n0'
  *
- * Given a range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND
- * of all numbers in this range, inclusive.
+ * Given a range [m, n] where 0 
  * 
  * 
  * For example, given the range [5, 7], you should return 4.

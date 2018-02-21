@@ -1,12 +1,13 @@
 #
 # [186] Reverse Words in a String II
 #
-# https://leetcode.com/problems/reverse-words-in-a-string-ii
+# https://leetcode.com/problems/reverse-words-in-a-string-ii/description/
 #
-# Medium (27.61%)
-# Total Accepted:    
-# Total Submissions: 
-# Testcase Example:  '""'
+# algorithms
+# Medium (29.27%)
+# Total Accepted:    37.9K
+# Total Submissions: 129.3K
+# Testcase Example:  '["t","h","e"," ","s","k","y"," ","i","s"," ","b","l","u","e"]'
 #
 # 
 # Given an input string, reverse the string word by word. A word is defined as
@@ -29,9 +30,18 @@
 # 
 # 
 # Related problem: Rotate Array
+# 
+# 
+# Update (2017-10-16):
+# We have updated the function signature to accept a character array, so please
+# reset to the default code definition by clicking on the reload button above
+# the code editor. Also, Run Code is now available!
+# 
 #
-class Solution:
-    # @param s, a list of 1 length strings, e.g., s = ['h','e','l','l','o']
-    # @return nothing
-    def reverseWords(self, s):
+class Solution(object):
+    def reverseWords(self, str):
+        """
+        :type str: List[str]
+        :rtype: void Do not return anything, modify str in-place instead.
+        """
         

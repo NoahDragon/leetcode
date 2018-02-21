@@ -1,11 +1,12 @@
 /*
  * [152] Maximum Product Subarray
  *
- * https://leetcode.com/problems/maximum-product-subarray
+ * https://leetcode.com/problems/maximum-product-subarray/description/
  *
- * Medium (25.46%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (26.59%)
+ * Total Accepted:    130.5K
+ * Total Submissions: 491K
  * Testcase Example:  '[-2]'
  *
  * 
@@ -18,7 +19,7 @@
  * the contiguous subarray [2,3] has the largest product = 6.
  * 
  */
-public class Solution {
+class Solution {
     public int maxProduct(int[] nums) {
         
     }

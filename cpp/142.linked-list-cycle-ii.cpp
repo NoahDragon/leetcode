@@ -1,11 +1,12 @@
 /*
  * [142] Linked List Cycle II
  *
- * https://leetcode.com/problems/linked-list-cycle-ii
+ * https://leetcode.com/problems/linked-list-cycle-ii/description/
  *
- * Medium (31.02%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (30.72%)
+ * Total Accepted:    139K
+ * Total Submissions: 452.4K
  * Testcase Example:  '[]\nno cycle'
  *
  * 

@@ -1,11 +1,12 @@
 /*
  * [352] Data Stream as Disjoint Intervals
  *
- * https://leetcode.com/problems/data-stream-as-disjoint-intervals
+ * https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/
  *
- * Hard (39.94%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (40.77%)
+ * Total Accepted:    16.3K
+ * Total Submissions: 40.1K
  * Testcase Example:  '["SummaryRanges","addNum","getIntervals","addNum","getIntervals","addNum","getIntervals","addNum","getIntervals","addNum","getIntervals"]\n[[],[1],[],[3],[],[7],[],[2],[],[6],[]]'
  *
  * Given a data stream input of non-negative integers a1, a2, ..., an, ...,
@@ -38,7 +39,7 @@
  *     Interval(int s, int e) { start = s; end = e; }
  * }
  */
-public class SummaryRanges {
+class SummaryRanges {
 
     /** Initialize your data structure here. */
     public SummaryRanges() {

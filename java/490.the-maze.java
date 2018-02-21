@@ -1,11 +1,12 @@
 /*
  * [490] The Maze
  *
- * https://leetcode.com/problems/the-maze
+ * https://leetcode.com/problems/the-maze/description/
  *
- * Medium (42.93%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (43.40%)
+ * Total Accepted:    11.7K
+ * Total Submissions: 26.9K
  * Testcase Example:  '[[0,0,1,0,0],[0,0,0,0,0],[0,0,0,1,0],[1,1,0,1,1],[0,0,0,0,0]]\n[0,4]\n[4,4]'
  *
  * There is a ball in a maze with empty spaces and walls. The ball can go
@@ -75,7 +76,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean hasPath(int[][] maze, int[] start, int[] destination) {
         
     }

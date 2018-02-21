@@ -1,11 +1,12 @@
 /*
  * [198] House Robber
  *
- * https://leetcode.com/problems/house-robber
+ * https://leetcode.com/problems/house-robber/description/
  *
- * Easy (38.64%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (39.82%)
+ * Total Accepted:    183.7K
+ * Total Submissions: 461.4K
  * Testcase Example:  '[]'
  *
  * You are a professional robber planning to rob houses along a street. Each

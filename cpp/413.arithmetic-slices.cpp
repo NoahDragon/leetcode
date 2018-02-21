@@ -1,11 +1,12 @@
 /*
  * [413] Arithmetic Slices
  *
- * https://leetcode.com/problems/arithmetic-slices
+ * https://leetcode.com/problems/arithmetic-slices/description/
  *
- * Medium (54.60%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (54.74%)
+ * Total Accepted:    34.6K
+ * Total Submissions: 63.3K
  * Testcase Example:  '[1,2,3,4]'
  *
  * A sequence of number is called arithmetic if it consists of at least three
@@ -21,7 +22,7 @@
  * 
  * 
  * A zero-indexed array A consisting of N numbers is given. A slice of that
- * array is any pair of integers (P, Q) such that 0 <= P < Q < N.
+ * array is any pair of integers (P, Q) such that 0 
  * 
  * A slice (P, Q) of array A is called arithmetic if the sequence:
  * ⁠   A[P], A[p + 1], ..., A[Q - 1], A[Q] is arithmetic. In particular, this

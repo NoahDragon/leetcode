@@ -1,11 +1,12 @@
 #
 # [382] Linked List Random Node
 #
-# https://leetcode.com/problems/linked-list-random-node
+# https://leetcode.com/problems/linked-list-random-node/description/
 #
-# Medium (46.78%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (47.46%)
+# Total Accepted:    35.8K
+# Total Submissions: 75.5K
 # Testcase Example:  '["Solution","getRandom"]\n[[[1,2,3]],[]]'
 #
 # Given a singly linked list, return a random node's value from the linked

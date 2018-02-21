@@ -1,11 +1,12 @@
 /*
  * [261] Graph Valid Tree
  *
- * https://leetcode.com/problems/graph-valid-tree
+ * https://leetcode.com/problems/graph-valid-tree/description/
  *
- * Medium (37.51%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (38.36%)
+ * Total Accepted:    51.2K
+ * Total Submissions: 133.3K
  * Testcase Example:  '5\n[[0,1],[0,2],[2,3],[2,4]]'
  *
  * 
@@ -31,7 +32,7 @@
  * together in edges.
  * 
  */
-public class Solution {
+class Solution {
     public boolean validTree(int n, int[][] edges) {
         
     }

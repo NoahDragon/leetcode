@@ -1,11 +1,12 @@
 /*
  * [13] Roman to Integer
  *
- * https://leetcode.com/problems/roman-to-integer
+ * https://leetcode.com/problems/roman-to-integer/description/
  *
- * Easy (45.39%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (47.62%)
+ * Total Accepted:    210.1K
+ * Total Submissions: 441.2K
  * Testcase Example:  '"DCXXI"'
  *
  * Given a roman numeral, convert it to an integer.

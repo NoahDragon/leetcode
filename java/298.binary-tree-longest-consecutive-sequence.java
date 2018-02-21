@@ -1,11 +1,12 @@
 /*
  * [298] Binary Tree Longest Consecutive Sequence
  *
- * https://leetcode.com/problems/binary-tree-longest-consecutive-sequence
+ * https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/
  *
- * Medium (40.65%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (41.68%)
+ * Total Accepted:    41.2K
+ * Total Submissions: 98.9K
  * Testcase Example:  '[1,null,3,2,4,null,null,null,5]'
  *
  * 
@@ -52,7 +53,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public int longestConsecutive(TreeNode root) {
         
     }

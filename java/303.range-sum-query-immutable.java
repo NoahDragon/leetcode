@@ -1,11 +1,12 @@
 /*
  * [303] Range Sum Query - Immutable
  *
- * https://leetcode.com/problems/range-sum-query-immutable
+ * https://leetcode.com/problems/range-sum-query-immutable/description/
  *
- * Easy (29.03%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (31.72%)
+ * Total Accepted:    89.1K
+ * Total Submissions: 280.8K
  * Testcase Example:  '["NumArray","sumRange","sumRange","sumRange"]\n[[[-2,0,3,-5,2,-1]],[0,2],[2,5],[0,5]]'
  *
  * Given an integer array nums, find the sum of the elements between indices i
@@ -28,7 +29,7 @@
  * 
  * 
  */
-public class NumArray {
+class NumArray {
 
     public NumArray(int[] nums) {
         

@@ -1,11 +1,12 @@
 #
 # [335] Self Crossing
 #
-# https://leetcode.com/problems/self-crossing
+# https://leetcode.com/problems/self-crossing/description/
 #
-# Hard (25.00%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (25.98%)
+# Total Accepted:    15.9K
+# Total Submissions: 61.3K
 # Testcase Example:  '[2,1,1,2]'
 #
 # 

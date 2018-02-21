@@ -1,11 +1,12 @@
 /*
  * [499] The Maze III
  *
- * https://leetcode.com/problems/the-maze-iii
+ * https://leetcode.com/problems/the-maze-iii/description/
  *
- * Hard (31.69%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (33.66%)
+ * Total Accepted:    4.7K
+ * Total Submissions: 13.9K
  * Testcase Example:  '[[0,0,0,0,0],[1,1,0,0,1],[0,0,0,0,0],[0,1,0,0,1],[0,1,0,0,0]]\n[4,3]\n[0,1]'
  *
  * There is a ball in a maze with empty spaces and walls. The ball can go

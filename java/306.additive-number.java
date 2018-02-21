@@ -1,11 +1,12 @@
 /*
  * [306] Additive Number
  *
- * https://leetcode.com/problems/additive-number
+ * https://leetcode.com/problems/additive-number/description/
  *
- * Medium (27.56%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (27.72%)
+ * Total Accepted:    29.8K
+ * Total Submissions: 107.3K
  * Testcase Example:  '"112358"'
  *
  * Additive number is a string whose digits can form additive sequence.
@@ -40,7 +41,7 @@
  * Credits:Special thanks to @jeantimex for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public boolean isAdditiveNumber(String num) {
         
     }

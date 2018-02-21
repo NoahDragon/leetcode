@@ -1,11 +1,12 @@
 /*
  * [362] Design Hit Counter
  *
- * https://leetcode.com/problems/design-hit-counter
+ * https://leetcode.com/problems/design-hit-counter/description/
  *
- * Medium (53.48%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (54.99%)
+ * Total Accepted:    22.7K
+ * Total Submissions: 41.3K
  * Testcase Example:  '["HitCounter","hit","hit","hit","getHits","hit","getHits","getHits"]\n[[],[1],[2],[3],[4],[300],[300],[301]]'
  *
  * Design a hit counter which counts the number of hits received in the past 5
@@ -53,7 +54,7 @@
  * Credits:Special thanks to @elmirap for adding this problem and creating all
  * test cases.
  */
-public class HitCounter {
+class HitCounter {
 
     /** Initialize your data structure here. */
     public HitCounter() {

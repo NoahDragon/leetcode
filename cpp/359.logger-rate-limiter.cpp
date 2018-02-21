@@ -1,11 +1,12 @@
 /*
  * [359] Logger Rate Limiter
  *
- * https://leetcode.com/problems/logger-rate-limiter
+ * https://leetcode.com/problems/logger-rate-limiter/description/
  *
- * Easy (59.41%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (60.49%)
+ * Total Accepted:    23.6K
+ * Total Submissions: 39K
  * Testcase Example:  '["Logger","shouldPrintMessage","shouldPrintMessage","shouldPrintMessage","shouldPrintMessage","shouldPrintMessage","shouldPrintMessage"]\n[[],[1,"foo"],[2,"bar"],[3,"foo"],[8,"bar"],[10,"foo"],[11,"foo"]]'
  *
  * Design a logger system that receive stream of messages along with its

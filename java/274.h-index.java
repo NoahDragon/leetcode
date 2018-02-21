@@ -1,11 +1,12 @@
 /*
  * [274] H-Index
  *
- * https://leetcode.com/problems/h-index
+ * https://leetcode.com/problems/h-index/description/
  *
- * Medium (32.96%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (33.72%)
+ * Total Accepted:    92.4K
+ * Total Submissions: 273.9K
  * Testcase Example:  '[]'
  *
  * 
@@ -35,7 +36,7 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
-public class Solution {
+class Solution {
     public int hIndex(int[] citations) {
         
     }

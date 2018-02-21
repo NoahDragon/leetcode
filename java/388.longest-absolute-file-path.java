@@ -1,11 +1,12 @@
 /*
  * [388] Longest Absolute File Path
  *
- * https://leetcode.com/problems/longest-absolute-file-path
+ * https://leetcode.com/problems/longest-absolute-file-path/description/
  *
- * Medium (36.20%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (37.16%)
+ * Total Accepted:    42.9K
+ * Total Submissions: 115.5K
  * Testcase Example:  '"dir\\n\\tsubdir1\\n\\tsubdir2\\n\\t\\tfile.ext"'
  *
  * Suppose we abstract our file system by a string in the following manner:
@@ -60,7 +61,7 @@
  * Notice that a/aa/aaa/file1.txt is not the longest file path, if there is
  * another path aaaaaaaaaaaaaaaaaaaaa/sth.png.
  */
-public class Solution {
+class Solution {
     public int lengthLongestPath(String input) {
         
     }

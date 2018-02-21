@@ -1,11 +1,12 @@
 /*
  * [399] Evaluate Division
  *
- * https://leetcode.com/problems/evaluate-division
+ * https://leetcode.com/problems/evaluate-division/description/
  *
- * Medium (40.70%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (42.21%)
+ * Total Accepted:    26K
+ * Total Submissions: 61.6K
  * Testcase Example:  '[ ["a","b"],["b","c"] ]\n[2.0,3.0]\n[ ["a","c"],["b","c"],["a","e"],["a","a"],["x","x"] ]'
  *
  * 
@@ -37,7 +38,7 @@
  * result in no division by zero and there is no contradiction.
  * 
  */
-public class Solution {
+class Solution {
     public double[] calcEquation(String[][] equations, double[] values, String[][] queries) {
         
     }

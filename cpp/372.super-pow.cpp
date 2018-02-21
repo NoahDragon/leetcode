@@ -1,11 +1,12 @@
 /*
  * [372] Super Pow
  *
- * https://leetcode.com/problems/super-pow
+ * https://leetcode.com/problems/super-pow/description/
  *
- * Medium (34.15%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (34.61%)
+ * Total Accepted:    19.9K
+ * Total Submissions: 57.4K
  * Testcase Example:  '2\n[3]'
  *
  * 

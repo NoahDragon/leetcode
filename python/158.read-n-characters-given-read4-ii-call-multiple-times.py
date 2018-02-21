@@ -1,11 +1,12 @@
 #
 # [158] Read N Characters Given Read4 II - Call multiple times
 #
-# https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+# https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/
 #
-# Hard (24.16%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (24.75%)
+# Total Accepted:    38.2K
+# Total Submissions: 154.3K
 # Testcase Example:  '""\n[read(0)]'
 #
 # 

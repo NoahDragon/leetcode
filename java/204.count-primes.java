@@ -1,11 +1,12 @@
 /*
  * [204] Count Primes
  *
- * https://leetcode.com/problems/count-primes
+ * https://leetcode.com/problems/count-primes/description/
  *
- * Easy (26.50%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (26.58%)
+ * Total Accepted:    145.4K
+ * Total Submissions: 547K
  * Testcase Example:  '0'
  *
  * Description:
@@ -14,7 +15,7 @@
  * Credits:Special thanks to @mithmatt for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public int countPrimes(int n) {
         
     }

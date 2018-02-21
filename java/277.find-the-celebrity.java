@@ -1,11 +1,12 @@
 /*
  * [277] Find the Celebrity
  *
- * https://leetcode.com/problems/find-the-celebrity
+ * https://leetcode.com/problems/find-the-celebrity/description/
  *
- * Medium (35.26%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (35.71%)
+ * Total Accepted:    44.3K
+ * Total Submissions: 124.1K
  * Testcase Example:  '0 does not know 1; 1 does not know 0.'
  *
  * 

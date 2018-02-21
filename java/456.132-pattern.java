@@ -1,11 +1,12 @@
 /*
  * [456] 132 Pattern
  *
- * https://leetcode.com/problems/132-pattern
+ * https://leetcode.com/problems/132-pattern/description/
  *
- * Medium (28.49%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (28.11%)
+ * Total Accepted:    16.4K
+ * Total Submissions: 58.3K
  * Testcase Example:  '[1,2,3,4]'
  *
  * 
@@ -47,7 +48,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean find132pattern(int[] nums) {
         
     }

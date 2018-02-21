@@ -1,11 +1,12 @@
 /*
  * [94] Binary Tree Inorder Traversal
  *
- * https://leetcode.com/problems/binary-tree-inorder-traversal
+ * https://leetcode.com/problems/binary-tree-inorder-traversal/description/
  *
- * Medium (46.14%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (48.97%)
+ * Total Accepted:    257.4K
+ * Total Submissions: 525.7K
  * Testcase Example:  '[1,null,2,3]'
  *
  * Given a binary tree, return the inorder traversal of its nodes' values.
@@ -36,7 +37,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         
     }

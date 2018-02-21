@@ -1,11 +1,12 @@
 /*
  * [493] Reverse Pairs
  *
- * https://leetcode.com/problems/reverse-pairs
+ * https://leetcode.com/problems/reverse-pairs/description/
  *
- * Hard (19.89%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (20.94%)
+ * Total Accepted:    10.2K
+ * Total Submissions: 48.6K
  * Testcase Example:  '[1,3,2,3,1]'
  *
  * Given an array nums, we call (i, j) an important reverse pair if i < j and
@@ -33,7 +34,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int reversePairs(int[] nums) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [115] Distinct Subsequences
  *
- * https://leetcode.com/problems/distinct-subsequences
+ * https://leetcode.com/problems/distinct-subsequences/description/
  *
- * Hard (31.36%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (32.12%)
+ * Total Accepted:    80.3K
+ * Total Submissions: 250K
  * Testcase Example:  '""\n"a"'
  *
  * 
@@ -28,7 +29,7 @@
  * Return 3.
  * 
  */
-public class Solution {
+class Solution {
     public int numDistinct(String s, String t) {
         
     }

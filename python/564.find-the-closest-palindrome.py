@@ -1,11 +1,12 @@
 #
 # [564] Find the Closest Palindrome
 #
-# https://leetcode.com/problems/find-the-closest-palindrome
+# https://leetcode.com/problems/find-the-closest-palindrome/description/
 #
-# Hard (16.52%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (17.61%)
+# Total Accepted:    5.2K
+# Total Submissions: 29.3K
 # Testcase Example:  '"1"'
 #
 # Given an integer n, find the closest integer (not including itself), which is

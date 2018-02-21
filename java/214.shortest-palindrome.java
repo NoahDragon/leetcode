@@ -1,11 +1,12 @@
 /*
  * [214] Shortest Palindrome
  *
- * https://leetcode.com/problems/shortest-palindrome
+ * https://leetcode.com/problems/shortest-palindrome/description/
  *
- * Hard (24.03%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (25.03%)
+ * Total Accepted:    50.2K
+ * Total Submissions: 200.5K
  * Testcase Example:  '"aacecaaa"'
  *
  * 
@@ -21,7 +22,7 @@
  * Credits:Special thanks to @ifanchu for adding this problem and creating all
  * test cases. Thanks to @Freezen for additional test cases.
  */
-public class Solution {
+class Solution {
     public String shortestPalindrome(String s) {
         
     }

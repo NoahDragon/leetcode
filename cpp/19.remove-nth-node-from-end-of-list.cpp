@@ -1,16 +1,16 @@
 /*
  * [19] Remove Nth Node From End of List
  *
- * https://leetcode.com/problems/remove-nth-node-from-end-of-list
+ * https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
  *
- * Medium (33.25%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '[1]\n1'
+ * algorithms
+ * Medium (34.11%)
+ * Total Accepted:    228.4K
+ * Total Submissions: 669.5K
+ * Testcase Example:  '[1,2,3,4,5]\n2'
  *
  * Given a linked list, remove the nth node from the end of list and return its
  * head.
- * 
  * 
  * For example,
  * 
@@ -19,7 +19,6 @@
  * 
  * ⁠  After removing the second node from the end, the linked list becomes
  * 1->2->3->5.
- * 
  * 
  * 
  * Note:

@@ -1,11 +1,12 @@
 /*
  * [423] Reconstruct Original Digits from English
  *
- * https://leetcode.com/problems/reconstruct-original-digits-from-english
+ * https://leetcode.com/problems/reconstruct-original-digits-from-english/description/
  *
- * Medium (43.70%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (44.54%)
+ * Total Accepted:    13.9K
+ * Total Submissions: 31.1K
  * Testcase Example:  '"owoztneoer"'
  *
  * Given a non-empty string containing an out-of-order English representation

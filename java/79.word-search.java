@@ -1,12 +1,13 @@
 /*
  * [79] Word Search
  *
- * https://leetcode.com/problems/word-search
+ * https://leetcode.com/problems/word-search/description/
  *
- * Medium (26.49%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '["ABCE","SFCS","ADEE"]\n"ABCCED"'
+ * algorithms
+ * Medium (27.91%)
+ * Total Accepted:    165.5K
+ * Total Submissions: 592.9K
+ * Testcase Example:  '[["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]]\n"ABCCED"'
  *
  * 
  * Given a 2D board and a word, find if the word exists in the grid.
@@ -33,7 +34,7 @@
  * word = "ABCB", -> returns false.
  * 
  */
-public class Solution {
+class Solution {
     public boolean exist(char[][] board, String word) {
         
     }

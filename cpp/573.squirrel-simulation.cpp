@@ -1,11 +1,12 @@
 /*
  * [573] Squirrel Simulation
  *
- * https://leetcode.com/problems/squirrel-simulation
+ * https://leetcode.com/problems/squirrel-simulation/description/
  *
- * Medium (50.94%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (52.72%)
+ * Total Accepted:    3.8K
+ * Total Submissions: 7.2K
  * Testcase Example:  '5\n7\n[2,2]\n[4,4]\n[[3,0], [2,5]]'
  *
  * There's a tree, a squirrel, and several nuts. Positions are represented by
@@ -34,7 +35,7 @@
  * All given positions won't overlap.
  * The squirrel can take at most one nut at one time.
  * The given positions of nuts have no order.
- * Height and width are positive integers. 3 <= height * width <= 10,000.
+ * Height and width are positive integers. 3 
  * The given positions contain at least one nut, only one tree and one
  * squirrel.
  * 

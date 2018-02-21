@@ -1,12 +1,13 @@
 /*
  * [31] Next Permutation
  *
- * https://leetcode.com/problems/next-permutation
+ * https://leetcode.com/problems/next-permutation/description/
  *
- * Medium (28.70%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '[1]'
+ * algorithms
+ * Medium (29.01%)
+ * Total Accepted:    141.3K
+ * Total Submissions: 487.1K
+ * Testcase Example:  '[1,2,3]'
  *
  * 
  * Implement next permutation, which rearranges numbers into the
@@ -27,7 +28,7 @@
  * 1,1,5 → 1,5,1
  * 
  */
-public class Solution {
+class Solution {
     public void nextPermutation(int[] nums) {
         
     }

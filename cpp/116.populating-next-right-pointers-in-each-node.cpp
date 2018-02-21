@@ -1,11 +1,12 @@
 /*
  * [116] Populating Next Right Pointers in Each Node
  *
- * https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+ * https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
  *
- * Medium (36.94%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (36.91%)
+ * Total Accepted:    163.6K
+ * Total Submissions: 443.2K
  * Testcase Example:  '{}'
  *
  * 

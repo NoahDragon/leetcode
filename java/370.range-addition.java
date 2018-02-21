@@ -1,11 +1,12 @@
 /*
  * [370] Range Addition
  *
- * https://leetcode.com/problems/range-addition
+ * https://leetcode.com/problems/range-addition/description/
  *
- * Medium (55.07%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (56.99%)
+ * Total Accepted:    16K
+ * Total Submissions: 28.1K
  * Testcase Example:  '5\n[[1,3,2],[2,4,3],[0,2,-2]]'
  *
  * Assume you have an array of length n initialized with all 0's and are given
@@ -53,7 +54,7 @@
  * Credits:Special thanks to @vinod23 for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public int[] getModifiedArray(int length, int[][] updates) {
         
     }

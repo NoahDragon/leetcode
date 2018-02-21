@@ -1,11 +1,12 @@
 /*
  * [226] Invert Binary Tree
  *
- * https://leetcode.com/problems/invert-binary-tree
+ * https://leetcode.com/problems/invert-binary-tree/description/
  *
- * Easy (51.48%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (53.02%)
+ * Total Accepted:    217.7K
+ * Total Submissions: 410.7K
  * Testcase Example:  '[]'
  *
  * Invert a binary tree.
@@ -36,7 +37,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public TreeNode invertTree(TreeNode root) {
         
     }

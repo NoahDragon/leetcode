@@ -1,11 +1,12 @@
 /*
  * [318] Maximum Product of Word Lengths
  *
- * https://leetcode.com/problems/maximum-product-of-word-lengths
+ * https://leetcode.com/problems/maximum-product-of-word-lengths/description/
  *
- * Medium (43.89%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (45.41%)
+ * Total Accepted:    59.7K
+ * Total Submissions: 131.6K
  * Testcase Example:  '["abcw","baz","foo","bar","xtfn","abcdef"]'
  *
  * 

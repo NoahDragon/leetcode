@@ -1,11 +1,12 @@
 /*
  * [465] Optimal Account Balancing
  *
- * https://leetcode.com/problems/optimal-account-balancing
+ * https://leetcode.com/problems/optimal-account-balancing/description/
  *
- * Hard (35.41%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (38.97%)
+ * Total Accepted:    7.1K
+ * Total Submissions: 18.3K
  * Testcase Example:  '[[0,1,10],[2,0,5]]'
  *
  * A group of friends went on holiday and sometimes lent each other money. For
@@ -20,7 +21,7 @@
  * 
  * Note:
  * 
- * A transaction will be given as a tuple (x, y, z). Note that x ? y and z > 0.
+ * A transaction will be given as a tuple (x, y, z). Note that x ≠ y and z > 0.
  * Person's IDs may not be linear, e.g. we could have the persons 0, 1, 2 or we
  * could also have the persons 0, 2, 6.
  * 
@@ -62,7 +63,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int minTransfers(int[][] transactions) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [23] Merge k Sorted Lists
  *
- * https://leetcode.com/problems/merge-k-sorted-lists
+ * https://leetcode.com/problems/merge-k-sorted-lists/description/
  *
- * Hard (27.01%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (28.02%)
+ * Total Accepted:    203.4K
+ * Total Submissions: 726.1K
  * Testcase Example:  '[]'
  *
  * 

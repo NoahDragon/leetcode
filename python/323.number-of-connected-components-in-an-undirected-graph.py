@@ -1,11 +1,12 @@
 #
 # [323] Number of Connected Components in an Undirected Graph
 #
-# https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
+# https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/
 #
-# Medium (47.78%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (48.78%)
+# Total Accepted:    34.3K
+# Total Submissions: 70.2K
 # Testcase Example:  '5\n[[0,1],[1,2],[3,4]]'
 #
 # 

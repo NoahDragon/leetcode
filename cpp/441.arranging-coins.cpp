@@ -1,11 +1,12 @@
 /*
  * [441] Arranging Coins
  *
- * https://leetcode.com/problems/arranging-coins
+ * https://leetcode.com/problems/arranging-coins/description/
  *
- * Easy (36.26%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (36.39%)
+ * Total Accepted:    41.8K
+ * Total Submissions: 115K
  * Testcase Example:  '5'
  *
  * You have a total of n coins that you want to form in a staircase shape,

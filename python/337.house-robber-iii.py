@@ -1,11 +1,12 @@
 #
 # [337] House Robber III
 #
-# https://leetcode.com/problems/house-robber-iii
+# https://leetcode.com/problems/house-robber-iii/description/
 #
-# Medium (43.05%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (44.52%)
+# Total Accepted:    59.5K
+# Total Submissions: 133.8K
 # Testcase Example:  '[3,2,3,null,3,null,1]'
 #
 # 

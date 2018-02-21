@@ -1,11 +1,12 @@
 #
 # [606] Construct String from Binary Tree
 #
-# https://leetcode.com/problems/construct-string-from-binary-tree
+# https://leetcode.com/problems/construct-string-from-binary-tree/description/
 #
-# Easy (51.43%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (49.76%)
+# Total Accepted:    29.7K
+# Total Submissions: 59.8K
 # Testcase Example:  '[1,2,3,4]'
 #
 # You need to construct a string consists of parenthesis and integers from a

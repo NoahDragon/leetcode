@@ -1,11 +1,12 @@
 #
 # [3] Longest Substring Without Repeating Characters
 #
-# https://leetcode.com/problems/longest-substring-without-repeating-characters
+# https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 #
-# Medium (24.21%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (24.62%)
+# Total Accepted:    434K
+# Total Submissions: 1.8M
 # Testcase Example:  '"abcabcbb"'
 #
 # Given a string, find the length of the longest substring without repeating

@@ -1,11 +1,12 @@
 #
 # [435] Non-overlapping Intervals
 #
-# https://leetcode.com/problems/non-overlapping-intervals
+# https://leetcode.com/problems/non-overlapping-intervals/description/
 #
-# Medium (40.88%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (41.48%)
+# Total Accepted:    19.7K
+# Total Submissions: 47.4K
 # Testcase Example:  '[[1,2]]'
 #
 # 

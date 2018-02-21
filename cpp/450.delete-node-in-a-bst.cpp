@@ -1,11 +1,12 @@
 /*
  * [450] Delete Node in a BST
  *
- * https://leetcode.com/problems/delete-node-in-a-bst
+ * https://leetcode.com/problems/delete-node-in-a-bst/description/
  *
- * Medium (36.34%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (37.63%)
+ * Total Accepted:    29.6K
+ * Total Submissions: 78.7K
  * Testcase Example:  '[5,3,6,2,4,null,7]\n3'
  *
  * Given a root node reference of a BST and a key, delete the node with the

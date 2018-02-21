@@ -1,11 +1,12 @@
 /*
  * [582] Kill Process
  *
- * https://leetcode.com/problems/kill-process
+ * https://leetcode.com/problems/kill-process/description/
  *
- * Medium (47.74%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (50.54%)
+ * Total Accepted:    11.1K
+ * Total Submissions: 21.9K
  * Testcase Example:  '[1,3,10,5]\n[3,0,5,3]\n5'
  *
  * Given n processes, each process has a unique PID (process id) and its PPID

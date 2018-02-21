@@ -1,11 +1,12 @@
 #
 # [269] Alien Dictionary
 #
-# https://leetcode.com/problems/alien-dictionary
+# https://leetcode.com/problems/alien-dictionary/description/
 #
-# Hard (23.47%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (26.03%)
+# Total Accepted:    37.4K
+# Total Submissions: 143.7K
 # Testcase Example:  '["wrt","wrf","er","ett","rftt"]'
 #
 # 

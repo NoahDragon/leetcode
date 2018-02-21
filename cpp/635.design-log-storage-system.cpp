@@ -1,11 +1,12 @@
 /*
  * [635] Design Log Storage System
  *
- * https://leetcode.com/problems/design-log-storage-system
+ * https://leetcode.com/problems/design-log-storage-system/description/
  *
- * Medium (47.09%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (49.36%)
+ * Total Accepted:    4.4K
+ * Total Submissions: 8.8K
  * Testcase Example:  '["LogSystem","put","put","put","retrieve","retrieve"]\n[[],[1,"2017:01:01:23:59:59"],[2,"2017:01:01:22:59:59"],[3,"2016:01:01:00:00:00"],["2016:01:01:01:01:01","2017:01:01:23:00:00","Year"],["2016:01:01:01:01:01","2017:01:01:23:00:00","Hour"]]'
  *
  * You are given several logs that each log contains a unique id and timestamp.

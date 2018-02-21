@@ -1,11 +1,12 @@
 /*
  * [319] Bulb Switcher
  *
- * https://leetcode.com/problems/bulb-switcher
+ * https://leetcode.com/problems/bulb-switcher/description/
  *
- * Medium (42.35%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (42.93%)
+ * Total Accepted:    46.3K
+ * Total Submissions: 108K
  * Testcase Example:  '0'
  *
  * 
@@ -29,7 +30,7 @@
  * So you should return 1, because there is only one bulb is on.
  * 
  */
-public class Solution {
+class Solution {
     public int bulbSwitch(int n) {
         
     }

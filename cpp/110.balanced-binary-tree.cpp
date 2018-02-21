@@ -1,20 +1,51 @@
 /*
  * [110] Balanced Binary Tree
  *
- * https://leetcode.com/problems/balanced-binary-tree
+ * https://leetcode.com/problems/balanced-binary-tree/description/
  *
- * Easy (37.27%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '[]'
+ * algorithms
+ * Easy (38.24%)
+ * Total Accepted:    213.6K
+ * Total Submissions: 558.6K
+ * Testcase Example:  '[3,9,20,null,null,15,7]'
  *
  * Given a binary tree, determine if it is height-balanced.
  * 
+ * For this problem, a height-balanced binary tree is defined as:
  * 
  * 
- * For this problem, a height-balanced binary tree is defined as a binary tree
- * in which the depth of the two subtrees of every node never differ by more
- * than 1.
+ * a binary tree in which the depth of the two subtrees of every node never
+ * differ by more than 1.
+ * 
+ * 
+ * Example 1:
+ * 
+ * Given the following tree [3,9,20,null,null,15,7]:
+ * 
+ * 
+ * ⁠   3
+ * ⁠  / \
+ * ⁠ 9  20
+ * ⁠   /  \
+ * ⁠  15   7
+ * 
+ * Return true.
+ * 
+ * Example 2:
+ * 
+ * Given the following tree [1,2,2,3,3,null,null,4,4]:
+ * 
+ * 
+ * ⁠      1
+ * ⁠     / \
+ * ⁠    2   2
+ * ⁠   / \
+ * ⁠  3   3
+ * ⁠ / \
+ * ⁠4   4
+ * 
+ * 
+ * Return false.
  * 
  */
 /**

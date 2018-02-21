@@ -1,11 +1,12 @@
 /*
  * [118] Pascal's Triangle
  *
- * https://leetcode.com/problems/pascals-triangle
+ * https://leetcode.com/problems/pascals-triangle/description/
  *
- * Easy (38.23%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (39.78%)
+ * Total Accepted:    161.7K
+ * Total Submissions: 406.4K
  * Testcase Example:  '0'
  *
  * Given numRows, generate the first numRows of Pascal's triangle.
@@ -24,7 +25,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public List<List<Integer>> generate(int numRows) {
         
     }

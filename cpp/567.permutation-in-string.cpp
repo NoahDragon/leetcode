@@ -1,11 +1,12 @@
 /*
  * [567] Permutation in String
  *
- * https://leetcode.com/problems/permutation-in-string
+ * https://leetcode.com/problems/permutation-in-string/description/
  *
- * Medium (36.46%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (36.53%)
+ * Total Accepted:    18.4K
+ * Total Submissions: 50.4K
  * Testcase Example:  '"ab"\n"eidbaooo"'
  *
  * Given two strings s1 and s2, write a function to return true if s2 contains

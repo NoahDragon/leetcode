@@ -1,11 +1,12 @@
 /*
  * [210] Course Schedule II
  *
- * https://leetcode.com/problems/course-schedule-ii
+ * https://leetcode.com/problems/course-schedule-ii/description/
  *
- * Medium (27.49%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (29.90%)
+ * Total Accepted:    84.6K
+ * Total Submissions: 282.9K
  * Testcase Example:  '2\n[[1,0]]'
  *
  * 
@@ -55,7 +56,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         
     }

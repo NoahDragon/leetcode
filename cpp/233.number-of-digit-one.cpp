@@ -1,11 +1,12 @@
 /*
  * [233] Number of Digit One
  *
- * https://leetcode.com/problems/number-of-digit-one
+ * https://leetcode.com/problems/number-of-digit-one/description/
  *
- * Hard (28.20%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (28.92%)
+ * Total Accepted:    33.3K
+ * Total Submissions: 115K
  * Testcase Example:  '-1'
  *
  * Given an integer n, count the total number of digit 1 appearing in all

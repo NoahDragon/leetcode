@@ -1,11 +1,12 @@
 /*
  * [2] Add Two Numbers
  *
- * https://leetcode.com/problems/add-two-numbers
+ * https://leetcode.com/problems/add-two-numbers/description/
  *
- * Medium (27.52%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (28.43%)
+ * Total Accepted:    438.7K
+ * Total Submissions: 1.5M
  * Testcase Example:  '[2,4,3]\n[5,6,4]'
  *
  * You are given two non-empty linked lists representing two non-negative
@@ -16,8 +17,13 @@
  * number 0 itself.
  * 
  * 
+ * Example
+ * 
  * Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
  * Output: 7 -> 0 -> 8
+ * Explanation: 342 + 465 = 807.
+ * 
+ * 
  */
 /**
  * Definition for singly-linked list.
@@ -27,7 +33,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [451] Sort Characters By Frequency
  *
- * https://leetcode.com/problems/sort-characters-by-frequency
+ * https://leetcode.com/problems/sort-characters-by-frequency/description/
  *
- * Medium (50.74%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (51.58%)
+ * Total Accepted:    47.3K
+ * Total Submissions: 91.7K
  * Testcase Example:  '"tree"'
  *
  * Given a string, sort it in decreasing order based on the frequency of
@@ -54,7 +55,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public String frequencySort(String s) {
         
     }

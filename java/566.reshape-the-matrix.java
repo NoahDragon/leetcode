@@ -1,11 +1,12 @@
 /*
  * [566] Reshape the Matrix
  *
- * https://leetcode.com/problems/reshape-the-matrix
+ * https://leetcode.com/problems/reshape-the-matrix/description/
  *
- * Easy (59.85%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (57.90%)
+ * Total Accepted:    42.7K
+ * Total Submissions: 73.8K
  * Testcase Example:  '[[1,2],[3,4]]\n1\n4'
  *
  * In MATLAB, there is a very useful function called 'reshape', which can
@@ -63,7 +64,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int[][] matrixReshape(int[][] nums, int r, int c) {
         
     }

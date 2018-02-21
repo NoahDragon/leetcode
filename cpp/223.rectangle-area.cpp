@@ -1,11 +1,12 @@
 /*
  * [223] Rectangle Area
  *
- * https://leetcode.com/problems/rectangle-area
+ * https://leetcode.com/problems/rectangle-area/description/
  *
- * Medium (32.73%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (33.62%)
+ * Total Accepted:    69.5K
+ * Total Submissions: 206.9K
  * Testcase Example:  '-2\n-2\n2\n2\n-2\n-2\n2\n2'
  *
  * Find the total area covered by two rectilinear rectangles in a 2D plane.

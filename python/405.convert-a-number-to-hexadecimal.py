@@ -1,11 +1,12 @@
 #
 # [405] Convert a Number to Hexadecimal
 #
-# https://leetcode.com/problems/convert-a-number-to-hexadecimal
+# https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/
 #
-# Easy (41.04%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (41.08%)
+# Total Accepted:    32.1K
+# Total Submissions: 78.1K
 # Testcase Example:  '26'
 #
 # 

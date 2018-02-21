@@ -1,11 +1,12 @@
 /*
  * [453] Minimum Moves to Equal Array Elements
  *
- * https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+ * https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/
  *
- * Easy (47.17%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (48.06%)
+ * Total Accepted:    38.7K
+ * Total Submissions: 80.6K
  * Testcase Example:  '[1,2,3]'
  *
  * Given a non-empty integer array of size n, find the minimum number of moves
@@ -27,7 +28,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int minMoves(int[] nums) {
         
     }

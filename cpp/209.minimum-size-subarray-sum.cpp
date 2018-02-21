@@ -1,16 +1,17 @@
 /*
  * [209] Minimum Size Subarray Sum
  *
- * https://leetcode.com/problems/minimum-size-subarray-sum
+ * https://leetcode.com/problems/minimum-size-subarray-sum/description/
  *
- * Medium (30.30%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (31.91%)
+ * Total Accepted:    109K
+ * Total Submissions: 341.6K
  * Testcase Example:  '7\n[2,3,1,2,4,3]'
  *
  * 
  * Given an array of n positive integers and a positive integer s, find the
- * minimal length of a contiguous subarray of which the sum ? s. If there isn't
+ * minimal length of a contiguous subarray of which the sum ≥ s. If there isn't
  * one, return 0 instead.
  * 
  * 

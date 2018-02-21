@@ -1,19 +1,26 @@
 /*
  * [61] Rotate List
  *
- * https://leetcode.com/problems/rotate-list
+ * https://leetcode.com/problems/rotate-list/description/
  *
- * Medium (24.32%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '[]\n0'
+ * algorithms
+ * Medium (24.42%)
+ * Total Accepted:    130.7K
+ * Total Submissions: 535.2K
+ * Testcase Example:  '[1,2,3,4,5]\n2'
  *
  * Given a list, rotate the list to the right by k places, where k is
  * non-negative.
  * 
- * For example:
+ * 
+ * 
+ * Example:
+ * 
  * Given 1->2->3->4->5->NULL and k = 2,
+ * 
  * return 4->5->1->2->3->NULL.
+ * 
+ * 
  */
 /**
  * Definition for singly-linked list.

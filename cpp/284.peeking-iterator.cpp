@@ -1,11 +1,12 @@
 /*
  * [284] Peeking Iterator
  *
- * https://leetcode.com/problems/peeking-iterator
+ * https://leetcode.com/problems/peeking-iterator/description/
  *
- * Medium (35.36%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (35.54%)
+ * Total Accepted:    52.1K
+ * Total Submissions: 146.5K
  * Testcase Example:  '[1,2,3,4]\n[0,1,1,2,2,1,1,2,0,1,0,2,0]'
  *
  * Given an Iterator class interface with methods: next() and hasNext(), design

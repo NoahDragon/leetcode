@@ -1,11 +1,12 @@
 #
 # [341] Flatten Nested List Iterator
 #
-# https://leetcode.com/problems/flatten-nested-list-iterator
+# https://leetcode.com/problems/flatten-nested-list-iterator/description/
 #
-# Medium (41.07%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (42.92%)
+# Total Accepted:    58K
+# Total Submissions: 135.1K
 # Testcase Example:  '[[1,1],2,[1,1]]'
 #
 # Given a nested list of integers, implement an iterator to flatten it.

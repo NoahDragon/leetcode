@@ -1,11 +1,12 @@
 /*
  * [447] Number of Boomerangs
  *
- * https://leetcode.com/problems/number-of-boomerangs
+ * https://leetcode.com/problems/number-of-boomerangs/description/
  *
- * Easy (44.68%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (46.34%)
+ * Total Accepted:    33.2K
+ * Total Submissions: 71.7K
  * Testcase Example:  '[[0,0],[1,0],[2,0]]'
  *
  * Given n points in the plane that are all pairwise distinct, a "boomerang" is
@@ -28,7 +29,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int numberOfBoomerangs(int[][] points) {
         
     }

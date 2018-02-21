@@ -1,11 +1,12 @@
 /*
  * [599] Minimum Index Sum of Two Lists
  *
- * https://leetcode.com/problems/minimum-index-sum-of-two-lists
+ * https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
  *
- * Easy (47.90%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (46.45%)
+ * Total Accepted:    26.4K
+ * Total Submissions: 56.9K
  * Testcase Example:  '["Shogun","Tapioca Express","Burger King","KFC"]\n["Piatti","The Grill at Torrey Pines","Hungry Hunter Steakhouse","Shogun"]'
  *
  * 

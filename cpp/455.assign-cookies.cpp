@@ -1,11 +1,12 @@
 /*
  * [455] Assign Cookies
  *
- * https://leetcode.com/problems/assign-cookies
+ * https://leetcode.com/problems/assign-cookies/description/
  *
- * Easy (47.08%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (47.26%)
+ * Total Accepted:    38.2K
+ * Total Submissions: 80.9K
  * Testcase Example:  '[1,2,3]\n[1,1]'
  *
  * 

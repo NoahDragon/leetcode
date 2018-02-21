@@ -1,11 +1,12 @@
 /*
  * [474] Ones and Zeroes
  *
- * https://leetcode.com/problems/ones-and-zeroes
+ * https://leetcode.com/problems/ones-and-zeroes/description/
  *
- * Medium (38.54%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (39.01%)
+ * Total Accepted:    18.6K
+ * Total Submissions: 47.7K
  * Testcase Example:  '["10","0001","111001","1","0"]\n5\n3'
  *
  * In the computer world, use restricted resource you have to generate maximum
@@ -46,7 +47,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int findMaxForm(String[] strs, int m, int n) {
         
     }

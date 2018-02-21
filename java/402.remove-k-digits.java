@@ -1,11 +1,12 @@
 /*
  * [402] Remove K Digits
  *
- * https://leetcode.com/problems/remove-k-digits
+ * https://leetcode.com/problems/remove-k-digits/description/
  *
- * Medium (26.17%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (26.06%)
+ * Total Accepted:    28.5K
+ * Total Submissions: 109.4K
  * Testcase Example:  '"1432219"\n3'
  *
  * Given a non-negative integer num represented as a string, remove k digits
@@ -47,7 +48,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public String removeKdigits(String num, int k) {
         
     }

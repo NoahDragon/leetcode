@@ -1,11 +1,12 @@
 #
 # [173] Binary Search Tree Iterator
 #
-# https://leetcode.com/problems/binary-search-tree-iterator
+# https://leetcode.com/problems/binary-search-tree-iterator/description/
 #
-# Medium (40.97%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (43.21%)
+# Total Accepted:    120.8K
+# Total Submissions: 279.6K
 # Testcase Example:  '[]'
 #
 # Implement an iterator over a binary search tree (BST). Your iterator will be

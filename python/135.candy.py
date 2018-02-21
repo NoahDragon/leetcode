@@ -1,11 +1,12 @@
 #
 # [135] Candy
 #
-# https://leetcode.com/problems/candy
+# https://leetcode.com/problems/candy/description/
 #
-# Hard (24.55%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (25.17%)
+# Total Accepted:    76.4K
+# Total Submissions: 303.3K
 # Testcase Example:  '[0]'
 #
 # 

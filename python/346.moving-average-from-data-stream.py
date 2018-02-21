@@ -1,11 +1,12 @@
 #
 # [346] Moving Average from Data Stream
 #
-# https://leetcode.com/problems/moving-average-from-data-stream
+# https://leetcode.com/problems/moving-average-from-data-stream/description/
 #
-# Easy (58.42%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (60.05%)
+# Total Accepted:    35.5K
+# Total Submissions: 59.1K
 # Testcase Example:  '["MovingAverage","next","next","next","next"]\n[[3],[1],[10],[3],[5]]'
 #
 # Given a stream of integers and a window size, calculate the moving average of

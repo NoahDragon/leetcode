@@ -1,11 +1,12 @@
 /*
  * [47] Permutations II
  *
- * https://leetcode.com/problems/permutations-ii
+ * https://leetcode.com/problems/permutations-ii/description/
  *
- * Medium (32.44%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (34.62%)
+ * Total Accepted:    152.9K
+ * Total Submissions: 441.7K
  * Testcase Example:  '[1,1,2]'
  *
  * 

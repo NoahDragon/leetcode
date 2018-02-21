@@ -1,11 +1,12 @@
 /*
  * [588] Design In-Memory File System
  *
- * https://leetcode.com/problems/design-in-memory-file-system
+ * https://leetcode.com/problems/design-in-memory-file-system/description/
  *
- * Hard (32.49%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (36.50%)
+ * Total Accepted:    2.4K
+ * Total Submissions: 6.6K
  * Testcase Example:  '["FileSystem","ls","mkdir","addContentToFile","ls","readContentFromFile"]\n[[],["/"],["/a/b/c"],["/a/b/c/d","hello"],["/"],["/a/b/c/d"]]'
  *
  * Design an in-memory file system to simulate the following functions:

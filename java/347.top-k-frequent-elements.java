@@ -1,11 +1,12 @@
 /*
  * [347] Top K Frequent Elements
  *
- * https://leetcode.com/problems/top-k-frequent-elements
+ * https://leetcode.com/problems/top-k-frequent-elements/description/
  *
- * Medium (47.79%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (49.46%)
+ * Total Accepted:    93.8K
+ * Total Submissions: 189.6K
  * Testcase Example:  '[1,1,1,2,2,3]\n2'
  *
  * 
@@ -17,12 +18,12 @@
  * 
  * Note: 
  * 
- * You may assume k is always valid, 1 ? k ? number of unique elements.
+ * You may assume k is always valid, 1 ≤ k ≤ number of unique elements.
  * Your algorithm's time complexity must be better than O(n log n), where n is
  * the array's size.
  * 
  */
-public class Solution {
+class Solution {
     public List<Integer> topKFrequent(int[] nums, int k) {
         
     }

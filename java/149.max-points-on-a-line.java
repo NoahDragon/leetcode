@@ -1,11 +1,12 @@
 /*
  * [149] Max Points on a Line
  *
- * https://leetcode.com/problems/max-points-on-a-line
+ * https://leetcode.com/problems/max-points-on-a-line/description/
  *
- * Hard (15.32%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (15.20%)
+ * Total Accepted:    89.8K
+ * Total Submissions: 590.8K
  * Testcase Example:  '[]'
  *
  * Given n points on a 2D plane, find the maximum number of points that lie on
@@ -20,7 +21,7 @@
  *     Point(int a, int b) { x = a; y = b; }
  * }
  */
-public class Solution {
+class Solution {
     public int maxPoints(Point[] points) {
         
     }

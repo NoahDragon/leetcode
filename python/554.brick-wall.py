@@ -1,11 +1,12 @@
 #
 # [554] Brick Wall
 #
-# https://leetcode.com/problems/brick-wall
+# https://leetcode.com/problems/brick-wall/description/
 #
-# Medium (44.44%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (46.22%)
+# Total Accepted:    19.5K
+# Total Submissions: 42.2K
 # Testcase Example:  '[[1,2,2,1],[3,1,2],[1,3,2],[2,4],[3,1,2],[1,3,1,1]]'
 #
 # There is a brick wall in front of you. The wall is rectangular and has

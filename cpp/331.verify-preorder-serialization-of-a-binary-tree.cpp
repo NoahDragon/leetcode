@@ -1,11 +1,12 @@
 /*
  * [331] Verify Preorder Serialization of a Binary Tree
  *
- * https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree
+ * https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/
  *
- * Medium (36.00%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (36.98%)
+ * Total Accepted:    43.3K
+ * Total Submissions: 117.2K
  * Testcase Example:  '"9,3,4,#,#,1,#,#,2,#,6,#,#"'
  *
  * One way to serialize a binary tree is to use pre-order traversal. When we

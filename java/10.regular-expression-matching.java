@@ -1,11 +1,12 @@
 /*
  * [10] Regular Expression Matching
  *
- * https://leetcode.com/problems/regular-expression-matching
+ * https://leetcode.com/problems/regular-expression-matching/description/
  *
- * Hard (24.04%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (24.33%)
+ * Total Accepted:    182.9K
+ * Total Submissions: 752K
  * Testcase Example:  '"aa"\n"a"'
  *
  * Implement regular expression matching with support for '.' and '*'.
@@ -20,16 +21,16 @@
  * bool isMatch(const char *s, const char *p)
  * 
  * Some examples:
- * isMatch("aa","a") ? false
- * isMatch("aa","aa") ? true
- * isMatch("aaa","aa") ? false
- * isMatch("aa", "a*") ? true
- * isMatch("aa", ".*") ? true
- * isMatch("ab", ".*") ? true
- * isMatch("aab", "c*a*b") ? true
+ * isMatch("aa","a") → false
+ * isMatch("aa","aa") → true
+ * isMatch("aaa","aa") → false
+ * isMatch("aa", "a*") → true
+ * isMatch("aa", ".*") → true
+ * isMatch("ab", ".*") → true
+ * isMatch("aab", "c*a*b") → true
  * 
  */
-public class Solution {
+class Solution {
     public boolean isMatch(String s, String p) {
         
     }

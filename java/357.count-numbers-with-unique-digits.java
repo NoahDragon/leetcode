@@ -1,11 +1,12 @@
 /*
  * [357] Count Numbers with Unique Digits
  *
- * https://leetcode.com/problems/count-numbers-with-unique-digits
+ * https://leetcode.com/problems/count-numbers-with-unique-digits/description/
  *
- * Medium (45.89%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (46.10%)
+ * Total Accepted:    44.4K
+ * Total Submissions: 96.3K
  * Testcase Example:  '2'
  *
  * Given a non-negative integer n, count all numbers with unique digits, x,
@@ -20,7 +21,7 @@
  * Credits:Special thanks to @memoryless for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public int countNumbersWithUniqueDigits(int n) {
         
     }

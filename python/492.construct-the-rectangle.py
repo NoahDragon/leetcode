@@ -1,11 +1,12 @@
 #
 # [492] Construct the Rectangle
 #
-# https://leetcode.com/problems/construct-the-rectangle
+# https://leetcode.com/problems/construct-the-rectangle/description/
 #
-# Easy (48.70%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (48.11%)
+# Total Accepted:    31.5K
+# Total Submissions: 65.5K
 # Testcase Example:  '1'
 #
 # 

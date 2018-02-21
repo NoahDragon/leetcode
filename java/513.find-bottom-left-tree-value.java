@@ -1,11 +1,12 @@
 /*
  * [513] Find Bottom Left Tree Value
  *
- * https://leetcode.com/problems/find-bottom-left-tree-value
+ * https://leetcode.com/problems/find-bottom-left-tree-value/description/
  *
- * Medium (55.54%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (56.02%)
+ * Total Accepted:    38.6K
+ * Total Submissions: 68.9K
  * Testcase Example:  '[2,1,3]'
  *
  * 
@@ -55,7 +56,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public int findBottomLeftValue(TreeNode root) {
         
     }

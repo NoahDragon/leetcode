@@ -1,12 +1,13 @@
 #
 # [221] Maximal Square
 #
-# https://leetcode.com/problems/maximal-square
+# https://leetcode.com/problems/maximal-square/description/
 #
-# Medium (28.54%)
-# Total Accepted:    
-# Total Submissions: 
-# Testcase Example:  '["10100","10111","11111","10010"]'
+# algorithms
+# Medium (30.13%)
+# Total Accepted:    82.1K
+# Total Submissions: 272.3K
+# Testcase Example:  '[["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]'
 #
 # 
 # Given a 2D binary matrix filled with 0's and 1's, find the largest square

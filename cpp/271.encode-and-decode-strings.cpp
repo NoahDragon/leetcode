@@ -1,11 +1,12 @@
 /*
  * [271] Encode and Decode Strings
  *
- * https://leetcode.com/problems/encode-and-decode-strings
+ * https://leetcode.com/problems/encode-and-decode-strings/description/
  *
- * Medium (26.13%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (26.12%)
+ * Total Accepted:    27K
+ * Total Submissions: 103.5K
  * Testcase Example:  '[]'
  *
  * 

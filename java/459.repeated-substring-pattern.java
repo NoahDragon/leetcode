@@ -1,11 +1,12 @@
 /*
  * [459] Repeated Substring Pattern
  *
- * https://leetcode.com/problems/repeated-substring-pattern
+ * https://leetcode.com/problems/repeated-substring-pattern/description/
  *
- * Easy (38.15%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (38.18%)
+ * Total Accepted:    47.9K
+ * Total Submissions: 125.4K
  * Testcase Example:  '"abab"'
  *
  * Given a non-empty string check if it can be constructed by taking a
@@ -42,7 +43,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean repeatedSubstringPattern(String s) {
         
     }

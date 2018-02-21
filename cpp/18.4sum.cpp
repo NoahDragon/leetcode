@@ -1,11 +1,12 @@
 /*
  * [18] 4Sum
  *
- * https://leetcode.com/problems/4sum
+ * https://leetcode.com/problems/4sum/description/
  *
- * Medium (26.56%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (27.42%)
+ * Total Accepted:    146.9K
+ * Total Submissions: 535.7K
  * Testcase Example:  '[1,0,-1,0,-2,2]\n0'
  *
  * Given an array S of n integers, are there elements a, b, c, and d in S such

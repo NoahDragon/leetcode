@@ -1,11 +1,12 @@
 #
 # [414] Third Maximum Number
 #
-# https://leetcode.com/problems/third-maximum-number
+# https://leetcode.com/problems/third-maximum-number/description/
 #
-# Easy (27.76%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (28.01%)
+# Total Accepted:    54.7K
+# Total Submissions: 195.3K
 # Testcase Example:  '[3,2,1]'
 #
 # Given a non-empty array of integers, return the third maximum number in this

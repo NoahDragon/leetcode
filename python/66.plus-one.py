@@ -1,11 +1,12 @@
 #
 # [66] Plus One
 #
-# https://leetcode.com/problems/plus-one
+# https://leetcode.com/problems/plus-one/description/
 #
-# Easy (38.36%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (39.53%)
+# Total Accepted:    221.5K
+# Total Submissions: 560.4K
 # Testcase Example:  '[0]'
 #
 # Given a non-negative integer represented as a non-empty array of digits, plus

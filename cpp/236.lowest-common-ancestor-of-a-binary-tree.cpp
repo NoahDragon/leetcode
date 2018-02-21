@@ -1,11 +1,12 @@
 /*
  * [236] Lowest Common Ancestor of a Binary Tree
  *
- * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+ * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
  *
- * Medium (29.73%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (29.97%)
+ * Total Accepted:    150.2K
+ * Total Submissions: 501.1K
  * Testcase Example:  '[1,2]\nnode with value 1\nnode with value 2'
  *
  * 

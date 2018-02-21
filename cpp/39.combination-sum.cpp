@@ -1,11 +1,12 @@
 /*
  * [39] Combination Sum
  *
- * https://leetcode.com/problems/combination-sum
+ * https://leetcode.com/problems/combination-sum/description/
  *
- * Medium (38.08%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (40.85%)
+ * Total Accepted:    204.3K
+ * Total Submissions: 500.1K
  * Testcase Example:  '[2,3,6,7]\n7'
  *
  * 

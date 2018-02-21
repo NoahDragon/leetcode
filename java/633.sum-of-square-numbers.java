@@ -1,11 +1,12 @@
 /*
  * [633] Sum of Square Numbers
  *
- * https://leetcode.com/problems/sum-of-square-numbers
+ * https://leetcode.com/problems/sum-of-square-numbers/description/
  *
- * Easy (31.14%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (32.39%)
+ * Total Accepted:    20.1K
+ * Total Submissions: 62K
  * Testcase Example:  '5'
  *
  * 
@@ -30,7 +31,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean judgeSquareSum(int c) {
         
     }

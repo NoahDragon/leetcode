@@ -1,11 +1,12 @@
 #
 # [436] Find Right Interval
 #
-# https://leetcode.com/problems/find-right-interval
+# https://leetcode.com/problems/find-right-interval/description/
 #
-# Medium (41.09%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (41.53%)
+# Total Accepted:    16.9K
+# Total Submissions: 40.7K
 # Testcase Example:  '[[1,2]]'
 #
 # 

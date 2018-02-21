@@ -1,11 +1,12 @@
 /*
  * [291] Word Pattern II
  *
- * https://leetcode.com/problems/word-pattern-ii
+ * https://leetcode.com/problems/word-pattern-ii/description/
  *
- * Hard (37.84%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (38.39%)
+ * Total Accepted:    20.9K
+ * Total Submissions: 54.5K
  * Testcase Example:  '"abab"\n"redblueredblue"'
  *
  * Given a pattern and a string str, find if str follows the same pattern.

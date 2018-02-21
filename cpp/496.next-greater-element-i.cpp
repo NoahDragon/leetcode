@@ -1,11 +1,12 @@
 /*
  * [496] Next Greater Element I
  *
- * https://leetcode.com/problems/next-greater-element-i
+ * https://leetcode.com/problems/next-greater-element-i/description/
  *
- * Easy (57.15%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (56.59%)
+ * Total Accepted:    49.8K
+ * Total Submissions: 88K
  * Testcase Example:  '[4,1,2]\n[1,3,4,2]'
  *
  * 

@@ -1,11 +1,12 @@
 #
 # [320] Generalized Abbreviation
 #
-# https://leetcode.com/problems/generalized-abbreviation
+# https://leetcode.com/problems/generalized-abbreviation/description/
 #
-# Medium (44.61%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (46.08%)
+# Total Accepted:    27.6K
+# Total Submissions: 60K
 # Testcase Example:  '"word"'
 #
 # Write a function to generate the generalized abbreviations of a word.

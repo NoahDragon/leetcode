@@ -1,11 +1,12 @@
 #
 # [157] Read N Characters Given Read4
 #
-# https://leetcode.com/problems/read-n-characters-given-read4
+# https://leetcode.com/problems/read-n-characters-given-read4/description/
 #
-# Easy (28.95%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (29.11%)
+# Total Accepted:    45K
+# Total Submissions: 154.5K
 # Testcase Example:  '""\n0'
 #
 # 

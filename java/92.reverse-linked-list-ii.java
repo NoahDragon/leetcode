@@ -1,11 +1,12 @@
 /*
  * [92] Reverse Linked List II
  *
- * https://leetcode.com/problems/reverse-linked-list-ii
+ * https://leetcode.com/problems/reverse-linked-list-ii/description/
  *
- * Medium (30.53%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (31.24%)
+ * Total Accepted:    132K
+ * Total Submissions: 422.7K
  * Testcase Example:  '[5]\n1\n1'
  *
  * 
@@ -23,7 +24,7 @@
  * 
  * Note:
  * Given m, n satisfy the following condition:
- * 1 ? m ? n ? length of list.
+ * 1 ≤ m ≤ n ≤ length of list.
  * 
  */
 /**
@@ -34,7 +35,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public ListNode reverseBetween(ListNode head, int m, int n) {
         
     }

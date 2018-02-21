@@ -1,11 +1,12 @@
 /*
  * [165] Compare Version Numbers
  *
- * https://leetcode.com/problems/compare-version-numbers
+ * https://leetcode.com/problems/compare-version-numbers/description/
  *
- * Medium (19.93%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (20.68%)
+ * Total Accepted:    96.4K
+ * Total Submissions: 466.1K
  * Testcase Example:  '"1"\n"0"'
  *
  * Compare two version numbers version1 and version2.

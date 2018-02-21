@@ -1,11 +1,12 @@
 #
 # [386] Lexicographical Numbers
 #
-# https://leetcode.com/problems/lexicographical-numbers
+# https://leetcode.com/problems/lexicographical-numbers/description/
 #
-# Medium (40.87%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (42.14%)
+# Total Accepted:    26.8K
+# Total Submissions: 63.6K
 # Testcase Example:  '13'
 #
 # 

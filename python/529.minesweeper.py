@@ -1,12 +1,13 @@
 #
 # [529] Minesweeper
 #
-# https://leetcode.com/problems/minesweeper
+# https://leetcode.com/problems/minesweeper/description/
 #
-# Medium (50.13%)
-# Total Accepted:    
-# Total Submissions: 
-# Testcase Example:  '["EEEEE","EEMEE","EEEEE","EEEEE"]\n[3,0]'
+# algorithms
+# Medium (49.51%)
+# Total Accepted:    15.3K
+# Total Submissions: 30.9K
+# Testcase Example:  '[["E","E","E","E","E"],["E","E","M","E","E"],["E","E","E","E","E"],["E","E","E","E","E"]]\n[3,0]'
 #
 # Let's play the minesweeper game (Wikipedia, online game)! 
 # 

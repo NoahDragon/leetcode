@@ -1,11 +1,12 @@
 /*
  * [365] Water and Jug Problem
  *
- * https://leetcode.com/problems/water-and-jug-problem
+ * https://leetcode.com/problems/water-and-jug-problem/description/
  *
- * Medium (27.18%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (27.98%)
+ * Total Accepted:    18.9K
+ * Total Submissions: 67.7K
  * Testcase Example:  '3\n5\n4'
  *
  * You are given two jugs with capacities x and y litres. There is an infinite

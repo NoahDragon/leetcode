@@ -1,11 +1,12 @@
 /*
  * [286] Walls and Gates
  *
- * https://leetcode.com/problems/walls-and-gates
+ * https://leetcode.com/problems/walls-and-gates/description/
  *
- * Medium (43.72%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (45.23%)
+ * Total Accepted:    43.1K
+ * Total Submissions: 95.3K
  * Testcase Example:  '[[2147483647,-1,0,2147483647],[2147483647,2147483647,2147483647,-1],[2147483647,-1,2147483647,-1],[0,-1,2147483647,2147483647]]'
  *
  * 

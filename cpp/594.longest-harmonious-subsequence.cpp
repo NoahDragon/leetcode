@@ -1,11 +1,12 @@
 /*
  * [594] Longest Harmonious Subsequence
  *
- * https://leetcode.com/problems/longest-harmonious-subsequence
+ * https://leetcode.com/problems/longest-harmonious-subsequence/description/
  *
- * Easy (40.19%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (41.15%)
+ * Total Accepted:    18.7K
+ * Total Submissions: 45.3K
  * Testcase Example:  '[1,3,2,2,5,2,3,7]'
  *
  * We define a harmonious array is an array where the difference between its

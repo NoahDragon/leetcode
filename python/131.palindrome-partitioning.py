@@ -1,11 +1,12 @@
 #
 # [131] Palindrome Partitioning
 #
-# https://leetcode.com/problems/palindrome-partitioning
+# https://leetcode.com/problems/palindrome-partitioning/description/
 #
-# Medium (32.79%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (35.23%)
+# Total Accepted:    115.1K
+# Total Submissions: 326.8K
 # Testcase Example:  '"aab"'
 #
 # 

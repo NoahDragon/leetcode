@@ -1,11 +1,12 @@
 /*
  * [299] Bulls and Cows
  *
- * https://leetcode.com/problems/bulls-and-cows
+ * https://leetcode.com/problems/bulls-and-cows/description/
  *
- * Medium (34.52%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (35.73%)
+ * Total Accepted:    65.4K
+ * Total Submissions: 183.1K
  * Testcase Example:  '"1807"\n"7810"'
  *
  * You are playing the following Bulls and Cows game with your friend: You
@@ -45,7 +46,7 @@
  * Credits:Special thanks to @jeantimex for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public String getHint(String secret, String guess) {
         
     }

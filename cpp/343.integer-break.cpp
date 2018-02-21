@@ -1,11 +1,12 @@
 /*
  * [343] Integer Break
  *
- * https://leetcode.com/problems/integer-break
+ * https://leetcode.com/problems/integer-break/description/
  *
- * Medium (45.81%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (46.47%)
+ * Total Accepted:    53.9K
+ * Total Submissions: 116K
  * Testcase Example:  '2'
  *
  * 

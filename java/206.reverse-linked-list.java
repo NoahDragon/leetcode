@@ -1,11 +1,12 @@
 /*
  * [206] Reverse Linked List
  *
- * https://leetcode.com/problems/reverse-linked-list
+ * https://leetcode.com/problems/reverse-linked-list/description/
  *
- * Easy (45.15%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (46.62%)
+ * Total Accepted:    317.3K
+ * Total Submissions: 680.5K
  * Testcase Example:  '[]'
  *
  * Reverse a singly linked list.
@@ -25,7 +26,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public ListNode reverseList(ListNode head) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [398] Random Pick Index
  *
- * https://leetcode.com/problems/random-pick-index
+ * https://leetcode.com/problems/random-pick-index/description/
  *
- * Medium (42.27%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (44.45%)
+ * Total Accepted:    32.1K
+ * Total Submissions: 72.2K
  * Testcase Example:  '["Solution","pick"]\n[[[1,2,3,3,3]],[3]]'
  *
  * 
@@ -34,7 +35,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
 
     public Solution(int[] nums) {
         

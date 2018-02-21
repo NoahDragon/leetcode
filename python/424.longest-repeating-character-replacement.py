@@ -1,11 +1,12 @@
 #
 # [424] Longest Repeating Character Replacement
 #
-# https://leetcode.com/problems/longest-repeating-character-replacement
+# https://leetcode.com/problems/longest-repeating-character-replacement/description/
 #
-# Medium (41.97%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (42.86%)
+# Total Accepted:    17.2K
+# Total Submissions: 40.2K
 # Testcase Example:  '"ABAB"\n2'
 #
 # Given a string that consists of only uppercase English letters, you can

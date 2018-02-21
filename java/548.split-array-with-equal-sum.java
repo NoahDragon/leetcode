@@ -1,11 +1,12 @@
 /*
  * [548] Split Array with Equal Sum
  *
- * https://leetcode.com/problems/split-array-with-equal-sum
+ * https://leetcode.com/problems/split-array-with-equal-sum/description/
  *
- * Medium (33.51%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (37.56%)
+ * Total Accepted:    3.7K
+ * Total Submissions: 9.9K
  * Testcase Example:  '[1,2,1,2,1,2,1]'
  *
  * 
@@ -35,13 +36,11 @@
  * 
  * Note:
  * 
- * ⁠1 <= n <= 2000. 
+ * ⁠1 
  * ⁠Elements in the given array will be in range [-1,000,000, 1,000,000]. 
  * 
  */
-
-
-public class Solution {
+class Solution {
     public boolean splitArray(int[] nums) {
         
     }

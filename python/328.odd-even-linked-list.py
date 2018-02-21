@@ -1,11 +1,12 @@
 #
 # [328] Odd Even Linked List
 #
-# https://leetcode.com/problems/odd-even-linked-list
+# https://leetcode.com/problems/odd-even-linked-list/description/
 #
-# Medium (43.32%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (44.52%)
+# Total Accepted:    87.2K
+# Total Submissions: 195.9K
 # Testcase Example:  '[1,2,3,4,5,6,7,8]'
 #
 # Given a singly linked list, group all odd nodes together followed by the even

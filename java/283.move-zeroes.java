@@ -1,11 +1,12 @@
 /*
  * [283] Move Zeroes
  *
- * https://leetcode.com/problems/move-zeroes
+ * https://leetcode.com/problems/move-zeroes/description/
  *
- * Easy (49.56%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (51.31%)
+ * Total Accepted:    262.2K
+ * Total Submissions: 511K
  * Testcase Example:  '[0,1,0,3,12]'
  *
  * 
@@ -29,7 +30,7 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
-public class Solution {
+class Solution {
     public void moveZeroes(int[] nums) {
         
     }

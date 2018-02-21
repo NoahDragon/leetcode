@@ -1,11 +1,12 @@
 #
 # [9] Palindrome Number
 #
-# https://leetcode.com/problems/palindrome-number
+# https://leetcode.com/problems/palindrome-number/description/
 #
-# Easy (35.12%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (35.68%)
+# Total Accepted:    297.3K
+# Total Submissions: 833.1K
 # Testcase Example:  '-2147483648'
 #
 # Determine whether an integer is a palindrome. Do this without extra space.

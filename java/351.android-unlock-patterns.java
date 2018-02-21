@@ -1,11 +1,12 @@
 /*
  * [351] Android Unlock Patterns
  *
- * https://leetcode.com/problems/android-unlock-patterns
+ * https://leetcode.com/problems/android-unlock-patterns/description/
  *
- * Medium (43.42%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (44.65%)
+ * Total Accepted:    19.3K
+ * Total Submissions: 43.2K
  * Testcase Example:  '1\n1'
  *
  * 
@@ -61,7 +62,7 @@
  * Credits:Special thanks to @elmirap for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public int numberOfPatterns(int m, int n) {
         
     }

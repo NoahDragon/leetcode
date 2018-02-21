@@ -1,19 +1,35 @@
 /*
  * [28] Implement strStr()
  *
- * https://leetcode.com/problems/implement-strstr
+ * https://leetcode.com/problems/implement-strstr/description/
  *
- * Easy (27.91%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '""\n""'
+ * algorithms
+ * Easy (28.83%)
+ * Total Accepted:    249K
+ * Total Submissions: 863.5K
+ * Testcase Example:  '"hello"\n"ll"'
  *
  * 
  * Implement strStr().
  * 
  * 
- * Returns the index of the first occurrence of needle in haystack, or -1 if
+ * 
+ * Return the index of the first occurrence of needle in haystack, or -1 if
  * needle is not part of haystack.
+ * 
+ * 
+ * Example 1:
+ * 
+ * Input: haystack = "hello", needle = "ll"
+ * Output: 2
+ * 
+ * 
+ * 
+ * Example 2:
+ * 
+ * Input: haystack = "aaaaa", needle = "bba"
+ * Output: -1
+ * 
  * 
  */
 class Solution {

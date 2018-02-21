@@ -1,11 +1,12 @@
 #
 # [293] Flip Game
 #
-# https://leetcode.com/problems/flip-game
+# https://leetcode.com/problems/flip-game/description/
 #
-# Easy (55.47%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (57.06%)
+# Total Accepted:    30.6K
+# Total Submissions: 53.7K
 # Testcase Example:  '"++++"'
 #
 # 

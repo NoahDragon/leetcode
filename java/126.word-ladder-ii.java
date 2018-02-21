@@ -1,11 +1,12 @@
 /*
  * [126] Word Ladder II
  *
- * https://leetcode.com/problems/word-ladder-ii
+ * https://leetcode.com/problems/word-ladder-ii/description/
  *
- * Hard (14.01%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (14.75%)
+ * Total Accepted:    79.3K
+ * Total Submissions: 537.6K
  * Testcase Example:  '"hit"\n"cog"\n["hot","dot","dog","lot","log","cog"]'
  *
  * 
@@ -56,7 +57,7 @@
  * changes.
  * 
  */
-public class Solution {
+class Solution {
     public List<List<String>> findLadders(String beginWord, String endWord, List<String> wordList) {
         
     }

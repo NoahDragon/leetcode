@@ -1,18 +1,19 @@
 #
 # [145] Binary Tree Postorder Traversal
 #
-# https://leetcode.com/problems/binary-tree-postorder-traversal
+# https://leetcode.com/problems/binary-tree-postorder-traversal/description/
 #
-# Hard (39.86%)
-# Total Accepted:    
-# Total Submissions: 
-# Testcase Example:  '[]'
+# algorithms
+# Hard (41.57%)
+# Total Accepted:    168.3K
+# Total Submissions: 404.8K
+# Testcase Example:  '[1,null,2,3]'
 #
 # Given a binary tree, return the postorder traversal of its nodes' values.
 # 
-# 
 # For example:
-# Given binary tree {1,#,2,3},
+# Given binary tree [1,null,2,3],
+# 
 # 
 # ⁠  1
 # ⁠   \
@@ -22,10 +23,11 @@
 # 
 # 
 # 
+# 
 # return [3,2,1].
 # 
-# 
 # Note: Recursive solution is trivial, could you do it iteratively?
+# 
 #
 # Definition for a binary tree node.
 # class TreeNode(object):

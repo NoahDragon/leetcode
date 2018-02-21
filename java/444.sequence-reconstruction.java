@@ -1,11 +1,12 @@
 /*
  * [444] Sequence Reconstruction
  *
- * https://leetcode.com/problems/sequence-reconstruction
+ * https://leetcode.com/problems/sequence-reconstruction/description/
  *
- * Medium (19.67%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (19.62%)
+ * Total Accepted:    9.1K
+ * Total Submissions: 46.6K
  * Testcase Example:  '[1,2,3]\n[[1,2],[1,3]]'
  *
  * Check whether the original sequence org can be uniquely reconstructed from
@@ -74,7 +75,7 @@
  * changes.
  * 
  */
-public class Solution {
+class Solution {
     public boolean sequenceReconstruction(int[] org, List<List<Integer>> seqs) {
         
     }

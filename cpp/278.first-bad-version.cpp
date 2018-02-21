@@ -1,11 +1,12 @@
 /*
  * [278] First Bad Version
  *
- * https://leetcode.com/problems/first-bad-version
+ * https://leetcode.com/problems/first-bad-version/description/
  *
- * Easy (25.08%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (25.97%)
+ * Total Accepted:    134.9K
+ * Total Submissions: 519.6K
  * Testcase Example:  '1 version\n1 is the first bad version.'
  *
  * 

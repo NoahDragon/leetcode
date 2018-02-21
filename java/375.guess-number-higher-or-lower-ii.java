@@ -1,11 +1,12 @@
 /*
  * [375] Guess Number Higher or Lower II
  *
- * https://leetcode.com/problems/guess-number-higher-or-lower-ii
+ * https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/
  *
- * Medium (35.64%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (36.10%)
+ * Total Accepted:    28.7K
+ * Total Submissions: 79.4K
  * Testcase Example:  '1'
  *
  * We are playing the Guess Game. The game is as follows: 
@@ -39,7 +40,7 @@
  * Credits:Special thanks to @agave and @StefanPochmann for adding this problem
  * and creating all test cases.
  */
-public class Solution {
+class Solution {
     public int getMoneyAmount(int n) {
         
     }

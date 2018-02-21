@@ -1,11 +1,12 @@
 /*
  * [376] Wiggle Subsequence
  *
- * https://leetcode.com/problems/wiggle-subsequence
+ * https://leetcode.com/problems/wiggle-subsequence/description/
  *
- * Medium (35.54%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (36.14%)
+ * Total Accepted:    31.1K
+ * Total Submissions: 86.2K
  * Testcase Example:  '[1,7,4,9,2,5]'
  *
  * A sequence of numbers is called a wiggle sequence if the differences between
@@ -47,7 +48,7 @@
  * Credits:Special thanks to @agave and @StefanPochmann for adding this problem
  * and creating all test cases.
  */
-public class Solution {
+class Solution {
     public int wiggleMaxLength(int[] nums) {
         
     }

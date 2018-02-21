@@ -1,18 +1,19 @@
 /*
  * [230] Kth Smallest Element in a BST
  *
- * https://leetcode.com/problems/kth-smallest-element-in-a-bst
+ * https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
  *
- * Medium (43.52%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (45.04%)
+ * Total Accepted:    131.1K
+ * Total Submissions: 291K
  * Testcase Example:  '[1]\n1'
  *
  * Given a binary search tree, write a function kthSmallest to find the kth
  * smallest element in it.
  * 
  * Note: 
- * You may assume k is always valid, 1 ? k ? BST's total elements.
+ * You may assume k is always valid, 1 ≤ k ≤ BST's total elements.
  * 
  * Follow up:
  * What if the BST is modified (insert/delete operations) often and you need to

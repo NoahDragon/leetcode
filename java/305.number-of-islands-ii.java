@@ -1,11 +1,12 @@
 /*
  * [305] Number of Islands II
  *
- * https://leetcode.com/problems/number-of-islands-ii
+ * https://leetcode.com/problems/number-of-islands-ii/description/
  *
- * Hard (38.68%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (39.59%)
+ * Total Accepted:    30.8K
+ * Total Submissions: 77.7K
  * Testcase Example:  '3\n3\n[[0,0],[0,1],[1,2],[2,1]]'
  *
  * A 2d grid map of m rows and n columns is initially filled with water.
@@ -56,7 +57,7 @@
  * Can you do it in time complexity O(k log mn), where k is the length of the
  * positions?
  */
-public class Solution {
+class Solution {
     public List<Integer> numIslands2(int m, int n, int[][] positions) {
         
     }

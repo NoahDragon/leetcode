@@ -1,11 +1,12 @@
 #
 # [604] Design Compressed String Iterator
 #
-# https://leetcode.com/problems/design-compressed-string-iterator
+# https://leetcode.com/problems/design-compressed-string-iterator/description/
 #
-# Easy (31.74%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (33.15%)
+# Total Accepted:    7K
+# Total Submissions: 21.1K
 # Testcase Example:  '["StringIterator","next","next","next","next","next","next","hasNext","next","hasNext"]\n[["L1e2t1C1o1d1e1"],[],[],[],[],[],[],[],[],[]]'
 #
 # 

@@ -1,11 +1,12 @@
 /*
  * [369] Plus One Linked List
  *
- * https://leetcode.com/problems/plus-one-linked-list
+ * https://leetcode.com/problems/plus-one-linked-list/description/
  *
- * Medium (54.28%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (55.06%)
+ * Total Accepted:    20.8K
+ * Total Submissions: 37.8K
  * Testcase Example:  '[1,2,3]'
  *
  * Given a non-negative integer represented as non-empty a singly linked list
@@ -35,7 +36,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public ListNode plusOne(ListNode head) {
         
     }

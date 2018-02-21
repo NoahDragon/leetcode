@@ -1,11 +1,12 @@
 #
 # [468] Validate IP Address
 #
-# https://leetcode.com/problems/validate-ip-address
+# https://leetcode.com/problems/validate-ip-address/description/
 #
-# Medium (20.69%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (20.63%)
+# Total Accepted:    11.9K
+# Total Submissions: 57.9K
 # Testcase Example:  '"172.16.254.1"'
 #
 # 

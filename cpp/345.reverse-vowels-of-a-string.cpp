@@ -1,11 +1,12 @@
 /*
  * [345] Reverse Vowels of a String
  *
- * https://leetcode.com/problems/reverse-vowels-of-a-string
+ * https://leetcode.com/problems/reverse-vowels-of-a-string/description/
  *
- * Easy (38.36%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (39.05%)
+ * Total Accepted:    101K
+ * Total Submissions: 258.6K
  * Testcase Example:  '"hello"'
  *
  * Write a function that takes a string as input and reverse only the vowels of

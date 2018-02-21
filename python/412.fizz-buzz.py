@@ -1,11 +1,12 @@
 #
 # [412] Fizz Buzz
 #
-# https://leetcode.com/problems/fizz-buzz
+# https://leetcode.com/problems/fizz-buzz/description/
 #
-# Easy (58.82%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (58.21%)
+# Total Accepted:    105.4K
+# Total Submissions: 181K
 # Testcase Example:  '1'
 #
 # Write a program that outputs the string representation of numbers from 1 to

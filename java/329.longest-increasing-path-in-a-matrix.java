@@ -1,11 +1,12 @@
 /*
  * [329] Longest Increasing Path in a Matrix
  *
- * https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+ * https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/
  *
- * Hard (36.15%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (37.29%)
+ * Total Accepted:    48.7K
+ * Total Submissions: 130.7K
  * Testcase Example:  '[[9,9,4],[6,6,8],[2,1,1]]'
  *
  * Given an integer matrix, find the length of the longest increasing path.
@@ -51,7 +52,7 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public int longestIncreasingPath(int[][] matrix) {
         
     }

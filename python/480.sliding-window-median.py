@@ -1,11 +1,12 @@
 #
 # [480] Sliding Window Median
 #
-# https://leetcode.com/problems/sliding-window-median
+# https://leetcode.com/problems/sliding-window-median/description/
 #
-# Hard (31.53%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (30.75%)
+# Total Accepted:    12.1K
+# Total Submissions: 39.4K
 # Testcase Example:  '[1,3,-1,-3,5,3,6,7]\n3'
 #
 # Median is the middle value in an ordered integer list. If the size of the

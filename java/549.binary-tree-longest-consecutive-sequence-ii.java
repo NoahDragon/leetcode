@@ -1,11 +1,12 @@
 /*
  * [549] Binary Tree Longest Consecutive Sequence II
  *
- * https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii
+ * https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/description/
  *
- * Medium (39.37%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (42.97%)
+ * Total Accepted:    7K
+ * Total Submissions: 16.3K
  * Testcase Example:  '[1,2,3,4]'
  *
  * Given a binary tree, you need to find the length of Longest Consecutive Path
@@ -53,7 +54,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public int longestConsecutive(TreeNode root) {
         
     }

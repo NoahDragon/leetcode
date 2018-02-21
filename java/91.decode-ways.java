@@ -1,11 +1,12 @@
 /*
  * [91] Decode Ways
  *
- * https://leetcode.com/problems/decode-ways
+ * https://leetcode.com/problems/decode-ways/description/
  *
- * Medium (19.48%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (20.25%)
+ * Total Accepted:    160.9K
+ * Total Submissions: 794.8K
  * Testcase Example:  '""'
  *
  * 
@@ -35,7 +36,7 @@
  * The number of ways decoding "12" is 2.
  * 
  */
-public class Solution {
+class Solution {
     public int numDecodings(String s) {
         
     }

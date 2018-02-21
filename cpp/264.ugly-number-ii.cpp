@@ -1,11 +1,12 @@
 /*
  * [264] Ugly Number II
  *
- * https://leetcode.com/problems/ugly-number-ii
+ * https://leetcode.com/problems/ugly-number-ii/description/
  *
- * Medium (32.41%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (33.24%)
+ * Total Accepted:    71.1K
+ * Total Submissions: 213.8K
  * Testcase Example:  '1'
  *
  * 

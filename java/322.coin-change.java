@@ -1,11 +1,12 @@
 /*
  * [322] Coin Change
  *
- * https://leetcode.com/problems/coin-change
+ * https://leetcode.com/problems/coin-change/description/
  *
- * Medium (26.45%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (26.62%)
+ * Total Accepted:    85.6K
+ * Total Submissions: 321.7K
  * Testcase Example:  '[1]\n0'
  *
  * 
@@ -35,7 +36,7 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
-public class Solution {
+class Solution {
     public int coinChange(int[] coins, int amount) {
         
     }

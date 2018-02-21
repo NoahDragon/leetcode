@@ -1,11 +1,12 @@
 /*
  * [249] Group Shifted Strings
  *
- * https://leetcode.com/problems/group-shifted-strings
+ * https://leetcode.com/problems/group-shifted-strings/description/
  *
- * Medium (40.86%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (43.73%)
+ * Total Accepted:    31.7K
+ * Total Submissions: 72.4K
  * Testcase Example:  '["abc","bcd","acef","xyz","az","ba","a","z"]'
  *
  * Given a string, we can "shift" each of its letter to its successive letter,

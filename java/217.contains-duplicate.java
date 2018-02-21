@@ -1,11 +1,12 @@
 /*
  * [217] Contains Duplicate
  *
- * https://leetcode.com/problems/contains-duplicate
+ * https://leetcode.com/problems/contains-duplicate/description/
  *
- * Easy (45.41%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (46.82%)
+ * Total Accepted:    200.4K
+ * Total Submissions: 428K
  * Testcase Example:  '[]'
  *
  * 
@@ -14,7 +15,7 @@
  * array, and it should return false if every element is distinct.
  * 
  */
-public class Solution {
+class Solution {
     public boolean containsDuplicate(int[] nums) {
         
     }

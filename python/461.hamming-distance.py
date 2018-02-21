@@ -1,11 +1,12 @@
 #
 # [461] Hamming Distance
 #
-# https://leetcode.com/problems/hamming-distance
+# https://leetcode.com/problems/hamming-distance/description/
 #
-# Easy (70.34%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (69.59%)
+# Total Accepted:    135.4K
+# Total Submissions: 194.5K
 # Testcase Example:  '1\n4'
 #
 # The Hamming distance between two integers is the number of positions at which
@@ -26,7 +27,7 @@
 # Explanation:
 # 1   (0 0 0 1)
 # 4   (0 1 0 0)
-# ⁠      ?   ?
+# ⁠      ↑   ↑
 # 
 # The above arrows point to positions where the corresponding bits are
 # different.

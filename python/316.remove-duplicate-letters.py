@@ -1,11 +1,12 @@
 #
 # [316] Remove Duplicate Letters
 #
-# https://leetcode.com/problems/remove-duplicate-letters
+# https://leetcode.com/problems/remove-duplicate-letters/description/
 #
-# Hard (29.37%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (30.30%)
+# Total Accepted:    37.9K
+# Total Submissions: 125.1K
 # Testcase Example:  '"bcabc"'
 #
 # 

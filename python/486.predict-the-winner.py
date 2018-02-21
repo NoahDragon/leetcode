@@ -1,11 +1,12 @@
 #
 # [486] Predict the Winner
 #
-# https://leetcode.com/problems/predict-the-winner
+# https://leetcode.com/problems/predict-the-winner/description/
 #
-# Medium (44.74%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (45.14%)
+# Total Accepted:    22.8K
+# Total Submissions: 50.5K
 # Testcase Example:  '[1,5,2]'
 #
 # Given an array of scores that are non-negative integers. Player 1 picks one
@@ -42,7 +43,7 @@
 # 
 # Note:
 # 
-# 1 <= length of the array <= 20. 
+# 1 
 # Any scores in the given array are non-negative integers and will not exceed
 # 10,000,000.
 # If the scores of both players are equal, then player 1 is still the winner.

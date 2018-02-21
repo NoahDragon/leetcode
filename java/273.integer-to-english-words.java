@@ -1,11 +1,12 @@
 /*
  * [273] Integer to English Words
  *
- * https://leetcode.com/problems/integer-to-english-words
+ * https://leetcode.com/problems/integer-to-english-words/description/
  *
- * Hard (21.92%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (22.70%)
+ * Total Accepted:    54.7K
+ * Total Submissions: 240.9K
  * Testcase Example:  '123'
  *
  * 
@@ -20,7 +21,7 @@
  * 1234567 -> "One Million Two Hundred Thirty Four Thousand Five Hundred Sixty
  * Seven"
  */
-public class Solution {
+class Solution {
     public String numberToWords(int num) {
         
     }

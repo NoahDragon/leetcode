@@ -1,11 +1,12 @@
 /*
  * [350] Intersection of Two Arrays II
  *
- * https://leetcode.com/problems/intersection-of-two-arrays-ii
+ * https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
  *
- * Easy (44.53%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (44.62%)
+ * Total Accepted:    95.5K
+ * Total Submissions: 214.1K
  * Testcase Example:  '[]\n[]'
  *
  * 
@@ -35,7 +36,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [327] Count of Range Sum
  *
- * https://leetcode.com/problems/count-of-range-sum
+ * https://leetcode.com/problems/count-of-range-sum/description/
  *
- * Hard (29.53%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (30.56%)
+ * Total Accepted:    22.6K
+ * Total Submissions: 73.9K
  * Testcase Example:  '[-2,5,-1]\n-2\n2'
  *
  * 
@@ -14,7 +15,7 @@
  * 
  * ⁠   Range sum S(i, j) is defined as the sum of the elements in nums between
  * indices i and 
- * ⁠   j (i ? j), inclusive.
+ * ⁠   j (i ≤ j), inclusive.
  * 
  * 
  * 
@@ -32,7 +33,7 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public int countRangeSum(int[] nums, int lower, int upper) {
         
     }

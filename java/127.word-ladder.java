@@ -1,11 +1,12 @@
 /*
  * [127] Word Ladder
  *
- * https://leetcode.com/problems/word-ladder
+ * https://leetcode.com/problems/word-ladder/description/
  *
- * Medium (19.33%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (19.92%)
+ * Total Accepted:    154.7K
+ * Total Submissions: 776.7K
  * Testcase Example:  '"hit"\n"cog"\n["hot","dot","dog","lot","log","cog"]'
  *
  * 
@@ -51,7 +52,7 @@
  * changes.
  * 
  */
-public class Solution {
+class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         
     }

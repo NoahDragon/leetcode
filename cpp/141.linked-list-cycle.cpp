@@ -1,11 +1,12 @@
 /*
  * [141] Linked List Cycle
  *
- * https://leetcode.com/problems/linked-list-cycle
+ * https://leetcode.com/problems/linked-list-cycle/description/
  *
- * Easy (35.40%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (35.14%)
+ * Total Accepted:    233.2K
+ * Total Submissions: 663.4K
  * Testcase Example:  '[]\nno cycle'
  *
  * 

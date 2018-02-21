@@ -1,11 +1,12 @@
 /*
  * [166] Fraction to Recurring Decimal
  *
- * https://leetcode.com/problems/fraction-to-recurring-decimal
+ * https://leetcode.com/problems/fraction-to-recurring-decimal/description/
  *
- * Medium (17.38%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (18.00%)
+ * Total Accepted:    61.4K
+ * Total Submissions: 341.3K
  * Testcase Example:  '1\n5'
  *
  * Given two integers representing the numerator and denominator of a fraction,
@@ -25,7 +26,7 @@
  * Credits:Special thanks to @Shangrila for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public String fractionToDecimal(int numerator, int denominator) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [378] Kth Smallest Element in a Sorted Matrix
  *
- * https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+ * https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/
  *
- * Medium (44.35%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (45.39%)
+ * Total Accepted:    54.7K
+ * Total Submissions: 120.4K
  * Testcase Example:  '[[1,5,9],[10,11,13],[12,13,15]]\n8'
  *
  * Given a n x n matrix where each of the rows and columns are sorted in
@@ -30,7 +31,7 @@
  * 
  * 
  * Note: 
- * You may assume k is always valid, 1 ? k ? n2.
+ * You may assume k is always valid, 1 ≤ k ≤ n2.
  */
 class Solution {
 public:

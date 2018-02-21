@@ -1,12 +1,13 @@
 /*
  * [130] Surrounded Regions
  *
- * https://leetcode.com/problems/surrounded-regions
+ * https://leetcode.com/problems/surrounded-regions/description/
  *
- * Medium (18.24%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '["XXXX","XOOX","XXOX","XOXX"]'
+ * algorithms
+ * Medium (19.39%)
+ * Total Accepted:    97.3K
+ * Total Submissions: 501.8K
+ * Testcase Example:  '[["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]]'
  *
  * 
  * Given a 2D board containing 'X' and 'O' (the letter O), capture all regions
@@ -36,7 +37,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public void solve(char[][] board) {
         
     }

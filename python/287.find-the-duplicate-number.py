@@ -1,11 +1,12 @@
 #
 # [287] Find the Duplicate Number
 #
-# https://leetcode.com/problems/find-the-duplicate-number
+# https://leetcode.com/problems/find-the-duplicate-number/description/
 #
-# Medium (43.06%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (44.17%)
+# Total Accepted:    98.3K
+# Total Submissions: 222.7K
 # Testcase Example:  '[1,1]'
 #
 # 

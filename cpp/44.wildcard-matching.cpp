@@ -1,11 +1,12 @@
 /*
  * [44] Wildcard Matching
  *
- * https://leetcode.com/problems/wildcard-matching
+ * https://leetcode.com/problems/wildcard-matching/description/
  *
- * Hard (19.87%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (20.88%)
+ * Total Accepted:    116.8K
+ * Total Submissions: 559.7K
  * Testcase Example:  '"aa"\n"a"'
  *
  * Implement wildcard pattern matching with support for '?' and '*'.
@@ -20,13 +21,13 @@
  * bool isMatch(const char *s, const char *p)
  * 
  * Some examples:
- * isMatch("aa","a") ? false
- * isMatch("aa","aa") ? true
- * isMatch("aaa","aa") ? false
- * isMatch("aa", "*") ? true
- * isMatch("aa", "a*") ? true
- * isMatch("ab", "?*") ? true
- * isMatch("aab", "c*a*b") ? false
+ * isMatch("aa","a") → false
+ * isMatch("aa","aa") → true
+ * isMatch("aaa","aa") → false
+ * isMatch("aa", "*") → true
+ * isMatch("aa", "a*") → true
+ * isMatch("ab", "?*") → true
+ * isMatch("aab", "c*a*b") → false
  * 
  */
 class Solution {

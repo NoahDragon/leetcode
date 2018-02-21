@@ -1,11 +1,12 @@
 #
 # [292] Nim Game
 #
-# https://leetcode.com/problems/nim-game
+# https://leetcode.com/problems/nim-game/description/
 #
-# Easy (55.18%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (55.35%)
+# Total Accepted:    155K
+# Total Submissions: 280K
 # Testcase Example:  '1'
 #
 # 

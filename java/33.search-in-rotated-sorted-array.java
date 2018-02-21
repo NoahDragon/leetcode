@@ -1,11 +1,12 @@
 /*
  * [33] Search in Rotated Sorted Array
  *
- * https://leetcode.com/problems/search-in-rotated-sorted-array
+ * https://leetcode.com/problems/search-in-rotated-sorted-array/description/
  *
- * Medium (32.13%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (32.01%)
+ * Total Accepted:    235.4K
+ * Total Submissions: 735.3K
  * Testcase Example:  '[]\n5'
  *
  * Suppose an array sorted in ascending order is rotated at some pivot unknown
@@ -18,7 +19,7 @@
  * 
  * You may assume no duplicate exists in the array.
  */
-public class Solution {
+class Solution {
     public int search(int[] nums, int target) {
         
     }

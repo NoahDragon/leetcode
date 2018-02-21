@@ -1,11 +1,12 @@
 /*
  * [483] Smallest Good Base
  *
- * https://leetcode.com/problems/smallest-good-base
+ * https://leetcode.com/problems/smallest-good-base/description/
  *
- * Hard (31.93%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (33.88%)
+ * Total Accepted:    6.6K
+ * Total Submissions: 19.4K
  * Testcase Example:  '"13"'
  *
  * For an integer n, we call k>=2 a good base of n, if all digits of n base k

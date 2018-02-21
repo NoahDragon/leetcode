@@ -1,11 +1,12 @@
 #
 # [504] Base 7
 #
-# https://leetcode.com/problems/base-7
+# https://leetcode.com/problems/base-7/description/
 #
-# Easy (44.63%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (43.97%)
+# Total Accepted:    25.4K
+# Total Submissions: 57.8K
 # Testcase Example:  '100'
 #
 # Given an integer, return its base 7 string representation.

@@ -1,11 +1,12 @@
 #
 # [520] Detect Capital
 #
-# https://leetcode.com/problems/detect-capital
+# https://leetcode.com/problems/detect-capital/description/
 #
-# Easy (52.11%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (51.95%)
+# Total Accepted:    50.1K
+# Total Submissions: 96.4K
 # Testcase Example:  '"USA"'
 #
 # 

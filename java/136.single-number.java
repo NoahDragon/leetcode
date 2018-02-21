@@ -1,11 +1,12 @@
 /*
  * [136] Single Number
  *
- * https://leetcode.com/problems/single-number
+ * https://leetcode.com/problems/single-number/description/
  *
- * Easy (54.18%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (55.21%)
+ * Total Accepted:    276.6K
+ * Total Submissions: 501K
  * Testcase Example:  '[1]'
  *
  * Given an array of integers, every element appears twice except for one. Find
@@ -17,7 +18,7 @@
  * it without using extra memory?
  * 
  */
-public class Solution {
+class Solution {
     public int singleNumber(int[] nums) {
         
     }

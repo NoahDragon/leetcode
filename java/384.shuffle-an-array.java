@@ -1,11 +1,12 @@
 /*
  * [384] Shuffle an Array
  *
- * https://leetcode.com/problems/shuffle-an-array
+ * https://leetcode.com/problems/shuffle-an-array/description/
  *
- * Medium (46.28%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (47.33%)
+ * Total Accepted:    38.2K
+ * Total Submissions: 80.6K
  * Testcase Example:  '["Solution","shuffle","reset","shuffle"]\n[[[1,2,3]],[],[],[]]'
  *
  * Shuffle a set of numbers without duplicates.
@@ -29,7 +30,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
 
     public Solution(int[] nums) {
         

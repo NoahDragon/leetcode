@@ -1,11 +1,12 @@
 /*
  * [276] Paint Fence
  *
- * https://leetcode.com/problems/paint-fence
+ * https://leetcode.com/problems/paint-fence/description/
  *
- * Easy (34.22%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (34.87%)
+ * Total Accepted:    30.4K
+ * Total Submissions: 87.3K
  * Testcase Example:  '0\n0'
  *
  * 

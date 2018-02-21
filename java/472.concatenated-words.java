@@ -1,11 +1,12 @@
 /*
  * [472] Concatenated Words
  *
- * https://leetcode.com/problems/concatenated-words
+ * https://leetcode.com/problems/concatenated-words/description/
  *
- * Hard (30.01%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (30.83%)
+ * Total Accepted:    10.6K
+ * Total Submissions: 34.5K
  * Testcase Example:  '["cat","cats","catsdogcats","dog","dogcatsdog","hippopotamuses","rat","ratcatdogcat"]'
  *
  * Given a list of words (without duplicates), please write a program that
@@ -35,7 +36,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public List<String> findAllConcatenatedWordsInADict(String[] words) {
         
     }

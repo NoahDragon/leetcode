@@ -1,11 +1,12 @@
 #
 # [17] Letter Combinations of a Phone Number
 #
-# https://leetcode.com/problems/letter-combinations-of-a-phone-number
+# https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
 #
-# Medium (34.16%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (36.09%)
+# Total Accepted:    215.4K
+# Total Submissions: 596.9K
 # Testcase Example:  '""'
 #
 # Given a digit string, return all possible letter combinations that the number

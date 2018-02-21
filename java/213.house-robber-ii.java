@@ -1,11 +1,12 @@
 /*
  * [213] House Robber II
  *
- * https://leetcode.com/problems/house-robber-ii
+ * https://leetcode.com/problems/house-robber-ii/description/
  *
- * Medium (33.79%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (34.57%)
+ * Total Accepted:    71.2K
+ * Total Submissions: 206.1K
  * Testcase Example:  '[]'
  *
  * Note: This is an extension of House Robber.
@@ -23,7 +24,7 @@
  * Credits:Special thanks to @Freezen for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public int rob(int[] nums) {
         
     }

@@ -1,11 +1,12 @@
 #
 # [411] Minimum Unique Word Abbreviation
 #
-# https://leetcode.com/problems/minimum-unique-word-abbreviation
+# https://leetcode.com/problems/minimum-unique-word-abbreviation/description/
 #
-# Hard (32.37%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (33.82%)
+# Total Accepted:    7.2K
+# Total Submissions: 21.2K
 # Testcase Example:  '"apple"\n["blade"]'
 #
 # A string such as "word" contains the following abbreviations:

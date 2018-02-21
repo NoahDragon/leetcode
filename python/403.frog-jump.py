@@ -1,11 +1,12 @@
 #
 # [403] Frog Jump
 #
-# https://leetcode.com/problems/frog-jump
+# https://leetcode.com/problems/frog-jump/description/
 #
-# Hard (31.93%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (32.48%)
+# Total Accepted:    23.3K
+# Total Submissions: 71.9K
 # Testcase Example:  '[0,1,3,4,5,7,9,10,12]'
 #
 # A frog is crossing a river. The river is divided into x units and at each

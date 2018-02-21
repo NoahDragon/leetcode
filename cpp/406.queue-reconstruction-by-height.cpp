@@ -1,11 +1,12 @@
 /*
  * [406] Queue Reconstruction by Height
  *
- * https://leetcode.com/problems/queue-reconstruction-by-height
+ * https://leetcode.com/problems/queue-reconstruction-by-height/description/
  *
- * Medium (55.24%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (56.70%)
+ * Total Accepted:    39.6K
+ * Total Submissions: 69.9K
  * Testcase Example:  '[[7,0],[4,4],[7,1],[5,0],[6,1],[5,2]]'
  *
  * Suppose you have a random list of people standing in a queue. Each person is
@@ -16,6 +17,8 @@
  * 
  * Note:
  * The number of people is less than 1,100.
+ * 
+ * 
  * 
  * 
  * Example

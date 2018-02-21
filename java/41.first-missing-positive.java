@@ -1,12 +1,13 @@
 /*
  * [41] First Missing Positive
  *
- * https://leetcode.com/problems/first-missing-positive
+ * https://leetcode.com/problems/first-missing-positive/description/
  *
- * Hard (25.41%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '[]'
+ * algorithms
+ * Hard (25.81%)
+ * Total Accepted:    124.3K
+ * Total Submissions: 481.5K
+ * Testcase Example:  '[1,2,0]'
  *
  * 
  * Given an unsorted integer array, find the first missing positive integer.
@@ -22,7 +23,7 @@
  * Your algorithm should run in O(n) time and uses constant space.
  * 
  */
-public class Solution {
+class Solution {
     public int firstMissingPositive(int[] nums) {
         
     }

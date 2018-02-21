@@ -1,12 +1,13 @@
 /*
  * [361] Bomb Enemy
  *
- * https://leetcode.com/problems/bomb-enemy
+ * https://leetcode.com/problems/bomb-enemy/description/
  *
- * Medium (38.78%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '["0E00","E0WE","0E00"]'
+ * algorithms
+ * Medium (40.01%)
+ * Total Accepted:    21.9K
+ * Total Submissions: 54.8K
+ * Testcase Example:  '[["0","E","0","0"],["E","0","W","E"],["0","E","0","0"]]'
  *
  * Given a 2D grid, each cell is either a wall 'W', an enemy 'E' or empty '0'
  * (the number zero), return the maximum enemies you can kill using one bomb.

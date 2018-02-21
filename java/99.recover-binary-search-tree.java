@@ -1,11 +1,12 @@
 /*
  * [99] Recover Binary Search Tree
  *
- * https://leetcode.com/problems/recover-binary-search-tree
+ * https://leetcode.com/problems/recover-binary-search-tree/description/
  *
- * Hard (29.73%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (30.81%)
+ * Total Accepted:    85K
+ * Total Submissions: 275.8K
  * Testcase Example:  '[0,1]'
  *
  * 
@@ -28,7 +29,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public void recoverTree(TreeNode root) {
         
     }

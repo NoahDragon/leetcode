@@ -1,11 +1,12 @@
 /*
  * [349] Intersection of Two Arrays
  *
- * https://leetcode.com/problems/intersection-of-two-arrays
+ * https://leetcode.com/problems/intersection-of-two-arrays/description/
  *
- * Easy (47.05%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (48.05%)
+ * Total Accepted:    121.2K
+ * Total Submissions: 252.2K
  * Testcase Example:  '[]\n[]'
  *
  * 

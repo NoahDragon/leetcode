@@ -1,11 +1,12 @@
 /*
  * [251] Flatten 2D Vector
  *
- * https://leetcode.com/problems/flatten-2d-vector
+ * https://leetcode.com/problems/flatten-2d-vector/description/
  *
- * Medium (40.13%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (41.23%)
+ * Total Accepted:    34.3K
+ * Total Submissions: 83.3K
  * Testcase Example:  '[[1,2],[3],[4,5,6]]'
  *
  * 

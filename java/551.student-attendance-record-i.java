@@ -1,11 +1,12 @@
 /*
  * [551] Student Attendance Record I
  *
- * https://leetcode.com/problems/student-attendance-record-i
+ * https://leetcode.com/problems/student-attendance-record-i/description/
  *
- * Easy (43.58%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (44.34%)
+ * Total Accepted:    28.3K
+ * Total Submissions: 63.8K
  * Testcase Example:  '"PPALLP"'
  *
  * You are given a string representing an attendance record for a student. The
@@ -43,7 +44,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean checkRecord(String s) {
         
     }

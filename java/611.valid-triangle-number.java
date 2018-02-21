@@ -1,11 +1,12 @@
 /*
  * [611] Valid Triangle Number
  *
- * https://leetcode.com/problems/valid-triangle-number
+ * https://leetcode.com/problems/valid-triangle-number/description/
  *
- * Medium (39.02%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (42.23%)
+ * Total Accepted:    15.3K
+ * Total Submissions: 36.3K
  * Testcase Example:  '[2,2,3,4]'
  *
  * Given an array consists of non-negative integers,  your task is to count the
@@ -32,7 +33,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int triangleNumber(int[] nums) {
         
     }

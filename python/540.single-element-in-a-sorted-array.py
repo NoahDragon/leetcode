@@ -1,11 +1,12 @@
 #
 # [540] Single Element in a Sorted Array
 #
-# https://leetcode.com/problems/single-element-in-a-sorted-array
+# https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 #
-# Medium (53.92%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (55.97%)
+# Total Accepted:    26.5K
+# Total Submissions: 47.3K
 # Testcase Example:  '[1,1,2]'
 #
 # 

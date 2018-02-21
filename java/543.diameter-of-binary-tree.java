@@ -1,11 +1,12 @@
 /*
  * [543] Diameter of Binary Tree
  *
- * https://leetcode.com/problems/diameter-of-binary-tree
+ * https://leetcode.com/problems/diameter-of-binary-tree/description/
  *
- * Easy (43.36%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (45.18%)
+ * Total Accepted:    49.6K
+ * Total Submissions: 109.8K
  * Testcase Example:  '[1,2,3,4,5]'
  *
  * 
@@ -44,7 +45,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
         
     }

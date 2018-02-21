@@ -1,11 +1,12 @@
 /*
  * [88] Merge Sorted Array
  *
- * https://leetcode.com/problems/merge-sorted-array
+ * https://leetcode.com/problems/merge-sorted-array/description/
  *
- * Easy (31.94%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (32.16%)
+ * Total Accepted:    217.5K
+ * Total Submissions: 676.2K
  * Testcase Example:  '[1]\n1\n[]\n0'
  *
  * Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as
@@ -17,7 +18,7 @@
  * m + n) to hold additional elements from nums2. The number of elements
  * initialized in nums1 and nums2 are m and n respectively.
  */
-public class Solution {
+class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         
     }

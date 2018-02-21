@@ -1,11 +1,12 @@
 /*
  * [425] Word Squares
  *
- * https://leetcode.com/problems/word-squares
+ * https://leetcode.com/problems/word-squares/description/
  *
- * Hard (42.21%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (43.35%)
+ * Total Accepted:    13.5K
+ * Total Submissions: 31.1K
  * Testcase Example:  '["area","lead","wall","lady","ball"]'
  *
  * Given a set of words (without duplicates), find all word squares you can
@@ -83,7 +84,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public List<List<String>> wordSquares(String[] words) {
         
     }

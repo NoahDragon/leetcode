@@ -1,11 +1,12 @@
 /*
  * [568] Maximum Vacation Days
  *
- * https://leetcode.com/problems/maximum-vacation-days
+ * https://leetcode.com/problems/maximum-vacation-days/description/
  *
- * Hard (39.89%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (37.89%)
+ * Total Accepted:    6.5K
+ * Total Submissions: 17K
  * Testcase Example:  '[[0,1,1],[1,0,1],[1,1,0]]\n[[1,3,1],[6,0,3],[3,3,3]]'
  *
  * 

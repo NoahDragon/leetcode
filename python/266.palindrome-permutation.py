@@ -1,11 +1,12 @@
 #
 # [266] Palindrome Permutation
 #
-# https://leetcode.com/problems/palindrome-permutation
+# https://leetcode.com/problems/palindrome-permutation/description/
 #
-# Easy (56.62%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (57.98%)
+# Total Accepted:    42.2K
+# Total Submissions: 72.8K
 # Testcase Example:  '"aab"'
 #
 # Given a string, determine if a permutation of the string could form a

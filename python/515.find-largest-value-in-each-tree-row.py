@@ -1,11 +1,12 @@
 #
 # [515] Find Largest Value in Each Tree Row
 #
-# https://leetcode.com/problems/find-largest-value-in-each-tree-row
+# https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/
 #
-# Medium (54.66%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (55.32%)
+# Total Accepted:    34.2K
+# Total Submissions: 61.9K
 # Testcase Example:  '[1,3,2,5,3,null,9]'
 #
 # You need to find the largest value in each row of a binary tree.

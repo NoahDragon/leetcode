@@ -1,11 +1,12 @@
 /*
  * [516] Longest Palindromic Subsequence
  *
- * https://leetcode.com/problems/longest-palindromic-subsequence
+ * https://leetcode.com/problems/longest-palindromic-subsequence/description/
  *
- * Medium (42.45%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (42.72%)
+ * Total Accepted:    26.7K
+ * Total Submissions: 62.4K
  * Testcase Example:  '"bbbab"'
  *
  * 
@@ -37,7 +38,7 @@
  * One possible longest palindromic subsequence is "bb".
  * 
  */
-public class Solution {
+class Solution {
     public int longestPalindromeSubseq(String s) {
         
     }

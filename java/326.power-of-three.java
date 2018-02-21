@@ -1,11 +1,12 @@
 /*
  * [326] Power of Three
  *
- * https://leetcode.com/problems/power-of-three
+ * https://leetcode.com/problems/power-of-three/description/
  *
- * Easy (40.06%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (40.62%)
+ * Total Accepted:    118.2K
+ * Total Submissions: 291K
  * Testcase Example:  '27'
  *
  * 
@@ -20,7 +21,7 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public boolean isPowerOfThree(int n) {
         
     }

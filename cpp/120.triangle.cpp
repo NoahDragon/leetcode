@@ -1,11 +1,12 @@
 /*
  * [120] Triangle
  *
- * https://leetcode.com/problems/triangle
+ * https://leetcode.com/problems/triangle/description/
  *
- * Medium (33.53%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (34.72%)
+ * Total Accepted:    126.2K
+ * Total Submissions: 363.6K
  * Testcase Example:  '[[-10]]'
  *
  * Given a triangle, find the minimum path sum from top to bottom. Each step

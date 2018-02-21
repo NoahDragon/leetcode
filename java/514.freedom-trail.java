@@ -1,11 +1,12 @@
 /*
  * [514] Freedom Trail
  *
- * https://leetcode.com/problems/freedom-trail
+ * https://leetcode.com/problems/freedom-trail/description/
  *
- * Hard (37.49%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (38.86%)
+ * Total Accepted:    7.6K
+ * Total Submissions: 19.7K
  * Testcase Example:  '"godding"\n"gd"'
  *
  * 
@@ -68,7 +69,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int findRotateSteps(String ring, String key) {
         
     }

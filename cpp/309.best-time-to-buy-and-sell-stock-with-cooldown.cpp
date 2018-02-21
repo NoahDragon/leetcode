@@ -1,11 +1,12 @@
 /*
  * [309] Best Time to Buy and Sell Stock with Cooldown
  *
- * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown
+ * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
  *
- * Medium (40.49%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (41.79%)
+ * Total Accepted:    56.5K
+ * Total Submissions: 135.2K
  * Testcase Example:  '[1,2,3,0,2]'
  *
  * Say you have an array for which the ith element is the price of a given

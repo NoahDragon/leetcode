@@ -1,11 +1,12 @@
 /*
  * [53] Maximum Subarray
  *
- * https://leetcode.com/problems/maximum-subarray
+ * https://leetcode.com/problems/maximum-subarray/description/
  *
- * Easy (39.45%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (40.19%)
+ * Total Accepted:    282.9K
+ * Total Submissions: 703.8K
  * Testcase Example:  '[-2,1,-3,4,-1,2,1,-5,4]'
  *
  * 

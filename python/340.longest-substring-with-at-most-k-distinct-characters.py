@@ -1,11 +1,12 @@
 #
 # [340] Longest Substring with At Most K Distinct Characters
 #
-# https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+# https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/
 #
-# Hard (38.54%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (39.10%)
+# Total Accepted:    35.2K
+# Total Submissions: 90.1K
 # Testcase Example:  '"eceba"\n2'
 #
 # 

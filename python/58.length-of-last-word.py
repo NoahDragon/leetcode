@@ -1,12 +1,13 @@
 #
 # [58] Length of Last Word
 #
-# https://leetcode.com/problems/length-of-last-word
+# https://leetcode.com/problems/length-of-last-word/description/
 #
-# Easy (31.75%)
-# Total Accepted:    
-# Total Submissions: 
-# Testcase Example:  '""'
+# algorithms
+# Easy (32.05%)
+# Total Accepted:    179.7K
+# Total Submissions: 560.8K
+# Testcase Example:  '"Hello World"'
 #
 # Given a string s consists of upper/lower-case alphabets and empty space
 # characters ' ', return the length of last word in the string.
@@ -16,10 +17,11 @@
 # Note: A word is defined as a character sequence consists of non-space
 # characters only.
 # 
+# Example:
 # 
-# For example, 
-# Given s = "Hello World",
-# return 5.
+# Input: "Hello World"
+# Output: 5
+# 
 # 
 #
 class Solution(object):

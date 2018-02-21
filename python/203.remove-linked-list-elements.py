@@ -1,11 +1,12 @@
 #
 # [203] Remove Linked List Elements
 #
-# https://leetcode.com/problems/remove-linked-list-elements
+# https://leetcode.com/problems/remove-linked-list-elements/description/
 #
-# Easy (32.16%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (33.23%)
+# Total Accepted:    144.2K
+# Total Submissions: 434K
 # Testcase Example:  '[1,2,6,3,4,5,6]\n6'
 #
 # Remove all elements from a linked list of integers that have value val.

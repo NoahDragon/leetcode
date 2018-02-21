@@ -1,18 +1,18 @@
 /*
  * [526] Beautiful Arrangement
  *
- * https://leetcode.com/problems/beautiful-arrangement
+ * https://leetcode.com/problems/beautiful-arrangement/description/
  *
- * Medium (55.18%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (53.51%)
+ * Total Accepted:    20.4K
+ * Total Submissions: 38.1K
  * Testcase Example:  '2'
  *
  * 
  * Suppose you have N integers from 1 to N. We define a beautiful arrangement
  * as an array that is constructed by these N numbers successfully if one of
- * the following is true for the ith position (1 ? i ? N) in this array:
- * 
+ * the following is true for the ith position (1 
  * The number at the ith position is divisible by i.
  * i is divisible by the number at the ith position.
  * 

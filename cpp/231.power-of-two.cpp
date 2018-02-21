@@ -1,11 +1,12 @@
 /*
  * [231] Power of Two
  *
- * https://leetcode.com/problems/power-of-two
+ * https://leetcode.com/problems/power-of-two/description/
  *
- * Easy (40.00%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (40.63%)
+ * Total Accepted:    163K
+ * Total Submissions: 401.2K
  * Testcase Example:  '1'
  *
  * 

@@ -1,11 +1,12 @@
 /*
  * [172] Factorial Trailing Zeroes
  *
- * https://leetcode.com/problems/factorial-trailing-zeroes
+ * https://leetcode.com/problems/factorial-trailing-zeroes/description/
  *
- * Easy (35.81%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (36.79%)
+ * Total Accepted:    111K
+ * Total Submissions: 301.7K
  * Testcase Example:  '0'
  *
  * Given an integer n, return the number of trailing zeroes in n!.

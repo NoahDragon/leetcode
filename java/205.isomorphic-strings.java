@@ -1,11 +1,12 @@
 /*
  * [205] Isomorphic Strings
  *
- * https://leetcode.com/problems/isomorphic-strings
+ * https://leetcode.com/problems/isomorphic-strings/description/
  *
- * Easy (33.60%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (34.56%)
+ * Total Accepted:    128.9K
+ * Total Submissions: 373.1K
  * Testcase Example:  '"egg"\n"add"'
  *
  * Given two strings s and t, determine if they are isomorphic.
@@ -26,7 +27,7 @@
  * Note:
  * You may assume both s and t have the same length.
  */
-public class Solution {
+class Solution {
     public boolean isIsomorphic(String s, String t) {
         
     }

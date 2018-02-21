@@ -1,11 +1,12 @@
 #
 # [353] Design Snake Game
 #
-# https://leetcode.com/problems/design-snake-game
+# https://leetcode.com/problems/design-snake-game/description/
 #
-# Medium (26.38%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (27.11%)
+# Total Accepted:    10.8K
+# Total Submissions: 39.8K
 # Testcase Example:  '["SnakeGame","move","move","move","move","move","move"]\n[[3,2,[[1,2],[0,1]]],["R"],["D"],["R"],["U"],["L"],["U"]]'
 #
 # Design a Snake game that is played on a device with screen size = width x
@@ -72,7 +73,7 @@
 #
 class SnakeGame(object):
 
-    def __init__(self, width,height,food):
+    def __init__(self, width, height, food):
         """
         Initialize your data structure here.
         @param width - screen width

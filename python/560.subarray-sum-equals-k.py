@@ -1,11 +1,12 @@
 #
 # [560] Subarray Sum Equals K
 #
-# https://leetcode.com/problems/subarray-sum-equals-k
+# https://leetcode.com/problems/subarray-sum-equals-k/description/
 #
-# Medium (40.94%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (40.35%)
+# Total Accepted:    29K
+# Total Submissions: 71.8K
 # Testcase Example:  '[1,1,1]\n2'
 #
 # Given an array of integers and an integer k, you need to find the total
@@ -25,7 +26,6 @@
 # integer k is [-1e7, 1e7].
 # 
 # 
-# 
 #
 class Solution(object):
     def subarraySum(self, nums, k):
@@ -34,4 +34,3 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        

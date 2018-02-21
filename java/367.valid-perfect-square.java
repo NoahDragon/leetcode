@@ -1,11 +1,12 @@
 /*
  * [367] Valid Perfect Square
  *
- * https://leetcode.com/problems/valid-perfect-square
+ * https://leetcode.com/problems/valid-perfect-square/description/
  *
- * Easy (38.07%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (38.62%)
+ * Total Accepted:    65.7K
+ * Total Submissions: 170.1K
  * Testcase Example:  '16'
  *
  * Given a positive integer num, write a function which returns True if num is
@@ -32,7 +33,7 @@
  * Credits:Special thanks to @elmirap for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public boolean isPerfectSquare(int num) {
         
     }

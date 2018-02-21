@@ -1,11 +1,12 @@
 #
 # [475] Heaters
 #
-# https://leetcode.com/problems/heaters
+# https://leetcode.com/problems/heaters/description/
 #
-# Easy (29.50%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (29.63%)
+# Total Accepted:    26.4K
+# Total Submissions: 89.2K
 # Testcase Example:  '[1,2,3]\n[2]'
 #
 # Winter is coming! Your first job during the contest is to design a standard

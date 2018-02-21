@@ -1,11 +1,12 @@
 /*
  * [477] Total Hamming Distance
  *
- * https://leetcode.com/problems/total-hamming-distance
+ * https://leetcode.com/problems/total-hamming-distance/description/
  *
- * Medium (46.35%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (47.72%)
+ * Total Accepted:    29.2K
+ * Total Submissions: 61.3K
  * Testcase Example:  '[4,14,2]'
  *
  * The Hamming distance between two integers is the number of positions at

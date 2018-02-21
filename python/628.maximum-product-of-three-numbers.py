@@ -1,11 +1,12 @@
 #
 # [628] Maximum Product of Three Numbers
 #
-# https://leetcode.com/problems/maximum-product-of-three-numbers
+# https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 #
-# Easy (45.09%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (44.68%)
+# Total Accepted:    30.4K
+# Total Submissions: 67.9K
 # Testcase Example:  '[1,2,3]'
 #
 # Given an integer array, find three numbers whose product is maximum and

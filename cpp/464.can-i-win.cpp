@@ -1,11 +1,12 @@
 /*
  * [464] Can I Win
  *
- * https://leetcode.com/problems/can-i-win
+ * https://leetcode.com/problems/can-i-win/description/
  *
- * Medium (24.45%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (25.35%)
+ * Total Accepted:    18.7K
+ * Total Submissions: 73.9K
  * Testcase Example:  '10\n11'
  *
  * In the "100 game," two players take turns adding, to a running total, any

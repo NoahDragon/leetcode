@@ -1,11 +1,12 @@
 /*
  * [410] Split Array Largest Sum
  *
- * https://leetcode.com/problems/split-array-largest-sum
+ * https://leetcode.com/problems/split-array-largest-sum/description/
  *
- * Hard (36.34%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (39.23%)
+ * Total Accepted:    20.8K
+ * Total Submissions: 53.1K
  * Testcase Example:  '[7,2,5,10,8]\n2'
  *
  * Given an array which consists of non-negative integers and an integer m, you
@@ -38,7 +39,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int splitArray(int[] nums, int m) {
         
     }

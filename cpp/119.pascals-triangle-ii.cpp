@@ -1,11 +1,12 @@
 /*
  * [119] Pascal's Triangle II
  *
- * https://leetcode.com/problems/pascals-triangle-ii
+ * https://leetcode.com/problems/pascals-triangle-ii/description/
  *
- * Easy (36.50%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (37.94%)
+ * Total Accepted:    138.9K
+ * Total Submissions: 366.1K
  * Testcase Example:  '0'
  *
  * Given an index k, return the kth row of the Pascal's triangle.

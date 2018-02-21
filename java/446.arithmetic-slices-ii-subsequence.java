@@ -1,11 +1,12 @@
 /*
  * [446] Arithmetic Slices II - Subsequence
  *
- * https://leetcode.com/problems/arithmetic-slices-ii-subsequence
+ * https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/
  *
- * Hard (26.08%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (27.90%)
+ * Total Accepted:    8.3K
+ * Total Submissions: 29.9K
  * Testcase Example:  '[2,4,6,8,10]'
  *
  * A sequence of numbers is called arithmetic if it consists of at least three
@@ -53,7 +54,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int numberOfArithmeticSlices(int[] A) {
         
     }

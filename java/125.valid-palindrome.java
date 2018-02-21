@@ -1,11 +1,12 @@
 /*
  * [125] Valid Palindrome
  *
- * https://leetcode.com/problems/valid-palindrome
+ * https://leetcode.com/problems/valid-palindrome/description/
  *
- * Easy (26.07%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (26.89%)
+ * Total Accepted:    209.2K
+ * Total Submissions: 778.1K
  * Testcase Example:  '""'
  *
  * 
@@ -27,7 +28,7 @@
  * For the purpose of this problem, we define empty string as valid palindrome.
  * 
  */
-public class Solution {
+class Solution {
     public boolean isPalindrome(String s) {
         
     }

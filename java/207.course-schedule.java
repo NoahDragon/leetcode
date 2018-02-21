@@ -1,11 +1,12 @@
 /*
  * [207] Course Schedule
  *
- * https://leetcode.com/problems/course-schedule
+ * https://leetcode.com/problems/course-schedule/description/
  *
- * Medium (31.76%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (33.44%)
+ * Total Accepted:    113.7K
+ * Total Submissions: 340K
  * Testcase Example:  '2\n[[1,0]]'
  *
  * 
@@ -51,7 +52,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         
     }

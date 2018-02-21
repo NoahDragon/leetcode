@@ -1,11 +1,12 @@
 /*
  * [537] Complex Number Multiplication
  *
- * https://leetcode.com/problems/complex-number-multiplication
+ * https://leetcode.com/problems/complex-number-multiplication/description/
  *
- * Medium (64.44%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (63.81%)
+ * Total Accepted:    21.6K
+ * Total Submissions: 33.9K
  * Testcase Example:  '"1+1i"\n"1+1i"'
  *
  * 

@@ -1,11 +1,12 @@
 /*
  * [617] Merge Two Binary Trees
  *
- * https://leetcode.com/problems/merge-two-binary-trees
+ * https://leetcode.com/problems/merge-two-binary-trees/description/
  *
- * Easy (69.32%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (67.57%)
+ * Total Accepted:    68.9K
+ * Total Submissions: 102K
  * Testcase Example:  '[1,3,2,5]\n[2,1,3,null,4,null,7]'
  *
  * 

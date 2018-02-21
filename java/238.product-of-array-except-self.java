@@ -1,11 +1,12 @@
 /*
  * [238] Product of Array Except Self
  *
- * https://leetcode.com/problems/product-of-array-except-self
+ * https://leetcode.com/problems/product-of-array-except-self/description/
  *
- * Medium (48.75%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (50.20%)
+ * Total Accepted:    137.9K
+ * Total Submissions: 274.7K
  * Testcase Example:  '[0,0]'
  *
  * 
@@ -21,7 +22,7 @@
  * Could you solve it with constant space complexity? (Note: The output array
  * does not count as extra space for the purpose of space complexity analysis.)
  */
-public class Solution {
+class Solution {
     public int[] productExceptSelf(int[] nums) {
         
     }

@@ -1,11 +1,12 @@
 #
 # [583] Delete Operation for Two Strings
 #
-# https://leetcode.com/problems/delete-operation-for-two-strings
+# https://leetcode.com/problems/delete-operation-for-two-strings/description/
 #
-# Medium (44.24%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (44.47%)
+# Total Accepted:    14.8K
+# Total Submissions: 33.4K
 # Testcase Example:  '"sea"\n"eat"'
 #
 # 

@@ -1,11 +1,12 @@
 /*
  * [34] Search for a Range
  *
- * https://leetcode.com/problems/search-for-a-range
+ * https://leetcode.com/problems/search-for-a-range/description/
  *
- * Medium (31.28%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (31.60%)
+ * Total Accepted:    177K
+ * Total Submissions: 560.2K
  * Testcase Example:  '[5,7,7,8,8,10]\n8'
  *
  * Given an array of integers sorted in ascending order, find the starting and
@@ -21,7 +22,7 @@
  * return [3, 4].
  * 
  */
-public class Solution {
+class Solution {
     public int[] searchRange(int[] nums, int target) {
         
     }

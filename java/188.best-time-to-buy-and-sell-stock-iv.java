@@ -1,11 +1,12 @@
 /*
  * [188] Best Time to Buy and Sell Stock IV
  *
- * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
+ * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/
  *
- * Hard (24.21%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (24.84%)
+ * Total Accepted:    58.2K
+ * Total Submissions: 234.5K
  * Testcase Example:  '2\n[]'
  *
  * Say you have an array for which the ith element is the price of a given
@@ -21,7 +22,7 @@
  * Credits:Special thanks to @Freezen for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public int maxProfit(int k, int[] prices) {
         
     }

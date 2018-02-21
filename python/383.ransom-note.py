@@ -1,11 +1,12 @@
 #
 # [383] Ransom Note
 #
-# https://leetcode.com/problems/ransom-note
+# https://leetcode.com/problems/ransom-note/description/
 #
-# Easy (47.00%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (47.67%)
+# Total Accepted:    73.9K
+# Total Submissions: 155K
 # Testcase Example:  '"a"\n"b"'
 #
 # 

@@ -1,11 +1,12 @@
 /*
  * [290] Word Pattern
  *
- * https://leetcode.com/problems/word-pattern
+ * https://leetcode.com/problems/word-pattern/description/
  *
- * Easy (32.89%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (33.37%)
+ * Total Accepted:    98K
+ * Total Submissions: 293.7K
  * Testcase Example:  '"abba"\n"dog cat cat dog"'
  *
  * Given a pattern and a string str, find if str follows the same pattern.

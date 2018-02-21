@@ -1,11 +1,12 @@
 /*
  * [42] Trapping Rain Water
  *
- * https://leetcode.com/problems/trapping-rain-water
+ * https://leetcode.com/problems/trapping-rain-water/description/
  *
- * Hard (36.50%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (37.47%)
+ * Total Accepted:    152.5K
+ * Total Submissions: 407.1K
  * Testcase Example:  '[]'
  *
  * 

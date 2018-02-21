@@ -1,12 +1,13 @@
 /*
  * [200] Number of Islands
  *
- * https://leetcode.com/problems/number-of-islands
+ * https://leetcode.com/problems/number-of-islands/description/
  *
- * Medium (34.15%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '["11110","11010","11000","00000"]'
+ * algorithms
+ * Medium (36.25%)
+ * Total Accepted:    158.2K
+ * Total Submissions: 436.5K
+ * Testcase Example:  '[["1","1","1","1","0"],["1","1","0","1","0"],["1","1","0","0","0"],["0","0","0","0","0"]]'
  *
  * Given a 2d grid map of '1's (land) and '0's (water), count the number of
  * islands. An island is surrounded by water and is formed by connecting
@@ -23,7 +24,7 @@
  * Credits:Special thanks to @mithmatt for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public int numIslands(char[][] grid) {
         
     }

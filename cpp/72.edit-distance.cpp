@@ -1,11 +1,12 @@
 /*
  * [72] Edit Distance
  *
- * https://leetcode.com/problems/edit-distance
+ * https://leetcode.com/problems/edit-distance/description/
  *
- * Hard (31.50%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (32.42%)
+ * Total Accepted:    109.5K
+ * Total Submissions: 337.7K
  * Testcase Example:  '""\n""'
  *
  * 

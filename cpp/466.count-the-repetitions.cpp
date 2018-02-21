@@ -1,11 +1,12 @@
 /*
  * [466] Count The Repetitions
  *
- * https://leetcode.com/problems/count-the-repetitions
+ * https://leetcode.com/problems/count-the-repetitions/description/
  *
- * Hard (27.63%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (27.32%)
+ * Total Accepted:    5.3K
+ * Total Submissions: 19.4K
  * Testcase Example:  '"acb"\n4\n"ab"\n2'
  *
  * Define S = [s,n] as the string S which consists of n connected strings s.

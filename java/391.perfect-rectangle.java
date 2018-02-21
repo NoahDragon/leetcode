@@ -1,11 +1,12 @@
 /*
  * [391] Perfect Rectangle
  *
- * https://leetcode.com/problems/perfect-rectangle
+ * https://leetcode.com/problems/perfect-rectangle/description/
  *
- * Hard (25.99%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (27.35%)
+ * Total Accepted:    13.3K
+ * Total Submissions: 48.5K
  * Testcase Example:  '[[1,1,3,3],[3,1,4,2],[3,2,4,4],[1,3,2,4],[2,3,3,4]]'
  *
  * 
@@ -86,7 +87,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean isRectangleCover(int[][] rectangles) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [380] Insert Delete GetRandom O(1)
  *
- * https://leetcode.com/problems/insert-delete-getrandom-o1
+ * https://leetcode.com/problems/insert-delete-getrandom-o1/description/
  *
- * Medium (38.99%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (39.83%)
+ * Total Accepted:    53.8K
+ * Total Submissions: 135.2K
  * Testcase Example:  '["RandomizedSet","insert","remove","insert","getRandom","remove","insert","getRandom"]\n[[],[1],[2],[2],[],[1],[2],[]]'
  *
  * Design a data structure that supports all following operations in average
@@ -48,7 +49,7 @@
  * 
  * 
  */
-public class RandomizedSet {
+class RandomizedSet {
 
     /** Initialize your data structure here. */
     public RandomizedSet() {

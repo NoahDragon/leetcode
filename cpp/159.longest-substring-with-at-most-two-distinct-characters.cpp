@@ -1,11 +1,12 @@
 /*
  * [159] Longest Substring with At Most Two Distinct Characters
  *
- * https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters
+ * https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/
  *
- * Hard (40.87%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (42.60%)
+ * Total Accepted:    35.3K
+ * Total Submissions: 82.8K
  * Testcase Example:  '"eceba"'
  *
  * 

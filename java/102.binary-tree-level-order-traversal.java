@@ -1,11 +1,12 @@
 /*
  * [102] Binary Tree Level Order Traversal
  *
- * https://leetcode.com/problems/binary-tree-level-order-traversal
+ * https://leetcode.com/problems/binary-tree-level-order-traversal/description/
  *
- * Medium (39.21%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (41.98%)
+ * Total Accepted:    220.8K
+ * Total Submissions: 526.1K
  * Testcase Example:  '[3,9,20,null,null,15,7]'
  *
  * Given a binary tree, return the level order traversal of its nodes' values.
@@ -42,7 +43,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         
     }

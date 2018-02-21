@@ -1,11 +1,12 @@
 /*
  * [16] 3Sum Closest
  *
- * https://leetcode.com/problems/3sum-closest
+ * https://leetcode.com/problems/3sum-closest/description/
  *
- * Medium (30.99%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (31.57%)
+ * Total Accepted:    163.5K
+ * Total Submissions: 517.9K
  * Testcase Example:  '[0,0,0]\n1'
  *
  * Given an array S of n integers, find three integers in S such that the sum

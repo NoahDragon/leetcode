@@ -1,11 +1,12 @@
 /*
  * [325] Maximum Size Subarray Sum Equals k
  *
- * https://leetcode.com/problems/maximum-size-subarray-sum-equals-k
+ * https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/
  *
- * Medium (42.24%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (43.18%)
+ * Total Accepted:    45.6K
+ * Total Submissions: 105.6K
  * Testcase Example:  '[1,-1,5,-2,3]\n3'
  *
  * 

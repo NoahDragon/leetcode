@@ -1,11 +1,12 @@
 #
 # [392] Is Subsequence
 #
-# https://leetcode.com/problems/is-subsequence
+# https://leetcode.com/problems/is-subsequence/description/
 #
-# Medium (44.38%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (44.62%)
+# Total Accepted:    47.5K
+# Total Submissions: 106.4K
 # Testcase Example:  '"abc"\n"ahbgdc"'
 #
 # 
@@ -15,8 +16,7 @@
 # 
 # You may assume that there is only lower case English letters in both s and t.
 # t is potentially a very long (length ~= 500,000) string, and s is a short
-# string (<=100).
-# 
+# string (
 # 
 # 
 # A subsequence of a string is a new string which is formed from the original

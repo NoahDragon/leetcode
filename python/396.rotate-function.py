@@ -1,11 +1,12 @@
 #
 # [396] Rotate Function
 #
-# https://leetcode.com/problems/rotate-function
+# https://leetcode.com/problems/rotate-function/description/
 #
-# Medium (32.25%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (33.69%)
+# Total Accepted:    25.8K
+# Total Submissions: 76.5K
 # Testcase Example:  '[]'
 #
 # 

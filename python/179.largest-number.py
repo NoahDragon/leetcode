@@ -1,11 +1,12 @@
 #
 # [179] Largest Number
 #
-# https://leetcode.com/problems/largest-number
+# https://leetcode.com/problems/largest-number/description/
 #
-# Medium (22.41%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (23.30%)
+# Total Accepted:    89K
+# Total Submissions: 381.9K
 # Testcase Example:  '[1]'
 #
 # Given a list of non negative integers, arrange them such that they form the

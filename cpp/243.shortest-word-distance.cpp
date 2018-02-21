@@ -1,11 +1,12 @@
 /*
  * [243] Shortest Word Distance
  *
- * https://leetcode.com/problems/shortest-word-distance
+ * https://leetcode.com/problems/shortest-word-distance/description/
  *
- * Easy (52.05%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (53.46%)
+ * Total Accepted:    41.2K
+ * Total Submissions: 77K
  * Testcase Example:  '["a","b"]\n"a"\n"b"'
  *
  * Given a list of words and two words word1 and word2, return the shortest

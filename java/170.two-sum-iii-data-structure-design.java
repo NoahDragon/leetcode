@@ -1,11 +1,12 @@
 /*
  * [170] Two Sum III - Data structure design
  *
- * https://leetcode.com/problems/two-sum-iii-data-structure-design
+ * https://leetcode.com/problems/two-sum-iii-data-structure-design/description/
  *
- * Easy (24.12%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (26.12%)
+ * Total Accepted:    35.3K
+ * Total Submissions: 135.1K
  * Testcase Example:  '["TwoSum","add","add","add","find","find"]\n[[],[1],[3],[5],[4],[7]]'
  *
  * Design and implement a TwoSum class. It should support the following
@@ -26,7 +27,7 @@
  * 
  * 
  */
-public class TwoSum {
+class TwoSum {
 
     /** Initialize your data structure here. */
     public TwoSum() {

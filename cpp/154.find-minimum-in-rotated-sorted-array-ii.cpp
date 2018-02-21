@@ -1,11 +1,12 @@
 /*
  * [154] Find Minimum in Rotated Sorted Array II
  *
- * https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii
+ * https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/
  *
- * Hard (36.94%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (37.73%)
+ * Total Accepted:    91.9K
+ * Total Submissions: 243.5K
  * Testcase Example:  '[1]'
  *
  * 

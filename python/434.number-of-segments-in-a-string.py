@@ -1,11 +1,12 @@
 #
 # [434] Number of Segments in a String
 #
-# https://leetcode.com/problems/number-of-segments-in-a-string
+# https://leetcode.com/problems/number-of-segments-in-a-string/description/
 #
-# Easy (36.72%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (36.70%)
+# Total Accepted:    35K
+# Total Submissions: 95.3K
 # Testcase Example:  '"Hello, my name is John"'
 #
 # Count the number of segments in a string, where a segment is defined to be a

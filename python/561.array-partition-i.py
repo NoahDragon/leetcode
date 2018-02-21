@@ -1,11 +1,12 @@
 #
 # [561] Array Partition I
 #
-# https://leetcode.com/problems/array-partition-i
+# https://leetcode.com/problems/array-partition-i/description/
 #
-# Easy (68.26%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (66.54%)
+# Total Accepted:    66.7K
+# Total Submissions: 100.2K
 # Testcase Example:  '[1,4,3,2]'
 #
 # 

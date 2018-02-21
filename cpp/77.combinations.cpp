@@ -1,11 +1,12 @@
 /*
  * [77] Combinations
  *
- * https://leetcode.com/problems/combinations
+ * https://leetcode.com/problems/combinations/description/
  *
- * Medium (39.30%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (40.92%)
+ * Total Accepted:    137.1K
+ * Total Submissions: 335.2K
  * Testcase Example:  '4\n2'
  *
  * 

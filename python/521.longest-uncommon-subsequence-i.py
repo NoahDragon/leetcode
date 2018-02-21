@@ -1,11 +1,12 @@
 #
 # [521] Longest Uncommon Subsequence I 
 #
-# https://leetcode.com/problems/longest-uncommon-subsequence-i
+# https://leetcode.com/problems/longest-uncommon-subsequence-i/description/
 #
-# Easy (54.84%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (55.70%)
+# Total Accepted:    27.1K
+# Total Submissions: 48.6K
 # Testcase Example:  '"aba"\n"cdc"'
 #
 # 

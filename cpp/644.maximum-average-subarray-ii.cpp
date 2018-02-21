@@ -1,12 +1,12 @@
 /*
  * [644] Maximum Average Subarray II
  *
- * https://leetcode.com/problems/maximum-average-subarray-ii
+ * https://leetcode.com/problems/maximum-average-subarray-ii/description/
  *
  * algorithms
- * Hard (17.08%)
- * Total Accepted:    1.2K
- * Total Submissions: 7.1K
+ * Hard (24.37%)
+ * Total Accepted:    4.5K
+ * Total Submissions: 18.4K
  * Testcase Example:  '[1,12,-5,-6,50,3]\n4'
  *
  * 
@@ -30,7 +30,7 @@
  * 
  * Note:
  * 
- * 1 <= k <= n <= 10,000.
+ * 1 k n 
  * Elements of the given array will be in range [-10,000, 10,000].
  * The answer with the calculation error less than 10-5 will be accepted.
  * 

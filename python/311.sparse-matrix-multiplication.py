@@ -1,11 +1,12 @@
 #
 # [311] Sparse Matrix Multiplication
 #
-# https://leetcode.com/problems/sparse-matrix-multiplication
+# https://leetcode.com/problems/sparse-matrix-multiplication/description/
 #
-# Medium (50.70%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (52.32%)
+# Total Accepted:    43K
+# Total Submissions: 82.1K
 # Testcase Example:  '[[1,0,0],[-1,0,3]]\n[[7,0,0],[0,0,0],[0,0,1]]'
 #
 # Given two sparse matrices A and B, return the result of AB.

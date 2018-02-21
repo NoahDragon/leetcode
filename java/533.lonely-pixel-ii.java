@@ -1,12 +1,13 @@
 /*
  * [533] Lonely Pixel II
  *
- * https://leetcode.com/problems/lonely-pixel-ii
+ * https://leetcode.com/problems/lonely-pixel-ii/description/
  *
- * Medium (41.46%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '["WBWBBW","WBWBBW","WBWBBW","WWBWBW"]\n3'
+ * algorithms
+ * Medium (45.16%)
+ * Total Accepted:    5.3K
+ * Total Submissions: 11.8K
+ * Testcase Example:  '[["W","B","W","B","B","W"],["W","B","W","B","B","W"],["W","B","W","B","B","W"],["W","W","B","W","B","W"]]\n3'
  *
  * Given a picture consisting of black and white pixels, and a positive integer
  * N, find the number of black pixels located at some specific row R and column
@@ -55,7 +56,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int findBlackPixel(char[][] picture, int N) {
         
     }

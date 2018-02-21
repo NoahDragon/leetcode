@@ -1,11 +1,12 @@
 /*
  * [553] Optimal Division
  *
- * https://leetcode.com/problems/optimal-division
+ * https://leetcode.com/problems/optimal-division/description/
  *
- * Medium (54.97%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (55.18%)
+ * Total Accepted:    12.5K
+ * Total Submissions: 22.7K
  * Testcase Example:  '[1000,100,10,2]'
  *
  * Given a list of positive integers, the adjacent integers will perform the
@@ -42,7 +43,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public String optimalDivision(int[] nums) {
         
     }

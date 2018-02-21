@@ -1,11 +1,12 @@
 #
 # [167] Two Sum II - Input array is sorted
 #
-# https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+# https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 #
-# Easy (47.11%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (47.26%)
+# Total Accepted:    123.9K
+# Total Submissions: 262.3K
 # Testcase Example:  '[2,3,4]\n6'
 #
 # Given an array of integers that is already sorted in ascending order, find

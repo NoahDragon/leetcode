@@ -1,11 +1,12 @@
 /*
  * [592] Fraction Addition and Subtraction
  *
- * https://leetcode.com/problems/fraction-addition-and-subtraction
+ * https://leetcode.com/problems/fraction-addition-and-subtraction/description/
  *
- * Medium (46.99%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (46.02%)
+ * Total Accepted:    7.4K
+ * Total Submissions: 16.1K
  * Testcase Example:  '"-1/2+1/2"'
  *
  * Given a string representing an expression of fraction addition and

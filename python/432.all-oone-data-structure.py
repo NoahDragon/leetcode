@@ -1,11 +1,12 @@
 #
 # [432] All O`one Data Structure
 #
-# https://leetcode.com/problems/all-oone-data-structure
+# https://leetcode.com/problems/all-oone-data-structure/description/
 #
-# Hard (27.64%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (28.05%)
+# Total Accepted:    8.9K
+# Total Submissions: 31.6K
 # Testcase Example:  '["AllOne","getMaxKey","getMinKey"]\n[[],[],[]]'
 #
 # Implement a data structure supporting the following operations:

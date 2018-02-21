@@ -1,11 +1,12 @@
 #
 # [371] Sum of Two Integers
 #
-# https://leetcode.com/problems/sum-of-two-integers
+# https://leetcode.com/problems/sum-of-two-integers/description/
 #
-# Easy (51.22%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (51.03%)
+# Total Accepted:    90.7K
+# Total Submissions: 177.7K
 # Testcase Example:  '1\n2'
 #
 # Calculate the sum of two integers a and b, but you are not allowed to use the

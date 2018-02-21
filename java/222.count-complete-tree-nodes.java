@@ -1,11 +1,12 @@
 /*
  * [222] Count Complete Tree Nodes
  *
- * https://leetcode.com/problems/count-complete-tree-nodes
+ * https://leetcode.com/problems/count-complete-tree-nodes/description/
  *
- * Medium (27.37%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (27.68%)
+ * Total Accepted:    74.4K
+ * Total Submissions: 268.7K
  * Testcase Example:  '[]'
  *
  * Given a complete binary tree, count the number of nodes.
@@ -24,7 +25,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public int countNodes(TreeNode root) {
         
     }

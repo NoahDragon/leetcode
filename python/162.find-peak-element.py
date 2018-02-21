@@ -1,11 +1,12 @@
 #
 # [162] Find Peak Element
 #
-# https://leetcode.com/problems/find-peak-element
+# https://leetcode.com/problems/find-peak-element/description/
 #
-# Medium (37.12%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (38.66%)
+# Total Accepted:    142.8K
+# Total Submissions: 369.4K
 # Testcase Example:  '[1,2,3,1]'
 #
 # A peak element is an element that is greater than its neighbors.

@@ -1,11 +1,12 @@
 #
 # [315] Count of Smaller Numbers After Self
 #
-# https://leetcode.com/problems/count-of-smaller-numbers-after-self
+# https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/
 #
-# Hard (34.31%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (35.05%)
+# Total Accepted:    43.6K
+# Total Submissions: 124.5K
 # Testcase Example:  '[5,2,6,1]'
 #
 # 

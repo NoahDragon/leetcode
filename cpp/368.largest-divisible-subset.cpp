@@ -1,11 +1,12 @@
 /*
  * [368] Largest Divisible Subset
  *
- * https://leetcode.com/problems/largest-divisible-subset
+ * https://leetcode.com/problems/largest-divisible-subset/description/
  *
- * Medium (33.65%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (33.89%)
+ * Total Accepted:    32.2K
+ * Total Submissions: 95K
  * Testcase Example:  '[1,2,3]'
  *
  * 

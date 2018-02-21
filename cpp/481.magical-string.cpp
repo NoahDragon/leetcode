@@ -1,11 +1,12 @@
 /*
  * [481] Magical String
  *
- * https://leetcode.com/problems/magical-string
+ * https://leetcode.com/problems/magical-string/description/
  *
- * Medium (45.14%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (45.70%)
+ * Total Accepted:    12.7K
+ * Total Submissions: 27.7K
  * Testcase Example:  '1'
  *
  * 

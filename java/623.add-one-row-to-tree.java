@@ -1,11 +1,12 @@
 /*
  * [623] Add One Row to Tree
  *
- * https://leetcode.com/problems/add-one-row-to-tree
+ * https://leetcode.com/problems/add-one-row-to-tree/description/
  *
- * Medium (48.08%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (46.20%)
+ * Total Accepted:    13.3K
+ * Total Submissions: 28.7K
  * Testcase Example:  '[4,2,6,3,1,5]\n1\n2'
  *
  * Given the root of a binary tree, then value v and depth d, you need to add a
@@ -89,7 +90,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public TreeNode addOneRow(TreeNode root, int v, int d) {
         
     }

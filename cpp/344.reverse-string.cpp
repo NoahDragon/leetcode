@@ -1,11 +1,12 @@
 /*
  * [344] Reverse String
  *
- * https://leetcode.com/problems/reverse-string
+ * https://leetcode.com/problems/reverse-string/description/
  *
- * Easy (58.94%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (60.05%)
+ * Total Accepted:    219.6K
+ * Total Submissions: 365.8K
  * Testcase Example:  '"hello"'
  *
  * Write a function that takes a string as input and returns the string

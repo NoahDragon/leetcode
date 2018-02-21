@@ -1,11 +1,12 @@
 #
 # [281] Zigzag Iterator
 #
-# https://leetcode.com/problems/zigzag-iterator
+# https://leetcode.com/problems/zigzag-iterator/description/
 #
-# Medium (50.08%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (52.27%)
+# Total Accepted:    34.7K
+# Total Submissions: 66.5K
 # Testcase Example:  '[1,2]\n[3,4,5,6]'
 #
 # 

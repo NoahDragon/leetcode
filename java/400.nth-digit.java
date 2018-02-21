@@ -1,11 +1,12 @@
 /*
  * [400] Nth Digit
  *
- * https://leetcode.com/problems/nth-digit
+ * https://leetcode.com/problems/nth-digit/description/
  *
- * Easy (30.18%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (30.19%)
+ * Total Accepted:    32.1K
+ * Total Submissions: 106.3K
  * Testcase Example:  '3'
  *
  * Find the nth digit of the infinite integer sequence 1, 2, 3, 4, 5, 6, 7, 8,
@@ -40,7 +41,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int findNthDigit(int n) {
         
     }

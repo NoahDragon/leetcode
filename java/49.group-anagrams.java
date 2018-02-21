@@ -1,11 +1,12 @@
 /*
  * [49] Group Anagrams
  *
- * https://leetcode.com/problems/group-anagrams
+ * https://leetcode.com/problems/group-anagrams/description/
  *
- * Medium (34.11%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (37.77%)
+ * Total Accepted:    183.5K
+ * Total Submissions: 485.9K
  * Testcase Example:  '["eat","tea","tan","ate","nat","bat"]'
  *
  * Given an array of strings, group anagrams together.
@@ -22,7 +23,7 @@
  * 
  * Note: All inputs will be in lower-case.
  */
-public class Solution {
+class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         
     }

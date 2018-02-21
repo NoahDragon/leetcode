@@ -1,11 +1,12 @@
 #
 # [148] Sort List
 #
-# https://leetcode.com/problems/sort-list
+# https://leetcode.com/problems/sort-list/description/
 #
-# Medium (28.49%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (29.65%)
+# Total Accepted:    125.9K
+# Total Submissions: 424.8K
 # Testcase Example:  '[]'
 #
 # Sort a linked list in O(n log n) time using constant space complexity.

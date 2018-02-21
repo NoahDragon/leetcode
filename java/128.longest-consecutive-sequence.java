@@ -1,11 +1,12 @@
 /*
  * [128] Longest Consecutive Sequence
  *
- * https://leetcode.com/problems/longest-consecutive-sequence
+ * https://leetcode.com/problems/longest-consecutive-sequence/description/
  *
- * Hard (36.52%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (38.03%)
+ * Total Accepted:    132.5K
+ * Total Submissions: 348.5K
  * Testcase Example:  '[100,4,200,1,3,2]'
  *
  * 
@@ -22,7 +23,7 @@
  * Your algorithm should run in O(n) complexity.
  * 
  */
-public class Solution {
+class Solution {
     public int longestConsecutive(int[] nums) {
         
     }

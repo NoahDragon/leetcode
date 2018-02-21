@@ -1,12 +1,12 @@
 /*
  * [640] Solve the Equation
  *
- * https://leetcode.com/problems/solve-the-equation
+ * https://leetcode.com/problems/solve-the-equation/description/
  *
  * algorithms
- * Medium (39.84%)
- * Total Accepted:    2.8K
- * Total Submissions: 7K
+ * Medium (38.87%)
+ * Total Accepted:    8.2K
+ * Total Submissions: 21.1K
  * Testcase Example:  '"x+5-3+x=6+x-2"'
  *
  * 
@@ -62,7 +62,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public String solveEquation(String equation) {
         
     }

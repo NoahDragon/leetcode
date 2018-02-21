@@ -1,11 +1,12 @@
 /*
  * [171] Excel Sheet Column Number
  *
- * https://leetcode.com/problems/excel-sheet-column-number
+ * https://leetcode.com/problems/excel-sheet-column-number/description/
  *
- * Easy (46.79%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (48.25%)
+ * Total Accepted:    158.5K
+ * Total Submissions: 328.5K
  * Testcase Example:  '"A"'
  *
  * Related to question Excel Sheet Column Title

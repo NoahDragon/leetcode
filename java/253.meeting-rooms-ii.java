@@ -1,11 +1,12 @@
 /*
  * [253] Meeting Rooms II
  *
- * https://leetcode.com/problems/meeting-rooms-ii
+ * https://leetcode.com/problems/meeting-rooms-ii/description/
  *
- * Medium (38.76%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (39.48%)
+ * Total Accepted:    61.8K
+ * Total Submissions: 156.6K
  * Testcase Example:  '[]'
  *
  * Given an array of meeting time intervals consisting of start and end times
@@ -27,7 +28,7 @@
  *     Interval(int s, int e) { start = s; end = e; }
  * }
  */
-public class Solution {
+class Solution {
     public int minMeetingRooms(Interval[] intervals) {
         
     }

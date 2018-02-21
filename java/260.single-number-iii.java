@@ -1,11 +1,12 @@
 /*
  * [260] Single Number III
  *
- * https://leetcode.com/problems/single-number-iii
+ * https://leetcode.com/problems/single-number-iii/description/
  *
- * Medium (51.18%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (52.87%)
+ * Total Accepted:    78.5K
+ * Total Submissions: 148.5K
  * Testcase Example:  '[1,2,1,3,2,5]'
  *
  * 
@@ -32,7 +33,7 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
-public class Solution {
+class Solution {
     public int[] singleNumber(int[] nums) {
         
     }

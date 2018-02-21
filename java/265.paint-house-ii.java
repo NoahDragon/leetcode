@@ -1,11 +1,12 @@
 /*
  * [265] Paint House II
  *
- * https://leetcode.com/problems/paint-house-ii
+ * https://leetcode.com/problems/paint-house-ii/description/
  *
- * Hard (37.76%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (38.38%)
+ * Total Accepted:    28.9K
+ * Total Submissions: 75.3K
  * Testcase Example:  '[]'
  *
  * 
@@ -27,7 +28,7 @@
  * Follow up:
  * Could you solve it in O(nk) runtime?
  */
-public class Solution {
+class Solution {
     public int minCostII(int[][] costs) {
         
     }

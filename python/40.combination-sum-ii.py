@@ -1,11 +1,12 @@
 #
 # [40] Combination Sum II
 #
-# https://leetcode.com/problems/combination-sum-ii
+# https://leetcode.com/problems/combination-sum-ii/description/
 #
-# Medium (33.28%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (35.53%)
+# Total Accepted:    143.3K
+# Total Submissions: 403.2K
 # Testcase Example:  '[10,1,2,7,6,1,5]\n8'
 #
 # 

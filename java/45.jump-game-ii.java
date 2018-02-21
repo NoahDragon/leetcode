@@ -1,11 +1,12 @@
 /*
  * [45] Jump Game II
  *
- * https://leetcode.com/problems/jump-game-ii
+ * https://leetcode.com/problems/jump-game-ii/description/
  *
- * Hard (26.16%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (26.15%)
+ * Total Accepted:    110K
+ * Total Submissions: 420.5K
  * Testcase Example:  '[0]'
  *
  * 
@@ -33,7 +34,7 @@
  * Note:
  * You can assume that you can always reach the last index.
  */
-public class Solution {
+class Solution {
     public int jump(int[] nums) {
         
     }

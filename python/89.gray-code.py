@@ -1,11 +1,12 @@
 #
 # [89] Gray Code
 #
-# https://leetcode.com/problems/gray-code
+# https://leetcode.com/problems/gray-code/description/
 #
-# Medium (40.79%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (42.24%)
+# Total Accepted:    103.3K
+# Total Submissions: 244.6K
 # Testcase Example:  '0'
 #
 # The gray code is a binary numeral system where two successive values differ

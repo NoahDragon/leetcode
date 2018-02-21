@@ -1,11 +1,12 @@
 /*
  * [541] Reverse String II
  *
- * https://leetcode.com/problems/reverse-string-ii
+ * https://leetcode.com/problems/reverse-string-ii/description/
  *
- * Easy (43.93%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (43.75%)
+ * Total Accepted:    33.5K
+ * Total Submissions: 76.5K
  * Testcase Example:  '"abcdefg"\n2'
  *
  * 
@@ -29,7 +30,7 @@
  * ⁠Length of the given string and k will in the range [1, 10000]
  * 
  */
-public class Solution {
+class Solution {
     public String reverseStr(String s, int k) {
         
     }

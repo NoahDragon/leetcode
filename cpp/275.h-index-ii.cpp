@@ -1,11 +1,12 @@
 /*
  * [275] H-Index II
  *
- * https://leetcode.com/problems/h-index-ii
+ * https://leetcode.com/problems/h-index-ii/description/
  *
- * Medium (34.21%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (34.81%)
+ * Total Accepted:    59.5K
+ * Total Submissions: 171K
  * Testcase Example:  '[]'
  *
  * 

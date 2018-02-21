@@ -1,11 +1,12 @@
 /*
  * [68] Text Justification
  *
- * https://leetcode.com/problems/text-justification
+ * https://leetcode.com/problems/text-justification/description/
  *
- * Hard (18.87%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (19.89%)
+ * Total Accepted:    67.5K
+ * Total Submissions: 339.5K
  * Testcase Example:  '[""]\n0'
  *
  * 
@@ -64,7 +65,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public List<String> fullJustify(String[] words, int maxWidth) {
         
     }

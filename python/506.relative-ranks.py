@@ -1,11 +1,12 @@
 #
 # [506] Relative Ranks
 #
-# https://leetcode.com/problems/relative-ranks
+# https://leetcode.com/problems/relative-ranks/description/
 #
-# Easy (46.73%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (46.84%)
+# Total Accepted:    27.3K
+# Total Submissions: 58.3K
 # Testcase Example:  '[5,4,3,2,1]'
 #
 # 

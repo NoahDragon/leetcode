@@ -1,11 +1,12 @@
 /*
  * [637] Average of Levels in Binary Tree
  *
- * https://leetcode.com/problems/average-of-levels-in-binary-tree
+ * https://leetcode.com/problems/average-of-levels-in-binary-tree/description/
  *
- * Easy (60.95%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (55.84%)
+ * Total Accepted:    35.8K
+ * Total Submissions: 64.1K
  * Testcase Example:  '[3,9,20,15,7]'
  *
  * Given a non-empty binary tree, return the average value of the nodes on each

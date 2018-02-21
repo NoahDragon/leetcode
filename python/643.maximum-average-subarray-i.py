@@ -1,12 +1,12 @@
 #
 # [643] Maximum Average Subarray I
 #
-# https://leetcode.com/problems/maximum-average-subarray-i
+# https://leetcode.com/problems/maximum-average-subarray-i/description/
 #
 # algorithms
-# Easy (39.37%)
-# Total Accepted:    4.6K
-# Total Submissions: 11.6K
+# Easy (37.49%)
+# Total Accepted:    24.4K
+# Total Submissions: 65K
 # Testcase Example:  '[1,12,-5,-6,50,3]\n4'
 #
 # 
@@ -25,7 +25,7 @@
 # 
 # Note:
 # 
-# 1 <= k <= n <= 30,000.
+# 1 k n 
 # Elements of the given array will be in the range [-10,000, 10,000].
 # 
 # 
@@ -37,3 +37,4 @@ class Solution(object):
         :type k: int
         :rtype: float
         """
+        

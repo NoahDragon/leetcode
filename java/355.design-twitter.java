@@ -1,11 +1,12 @@
 /*
  * [355] Design Twitter
  *
- * https://leetcode.com/problems/design-twitter
+ * https://leetcode.com/problems/design-twitter/description/
  *
- * Medium (25.23%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (25.84%)
+ * Total Accepted:    23.6K
+ * Total Submissions: 91.2K
  * Testcase Example:  '["Twitter","postTweet","getNewsFeed","follow","postTweet","getNewsFeed","unfollow","getNewsFeed"]\n[[],[1,5],[1],[1,2],[2,6],[1],[1,2],[1]]'
  *
  * Design a simplified version of Twitter where users can post tweets,
@@ -54,7 +55,7 @@
  * 
  * 
  */
-public class Twitter {
+class Twitter {
 
     /** Initialize your data structure here. */
     public Twitter() {

@@ -1,12 +1,13 @@
 #
 # [302] Smallest Rectangle Enclosing Black Pixels
 #
-# https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels
+# https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/
 #
-# Hard (45.17%)
-# Total Accepted:    
-# Total Submissions: 
-# Testcase Example:  '["0010","0110","0100"]\n0\n2'
+# algorithms
+# Hard (46.44%)
+# Total Accepted:    16.7K
+# Total Submissions: 35.9K
+# Testcase Example:  '[["0","0","1","0"],["0","1","1","0"],["0","1","0","0"]]\n0\n2'
 #
 # An image is represented by a binary matrix with 0 as a white pixel and 1 as a
 # black pixel. The black pixels are connected, i.e., there is only one black

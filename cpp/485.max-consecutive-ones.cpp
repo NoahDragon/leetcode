@@ -1,11 +1,12 @@
 /*
  * [485] Max Consecutive Ones
  *
- * https://leetcode.com/problems/max-consecutive-ones
+ * https://leetcode.com/problems/max-consecutive-ones/description/
  *
- * Easy (54.16%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (53.83%)
+ * Total Accepted:    72.7K
+ * Total Submissions: 135K
  * Testcase Example:  '[1,0,1,1,0,1]'
  *
  * Given a binary array, find the maximum number of consecutive 1s in this

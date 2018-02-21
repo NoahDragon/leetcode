@@ -1,11 +1,12 @@
 #
 # [295] Find Median from Data Stream
 #
-# https://leetcode.com/problems/find-median-from-data-stream
+# https://leetcode.com/problems/find-median-from-data-stream/description/
 #
-# Hard (26.07%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (29.02%)
+# Total Accepted:    56K
+# Total Submissions: 192.9K
 # Testcase Example:  '["MedianFinder","addNum","addNum","findMedian","addNum","findMedian"]\n[[],[1],[2],[],[3],[]]'
 #
 # Median is the middle value in an ordered integer list. If the size of the

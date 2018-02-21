@@ -1,11 +1,12 @@
 /*
  * [163] Missing Ranges
  *
- * https://leetcode.com/problems/missing-ranges
+ * https://leetcode.com/problems/missing-ranges/description/
  *
- * Medium (24.84%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (23.35%)
+ * Total Accepted:    36.5K
+ * Total Submissions: 156.2K
  * Testcase Example:  '[0,1,3,50,75]\n0\n99'
  *
  * 
@@ -17,7 +18,7 @@
  * "4->49", "51->74", "76->99"].
  * 
  */
-public class Solution {
+class Solution {
     public List<String> findMissingRanges(int[] nums, int lower, int upper) {
         
     }

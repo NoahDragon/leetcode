@@ -1,11 +1,12 @@
 #
 # [356] Line Reflection
 #
-# https://leetcode.com/problems/line-reflection
+# https://leetcode.com/problems/line-reflection/description/
 #
-# Medium (30.10%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (30.26%)
+# Total Accepted:    13.4K
+# Total Submissions: 44.4K
 # Testcase Example:  '[[1,1],[-1,1]]'
 #
 # Given n points on a 2D plane, find if there is such a line parallel to y-axis

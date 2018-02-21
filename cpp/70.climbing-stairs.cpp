@@ -1,12 +1,13 @@
 /*
  * [70] Climbing Stairs
  *
- * https://leetcode.com/problems/climbing-stairs
+ * https://leetcode.com/problems/climbing-stairs/description/
  *
- * Easy (39.76%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '1'
+ * algorithms
+ * Easy (40.97%)
+ * Total Accepted:    230.3K
+ * Total Submissions: 562.1K
+ * Testcase Example:  '2'
  *
  * You are climbing a stair case. It takes n steps to reach to the top.
  * 
@@ -15,6 +16,31 @@
  * 
  * 
  * Note: Given n will be a positive integer.
+ * 
+ * 
+ * 
+ * 
+ * Example 1:
+ * 
+ * Input: 2
+ * Output:  2
+ * Explanation:  There are two ways to climb to the top.
+ * 
+ * 1. 1 step + 1 step
+ * 2. 2 steps
+ * 
+ * 
+ * 
+ * Example 2:
+ * 
+ * Input: 3
+ * Output:  3
+ * Explanation:  There are three ways to climb to the top.
+ * 
+ * 1. 1 step + 1 step + 1 step
+ * 2. 1 step + 2 steps
+ * 3. 2 steps + 1 step
+ * 
  * 
  */
 class Solution {

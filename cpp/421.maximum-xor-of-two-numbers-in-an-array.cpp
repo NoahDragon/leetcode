@@ -1,11 +1,12 @@
 /*
  * [421] Maximum XOR of Two Numbers in an Array
  *
- * https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array
+ * https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/
  *
- * Medium (45.14%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (47.74%)
+ * Total Accepted:    20.5K
+ * Total Submissions: 42.9K
  * Testcase Example:  '[3,10,5,25,2,8]'
  *
  * Given a non-empty array of numbers, a0, a1, a2, … , an-1, where 0 ≤ ai <

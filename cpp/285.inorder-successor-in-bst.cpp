@@ -1,11 +1,12 @@
 /*
  * [285] Inorder Successor in BST
  *
- * https://leetcode.com/problems/inorder-successor-in-bst
+ * https://leetcode.com/problems/inorder-successor-in-bst/description/
  *
- * Medium (36.03%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (35.91%)
+ * Total Accepted:    53.7K
+ * Total Submissions: 149.6K
  * Testcase Example:  '[0]\nnode with value 0'
  *
  * 

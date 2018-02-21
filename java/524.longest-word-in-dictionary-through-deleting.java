@@ -1,11 +1,12 @@
 /*
  * [524] Longest Word in Dictionary through Deleting
  *
- * https://leetcode.com/problems/longest-word-in-dictionary-through-deleting
+ * https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/
  *
- * Medium (42.01%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (43.28%)
+ * Total Accepted:    19.2K
+ * Total Submissions: 44.4K
  * Testcase Example:  '"abpcplea"\n["ale","apple","monkey","plea"]'
  *
  * 
@@ -44,7 +45,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public String findLongestWord(String s, List<String> d) {
         
     }

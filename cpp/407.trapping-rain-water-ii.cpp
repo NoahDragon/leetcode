@@ -1,11 +1,12 @@
 /*
  * [407] Trapping Rain Water II
  *
- * https://leetcode.com/problems/trapping-rain-water-ii
+ * https://leetcode.com/problems/trapping-rain-water-ii/description/
  *
- * Hard (36.60%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (37.96%)
+ * Total Accepted:    15.4K
+ * Total Submissions: 40.6K
  * Testcase Example:  '[[1,4,3,1,3,2],[3,2,1,3,2,4],[2,3,3,2,3,1]]'
  *
  * Given an m x n matrix of positive integers representing the height of each
@@ -39,7 +40,7 @@
  * 
  * 
  * 
- * After the rain, water are trapped between the blocks. The total volume of
+ * After the rain, water is trapped between the blocks. The total volume of
  * water trapped is 4.
  * 
  */

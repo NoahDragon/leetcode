@@ -1,11 +1,12 @@
 #
 # [393] UTF-8 Validation
 #
-# https://leetcode.com/problems/utf-8-validation
+# https://leetcode.com/problems/utf-8-validation/description/
 #
-# Medium (34.81%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (34.75%)
+# Total Accepted:    20.6K
+# Total Submissions: 59.2K
 # Testcase Example:  '[197,130,1]'
 #
 # A character in UTF8 can be from 1 to 4 bytes long, subjected to the following

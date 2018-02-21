@@ -1,17 +1,18 @@
 /*
  * [248] Strobogrammatic Number III
  *
- * https://leetcode.com/problems/strobogrammatic-number-iii
+ * https://leetcode.com/problems/strobogrammatic-number-iii/description/
  *
- * Hard (31.62%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (32.50%)
+ * Total Accepted:    11.1K
+ * Total Submissions: 34.3K
  * Testcase Example:  '"0"\n"0"'
  *
  * A strobogrammatic number is a number that looks the same when rotated 180
  * degrees (looked at upside down).
  * Write a function to count the total strobogrammatic numbers that exist in
- * the range of low <= num <= high.
+ * the range of low 
  * For example,
  * Given low = "50", high = "100", return 3. Because 69, 88, and 96 are three
  * strobogrammatic numbers.

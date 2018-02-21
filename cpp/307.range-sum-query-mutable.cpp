@@ -1,11 +1,12 @@
 /*
  * [307] Range Sum Query - Mutable
  *
- * https://leetcode.com/problems/range-sum-query-mutable
+ * https://leetcode.com/problems/range-sum-query-mutable/description/
  *
- * Medium (20.21%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (22.18%)
+ * Total Accepted:    41.8K
+ * Total Submissions: 188.3K
  * Testcase Example:  '["NumArray","sumRange","update","sumRange"]\n[[[1,3,5]],[0,2],[1,2],[0,2]]'
  *
  * Given an integer array nums, find the sum of the elements between indices i

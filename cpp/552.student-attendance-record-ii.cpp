@@ -1,11 +1,12 @@
 /*
  * [552] Student Attendance Record II
  *
- * https://leetcode.com/problems/student-attendance-record-ii
+ * https://leetcode.com/problems/student-attendance-record-ii/description/
  *
- * Hard (30.01%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (31.38%)
+ * Total Accepted:    6.6K
+ * Total Submissions: 21.1K
  * Testcase Example:  '1'
  *
  * Given a positive integer n, return the number of all possible attendance

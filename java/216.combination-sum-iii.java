@@ -1,11 +1,12 @@
 /*
  * [216] Combination Sum III
  *
- * https://leetcode.com/problems/combination-sum-iii
+ * https://leetcode.com/problems/combination-sum-iii/description/
  *
- * Medium (44.55%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (46.79%)
+ * Total Accepted:    84.4K
+ * Total Submissions: 180.3K
  * Testcase Example:  '3\n7'
  *
  * 
@@ -33,7 +34,7 @@
  * Credits:Special thanks to @mithmatt for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
         
     }

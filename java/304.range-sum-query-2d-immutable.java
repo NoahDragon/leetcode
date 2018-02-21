@@ -1,11 +1,12 @@
 /*
  * [304] Range Sum Query 2D - Immutable
  *
- * https://leetcode.com/problems/range-sum-query-2d-immutable
+ * https://leetcode.com/problems/range-sum-query-2d-immutable/description/
  *
- * Medium (24.69%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (26.85%)
+ * Total Accepted:    41.6K
+ * Total Submissions: 154.9K
  * Testcase Example:  '["NumMatrix","sumRegion","sumRegion","sumRegion"]\n[[[[3,0,1,4,2],[5,6,3,2,1],[1,2,0,1,5],[4,1,0,1,7],[1,0,3,0,5]]],[2,1,4,3],[1,1,2,2],[1,2,2,4]]'
  *
  * Given a 2D matrix matrix, find the sum of the elements inside the rectangle
@@ -42,7 +43,7 @@
  * 
  * 
  */
-public class NumMatrix {
+class NumMatrix {
 
     public NumMatrix(int[][] matrix) {
         

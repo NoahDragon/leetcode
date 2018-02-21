@@ -1,11 +1,12 @@
 #
 # [98] Validate Binary Search Tree
 #
-# https://leetcode.com/problems/validate-binary-search-tree
+# https://leetcode.com/problems/validate-binary-search-tree/description/
 #
-# Medium (23.13%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (24.00%)
+# Total Accepted:    221K
+# Total Submissions: 921K
 # Testcase Example:  '[2,1,3]'
 #
 # 

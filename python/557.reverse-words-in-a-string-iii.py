@@ -1,11 +1,12 @@
 #
 # [557] Reverse Words in a String III
 #
-# https://leetcode.com/problems/reverse-words-in-a-string-iii
+# https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 #
-# Easy (59.93%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (60.06%)
+# Total Accepted:    60.3K
+# Total Submissions: 100.4K
 # Testcase Example:  '"Let\'s take LeetCode contest"'
 #
 # Given a string, you need to reverse the order of characters in each word

@@ -1,11 +1,12 @@
 /*
  * [336] Palindrome Pairs
  *
- * https://leetcode.com/problems/palindrome-pairs
+ * https://leetcode.com/problems/palindrome-pairs/description/
  *
- * Hard (25.97%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (27.04%)
+ * Total Accepted:    35.7K
+ * Total Submissions: 131.9K
  * Testcase Example:  '["abcd","dcba","lls","s","sssll"]'
  *
  * 

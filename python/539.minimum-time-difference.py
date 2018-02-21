@@ -1,11 +1,12 @@
 #
 # [539] Minimum Time Difference
 #
-# https://leetcode.com/problems/minimum-time-difference
+# https://leetcode.com/problems/minimum-time-difference/description/
 #
-# Medium (45.70%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (46.07%)
+# Total Accepted:    14.9K
+# Total Submissions: 32.3K
 # Testcase Example:  '["23:59","00:00"]'
 #
 # Given a list of 24-hour clock time points in "Hour:Minutes" format, find the

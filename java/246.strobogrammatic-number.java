@@ -1,11 +1,12 @@
 /*
  * [246] Strobogrammatic Number
  *
- * https://leetcode.com/problems/strobogrammatic-number
+ * https://leetcode.com/problems/strobogrammatic-number/description/
  *
- * Easy (39.57%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (40.20%)
+ * Total Accepted:    33.6K
+ * Total Submissions: 83.5K
  * Testcase Example:  '"1"'
  *
  * A strobogrammatic number is a number that looks the same when rotated 180
@@ -14,7 +15,7 @@
  * represented as a string.
  * For example, the numbers "69", "88", and "818" are all strobogrammatic.
  */
-public class Solution {
+class Solution {
     public boolean isStrobogrammatic(String num) {
         
     }

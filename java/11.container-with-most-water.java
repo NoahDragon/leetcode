@@ -1,11 +1,12 @@
 /*
  * [11] Container With Most Water
  *
- * https://leetcode.com/problems/container-with-most-water
+ * https://leetcode.com/problems/container-with-most-water/description/
  *
- * Medium (36.44%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (37.04%)
+ * Total Accepted:    181.8K
+ * Total Submissions: 490.9K
  * Testcase Example:  '[1,1]'
  *
  * Given n non-negative integers a1, a2, ..., an, where each represents a point
@@ -17,7 +18,7 @@
  * Note: You may not slant the container and n is at least 2.
  * 
  */
-public class Solution {
+class Solution {
     public int maxArea(int[] height) {
         
     }

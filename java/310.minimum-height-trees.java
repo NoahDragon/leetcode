@@ -1,11 +1,12 @@
 /*
  * [310] Minimum Height Trees
  *
- * https://leetcode.com/problems/minimum-height-trees
+ * https://leetcode.com/problems/minimum-height-trees/description/
  *
- * Medium (28.75%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (28.97%)
+ * Total Accepted:    41.6K
+ * Total Submissions: 143.5K
  * Testcase Example:  '4\n[[1,0],[1,2],[1,3]]'
  *
  * 
@@ -86,7 +87,7 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public List<Integer> findMinHeightTrees(int n, int[][] edges) {
         
     }

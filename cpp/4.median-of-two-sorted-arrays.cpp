@@ -1,11 +1,12 @@
 /*
  * [4] Median of Two Sorted Arrays
  *
- * https://leetcode.com/problems/median-of-two-sorted-arrays
+ * https://leetcode.com/problems/median-of-two-sorted-arrays/description/
  *
- * Hard (21.48%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (22.75%)
+ * Total Accepted:    232.3K
+ * Total Submissions: 1M
  * Testcase Example:  '[1,3]\n[2]'
  *
  * There are two sorted arrays nums1 and nums2 of size m and n respectively.

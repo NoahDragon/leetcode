@@ -1,11 +1,12 @@
 /*
  * [503] Next Greater Element II
  *
- * https://leetcode.com/problems/next-greater-element-ii
+ * https://leetcode.com/problems/next-greater-element-ii/description/
  *
- * Medium (47.32%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (47.92%)
+ * Total Accepted:    23.8K
+ * Total Submissions: 49.7K
  * Testcase Example:  '[1,2,1]'
  *
  * 
@@ -31,7 +32,7 @@
  * The length of given array won't exceed 10000.
  * 
  */
-public class Solution {
+class Solution {
     public int[] nextGreaterElements(int[] nums) {
         
     }

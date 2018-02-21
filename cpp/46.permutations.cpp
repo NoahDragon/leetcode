@@ -1,11 +1,12 @@
 /*
  * [46] Permutations
  *
- * https://leetcode.com/problems/permutations
+ * https://leetcode.com/problems/permutations/description/
  *
- * Medium (43.14%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (46.56%)
+ * Total Accepted:    218.1K
+ * Total Submissions: 468.5K
  * Testcase Example:  '[1,2,3]'
  *
  * 

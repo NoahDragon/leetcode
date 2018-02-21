@@ -1,11 +1,12 @@
 /*
  * [491] Increasing Subsequences
  *
- * https://leetcode.com/problems/increasing-subsequences
+ * https://leetcode.com/problems/increasing-subsequences/description/
  *
- * Medium (39.06%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (38.84%)
+ * Total Accepted:    16.3K
+ * Total Submissions: 42.1K
  * Testcase Example:  '[4,6,7,7]'
  *
  * 

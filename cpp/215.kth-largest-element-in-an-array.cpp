@@ -1,11 +1,12 @@
 /*
  * [215] Kth Largest Element in an Array
  *
- * https://leetcode.com/problems/kth-largest-element-in-an-array
+ * https://leetcode.com/problems/kth-largest-element-in-an-array/description/
  *
- * Medium (38.91%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (40.39%)
+ * Total Accepted:    190.7K
+ * Total Submissions: 472.2K
  * Testcase Example:  '[1]\n1'
  *
  * Find the kth largest element in an unsorted array. Note that it is the kth
@@ -16,7 +17,7 @@
  * 
  * 
  * Note: 
- * You may assume k is always valid, 1 ? k ? array's length.
+ * You may assume k is always valid, 1 ≤ k ≤ array's length.
  * 
  * Credits:Special thanks to @mithmatt for adding this problem and creating all
  * test cases.

@@ -1,16 +1,17 @@
 /*
  * [259] 3Sum Smaller
  *
- * https://leetcode.com/problems/3sum-smaller
+ * https://leetcode.com/problems/3sum-smaller/description/
  *
- * Medium (41.24%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (41.92%)
+ * Total Accepted:    33.9K
+ * Total Submissions: 80.8K
  * Testcase Example:  '[]\n0'
  *
  * Given an array of n integers nums and a target, find the number of index
- * triplets i, j, k with 0 <= i < j < k < n that satisfy the condition nums[i]
- * + nums[j] + nums[k] < target.
+ * triplets i, j, k with 0  that satisfy the condition nums[i] + nums[j] +
+ * nums[k] < target.
  * 
  * For example, given nums = [-2, 0, 1, 3], and target = 2.
  * 

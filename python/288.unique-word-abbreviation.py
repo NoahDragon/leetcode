@@ -1,11 +1,12 @@
 #
 # [288] Unique Word Abbreviation
 #
-# https://leetcode.com/problems/unique-word-abbreviation
+# https://leetcode.com/problems/unique-word-abbreviation/description/
 #
-# Medium (16.41%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (17.70%)
+# Total Accepted:    31.1K
+# Total Submissions: 175.7K
 # Testcase Example:  '["ValidWordAbbr","isUnique","isUnique","isUnique","isUnique"]\n[[["deer","door","cake","card"]],["dear"],["cart"],["cane"],["make"]]'
 #
 # An abbreviation of a word follows the form <first letter><number><last

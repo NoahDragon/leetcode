@@ -1,11 +1,12 @@
 /*
  * [237] Delete Node in a Linked List
  *
- * https://leetcode.com/problems/delete-node-in-a-linked-list
+ * https://leetcode.com/problems/delete-node-in-a-linked-list/description/
  *
- * Easy (46.26%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (47.22%)
+ * Total Accepted:    193.1K
+ * Total Submissions: 408.9K
  * Testcase Example:  '[0,1]\nnode at index 0 (node.val = 0)'
  *
  * 

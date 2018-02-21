@@ -1,11 +1,12 @@
 #
 # [76] Minimum Window Substring
 #
-# https://leetcode.com/problems/minimum-window-substring
+# https://leetcode.com/problems/minimum-window-substring/description/
 #
-# Hard (25.01%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (26.61%)
+# Total Accepted:    137.3K
+# Total Submissions: 515.8K
 # Testcase Example:  '"a"\n"a"'
 #
 # 

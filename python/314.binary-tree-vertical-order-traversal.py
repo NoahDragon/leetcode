@@ -1,11 +1,12 @@
 #
 # [314] Binary Tree Vertical Order Traversal
 #
-# https://leetcode.com/problems/binary-tree-vertical-order-traversal
+# https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/
 #
-# Medium (36.27%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (37.86%)
+# Total Accepted:    40.4K
+# Total Submissions: 106.6K
 # Testcase Example:  '[3,9,20,null,null,15,7]'
 #
 # Given a binary tree, return the vertical order traversal of its nodes'

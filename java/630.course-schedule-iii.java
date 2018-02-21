@@ -1,11 +1,12 @@
 /*
  * [630] Course Schedule III
  *
- * https://leetcode.com/problems/course-schedule-iii
+ * https://leetcode.com/problems/course-schedule-iii/description/
  *
- * Medium (21.67%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (29.15%)
+ * Total Accepted:    5.2K
+ * Total Submissions: 17.8K
  * Testcase Example:  '[[100,200],[200,1300],[1000,1250],[2000,3200]]'
  *
  * 
@@ -41,12 +42,12 @@
  * 
  * Note:
  * 
- * The integer 1 <= d, t, n <= 10,000. 
+ * The integer 1 
  * You can't take two courses simultaneously.
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int scheduleCourse(int[][] courses) {
         
     }

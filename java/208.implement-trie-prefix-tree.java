@@ -1,11 +1,12 @@
 /*
  * [208] Implement Trie (Prefix Tree)
  *
- * https://leetcode.com/problems/implement-trie-prefix-tree
+ * https://leetcode.com/problems/implement-trie-prefix-tree/description/
  *
- * Medium (27.73%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (30.44%)
+ * Total Accepted:    102.9K
+ * Total Submissions: 338.1K
  * Testcase Example:  '["Trie","search"]\n[[],["a"]]'
  *
  * 
@@ -17,7 +18,7 @@
  * You may assume that all inputs are consist of lowercase letters a-z.
  * 
  */
-public class Trie {
+class Trie {
 
     /** Initialize your data structure here. */
     public Trie() {

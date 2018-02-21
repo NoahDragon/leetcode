@@ -1,11 +1,12 @@
 /*
  * [563] Binary Tree Tilt
  *
- * https://leetcode.com/problems/binary-tree-tilt
+ * https://leetcode.com/problems/binary-tree-tilt/description/
  *
- * Easy (46.91%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (47.28%)
+ * Total Accepted:    25.8K
+ * Total Submissions: 54.5K
  * Testcase Example:  '[1,2,3]'
  *
  * Given a binary tree, return the tilt of the whole tree.
@@ -48,7 +49,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public int findTilt(TreeNode root) {
         
     }

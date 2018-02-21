@@ -1,11 +1,12 @@
 /*
  * [404] Sum of Left Leaves
  *
- * https://leetcode.com/problems/sum-of-left-leaves
+ * https://leetcode.com/problems/sum-of-left-leaves/description/
  *
- * Easy (46.87%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (47.43%)
+ * Total Accepted:    79.5K
+ * Total Submissions: 167.7K
  * Testcase Example:  '[3,9,20,null,null,15,7]'
  *
  * Find the sum of all left leaves in a given binary tree.

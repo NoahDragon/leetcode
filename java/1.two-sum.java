@@ -1,11 +1,12 @@
 /*
  * [1] Two Sum
  *
- * https://leetcode.com/problems/two-sum
+ * https://leetcode.com/problems/two-sum/description/
  *
- * Easy (33.75%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (37.20%)
+ * Total Accepted:    798.3K
+ * Total Submissions: 2.1M
  * Testcase Example:  '[3,2,4]\n6'
  *
  * Given an array of integers, return indices of the two numbers such that they
@@ -24,7 +25,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int[] twoSum(int[] nums, int target) {
         
     }

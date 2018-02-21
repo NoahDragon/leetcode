@@ -1,12 +1,13 @@
 #
 # [621] Task Scheduler
 #
-# https://leetcode.com/problems/task-scheduler
+# https://leetcode.com/problems/task-scheduler/description/
 #
-# Medium (41.33%)
-# Total Accepted:    
-# Total Submissions: 
-# Testcase Example:  '[\'A\',\'A\',\'A\',\'B\',\'B\',\'B\']\n2'
+# algorithms
+# Medium (42.77%)
+# Total Accepted:    26.8K
+# Total Submissions: 62.6K
+# Testcase Example:  '["A","A","A","B","B","B"]\n2'
 #
 # Given a char array representing tasks CPU need to do. It contains capital
 # letters A to Z where different letters represent different tasks.Tasks could
@@ -22,7 +23,7 @@
 # 
 # Example 1:
 # 
-# Input: tasks = ['A','A','A','B','B','B'], n = 2
+# Input: tasks = ["A","A","A","B","B","B"], n = 2
 # Output: 8
 # Explanation: A -> B -> idle -> A -> B -> idle -> A -> B.
 # 

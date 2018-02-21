@@ -1,11 +1,12 @@
 /*
  * [507] Perfect Number
  *
- * https://leetcode.com/problems/perfect-number
+ * https://leetcode.com/problems/perfect-number/description/
  *
- * Easy (33.72%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (32.70%)
+ * Total Accepted:    20.6K
+ * Total Submissions: 63K
  * Testcase Example:  '28'
  *
  * We define the Perfect Number is a positive integer that is equal to the sum

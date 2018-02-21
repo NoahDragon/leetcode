@@ -1,11 +1,12 @@
 /*
  * [488] Zuma Game
  *
- * https://leetcode.com/problems/zuma-game
+ * https://leetcode.com/problems/zuma-game/description/
  *
- * Hard (37.02%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (37.10%)
+ * Total Accepted:    5.5K
+ * Total Submissions: 14.8K
  * Testcase Example:  '"WRRBBW"\n"RB"'
  *
  * Think about Zuma Game. You have a row of balls on the table, colored red(R),
@@ -55,7 +56,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int findMinStep(String board, String hand) {
         
     }

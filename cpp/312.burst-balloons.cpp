@@ -1,11 +1,12 @@
 /*
  * [312] Burst Balloons
  *
- * https://leetcode.com/problems/burst-balloons
+ * https://leetcode.com/problems/burst-balloons/description/
  *
- * Hard (42.38%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (43.56%)
+ * Total Accepted:    35.9K
+ * Total Submissions: 82.4K
  * Testcase Example:  '[3,1,5,8]'
  *
  * 

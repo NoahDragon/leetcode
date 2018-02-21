@@ -1,11 +1,12 @@
 /*
  * [313] Super Ugly Number
  *
- * https://leetcode.com/problems/super-ugly-number
+ * https://leetcode.com/problems/super-ugly-number/description/
  *
- * Medium (37.55%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (38.24%)
+ * Total Accepted:    44.3K
+ * Total Submissions: 115.8K
  * Testcase Example:  '1\n[2,3,5]'
  *
  * 
@@ -33,7 +34,7 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public int nthSuperUglyNumber(int n, int[] primes) {
         
     }

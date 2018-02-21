@@ -1,11 +1,12 @@
 /*
  * [32] Longest Valid Parentheses
  *
- * https://leetcode.com/problems/longest-valid-parentheses
+ * https://leetcode.com/problems/longest-valid-parentheses/description/
  *
- * Hard (23.02%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (23.20%)
+ * Total Accepted:    118.1K
+ * Total Submissions: 509.2K
  * Testcase Example:  '""'
  *
  * Given a string containing just the characters '(' and ')', find the length

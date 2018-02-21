@@ -1,11 +1,12 @@
 #
 # [84] Largest Rectangle in Histogram
 #
-# https://leetcode.com/problems/largest-rectangle-in-histogram
+# https://leetcode.com/problems/largest-rectangle-in-histogram/description/
 #
-# Hard (26.46%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (27.45%)
+# Total Accepted:    111.6K
+# Total Submissions: 406.5K
 # Testcase Example:  '[2,1,5,6,2,3]'
 #
 # 

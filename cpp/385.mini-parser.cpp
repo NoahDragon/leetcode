@@ -1,11 +1,12 @@
 /*
  * [385] Mini Parser
  *
- * https://leetcode.com/problems/mini-parser
+ * https://leetcode.com/problems/mini-parser/description/
  *
- * Medium (30.25%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (30.93%)
+ * Total Accepted:    20.8K
+ * Total Submissions: 67.2K
  * Testcase Example:  '"324"'
  *
  * Given a nested list of integers represented as a string, implement a parser

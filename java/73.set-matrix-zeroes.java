@@ -1,11 +1,12 @@
 /*
  * [73] Set Matrix Zeroes
  *
- * https://leetcode.com/problems/set-matrix-zeroes
+ * https://leetcode.com/problems/set-matrix-zeroes/description/
  *
- * Medium (35.80%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (36.44%)
+ * Total Accepted:    130.3K
+ * Total Submissions: 357.4K
  * Testcase Example:  '[[0]]'
  *
  * 
@@ -25,7 +26,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public void setZeroes(int[][] matrix) {
         
     }

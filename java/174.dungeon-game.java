@@ -1,11 +1,12 @@
 /*
  * [174] Dungeon Game
  *
- * https://leetcode.com/problems/dungeon-game
+ * https://leetcode.com/problems/dungeon-game/description/
  *
- * Hard (23.60%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (24.07%)
+ * Total Accepted:    47.2K
+ * Total Submissions: 196.1K
  * Testcase Example:  '[[0]]'
  *
  * 
@@ -72,7 +73,7 @@
  * Credits:Special thanks to @stellari for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public int calculateMinimumHP(int[][] dungeon) {
         
     }

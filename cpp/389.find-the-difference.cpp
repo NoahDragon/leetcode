@@ -1,11 +1,12 @@
 /*
  * [389] Find the Difference
  *
- * https://leetcode.com/problems/find-the-difference
+ * https://leetcode.com/problems/find-the-difference/description/
  *
- * Easy (51.56%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (51.19%)
+ * Total Accepted:    96.4K
+ * Total Submissions: 188.3K
  * Testcase Example:  '"abcd"\n"abcde"'
  *
  * 

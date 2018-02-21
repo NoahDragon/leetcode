@@ -1,11 +1,12 @@
 /*
  * [439] Ternary Expression Parser
  *
- * https://leetcode.com/problems/ternary-expression-parser
+ * https://leetcode.com/problems/ternary-expression-parser/description/
  *
- * Medium (50.72%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (51.48%)
+ * Total Accepted:    9.6K
+ * Total Submissions: 18.6K
  * Testcase Example:  '"T?2:3"'
  *
  * Given a string representing arbitrarily nested ternary expressions,

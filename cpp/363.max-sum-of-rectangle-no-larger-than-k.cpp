@@ -1,11 +1,12 @@
 /*
  * [363] Max Sum of Rectangle No Larger Than K
  *
- * https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k
+ * https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/
  *
- * Hard (32.86%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (33.66%)
+ * Total Accepted:    18.1K
+ * Total Submissions: 53.8K
  * Testcase Example:  '[[1,0,1],[0,-2,3]]\n2'
  *
  * Given a non-empty 2D matrix matrix and an integer k, find the max sum of a

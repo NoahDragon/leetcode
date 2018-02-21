@@ -1,11 +1,12 @@
 #
 # [593] Valid Square
 #
-# https://leetcode.com/problems/valid-square
+# https://leetcode.com/problems/valid-square/description/
 #
-# Medium (39.22%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (39.90%)
+# Total Accepted:    10K
+# Total Submissions: 25.2K
 # Testcase Example:  '[0,0]\n[1,1]\n[1,0]\n[0,1]'
 #
 # Given the coordinates of four points in 2D space, return whether the four

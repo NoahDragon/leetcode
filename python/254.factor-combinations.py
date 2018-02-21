@@ -1,11 +1,12 @@
 #
 # [254] Factor Combinations
 #
-# https://leetcode.com/problems/factor-combinations
+# https://leetcode.com/problems/factor-combinations/description/
 #
-# Medium (42.20%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (43.84%)
+# Total Accepted:    35.6K
+# Total Submissions: 81.3K
 # Testcase Example:  '12'
 #
 # Numbers can be regarded as product of its factors. For example,  

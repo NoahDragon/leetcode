@@ -1,11 +1,12 @@
 #
 # [629] K Inverse Pairs Array
 #
-# https://leetcode.com/problems/k-inverse-pairs-array
+# https://leetcode.com/problems/k-inverse-pairs-array/description/
 #
-# Hard (24.44%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (26.78%)
+# Total Accepted:    4.5K
+# Total Submissions: 16.6K
 # Testcase Example:  '3\n0'
 #
 # 

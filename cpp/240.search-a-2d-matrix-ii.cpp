@@ -1,11 +1,12 @@
 /*
  * [240] Search a 2D Matrix II
  *
- * https://leetcode.com/problems/search-a-2d-matrix-ii
+ * https://leetcode.com/problems/search-a-2d-matrix-ii/description/
  *
- * Medium (38.33%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (39.06%)
+ * Total Accepted:    102.2K
+ * Total Submissions: 261.7K
  * Testcase Example:  '[[1,4,7,11,15],[2,5,8,12,19],[3,6,9,16,22],[10,13,14,17,24],[18,21,23,26,30]]\n5'
  *
  * Write an efficient algorithm that searches for a value in an m x n matrix.

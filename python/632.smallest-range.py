@@ -1,11 +1,12 @@
 #
 # [632] Smallest Range
 #
-# https://leetcode.com/problems/smallest-range
+# https://leetcode.com/problems/smallest-range/description/
 #
-# Hard (45.18%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (42.18%)
+# Total Accepted:    7.9K
+# Total Submissions: 18.8K
 # Testcase Example:  '[[4,10,15,24,26],[0,9,12,20],[5,18,22,30]]'
 #
 # You have k lists of sorted integers in ascending order. Find the smallest
@@ -29,8 +30,8 @@
 # Note:
 # 
 # The given list may contain duplicates, so ascending order means >= here.
-# 1 <= k <= 3500
-# ⁠-105 <= value of elements <= 105.
+# 1 k 
+# ⁠-105 value of elements 5.
 # For Java users, please note that the input type has been changed to
 # List<List<Integer>>. And after you reset the code template, you'll see this
 # point.

@@ -1,11 +1,12 @@
 /*
  * [366] Find Leaves of Binary Tree
  *
- * https://leetcode.com/problems/find-leaves-of-binary-tree
+ * https://leetcode.com/problems/find-leaves-of-binary-tree/description/
  *
- * Medium (59.08%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (61.01%)
+ * Total Accepted:    24.3K
+ * Total Submissions: 39.9K
  * Testcase Example:  '[1,2,3,4,5]'
  *
  * Given a binary tree, collect a tree's nodes as if you were doing this:
@@ -66,7 +67,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public List<List<Integer>> findLeaves(TreeNode root) {
         
     }

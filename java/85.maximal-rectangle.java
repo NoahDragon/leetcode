@@ -1,12 +1,13 @@
 /*
  * [85] Maximal Rectangle
  *
- * https://leetcode.com/problems/maximal-rectangle
+ * https://leetcode.com/problems/maximal-rectangle/description/
  *
- * Hard (27.51%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '["10100","10111","11111","10010"]'
+ * algorithms
+ * Hard (29.36%)
+ * Total Accepted:    81.9K
+ * Total Submissions: 279K
+ * Testcase Example:  '[["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]'
  *
  * 
  * Given a 2D binary matrix filled with 0's and 1's, find the largest rectangle
@@ -23,7 +24,7 @@
  * Return 6.
  * 
  */
-public class Solution {
+class Solution {
     public int maximalRectangle(char[][] matrix) {
         
     }

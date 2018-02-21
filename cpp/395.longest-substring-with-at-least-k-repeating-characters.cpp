@@ -1,11 +1,12 @@
 /*
  * [395] Longest Substring with At Least K Repeating Characters
  *
- * https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+ * https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/
  *
- * Medium (35.46%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (35.93%)
+ * Total Accepted:    23.1K
+ * Total Submissions: 64.3K
  * Testcase Example:  '"aaabb"\n3'
  *
  * 

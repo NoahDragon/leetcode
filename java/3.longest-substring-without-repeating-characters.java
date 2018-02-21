@@ -1,11 +1,12 @@
 /*
  * [3] Longest Substring Without Repeating Characters
  *
- * https://leetcode.com/problems/longest-substring-without-repeating-characters
+ * https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
  *
- * Medium (24.21%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (24.62%)
+ * Total Accepted:    434K
+ * Total Submissions: 1.8M
  * Testcase Example:  '"abcabcbb"'
  *
  * Given a string, find the length of the longest substring without repeating
@@ -20,7 +21,7 @@
  * Given "pwwkew", the answer is "wke", with the length of 3. Note that the
  * answer must be a substring, "pwke" is a subsequence and not a substring.
  */
-public class Solution {
+class Solution {
     public int lengthOfLongestSubstring(String s) {
         
     }

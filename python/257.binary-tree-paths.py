@@ -1,11 +1,12 @@
 #
 # [257] Binary Tree Paths
 #
-# https://leetcode.com/problems/binary-tree-paths
+# https://leetcode.com/problems/binary-tree-paths/description/
 #
-# Easy (37.84%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (40.71%)
+# Total Accepted:    147.4K
+# Total Submissions: 362.1K
 # Testcase Example:  '[1,2,3,null,5]'
 #
 # 

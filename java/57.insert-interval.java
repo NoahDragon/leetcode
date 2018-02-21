@@ -1,11 +1,12 @@
 /*
  * [57] Insert Interval
  *
- * https://leetcode.com/problems/insert-interval
+ * https://leetcode.com/problems/insert-interval/description/
  *
- * Hard (27.36%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (28.80%)
+ * Total Accepted:    119.6K
+ * Total Submissions: 415.1K
  * Testcase Example:  '[[1,3],[6,9]]\n[2,5]'
  *
  * Given a set of non-overlapping intervals, insert a new interval into the
@@ -38,7 +39,7 @@
  *     Interval(int s, int e) { start = s; end = e; }
  * }
  */
-public class Solution {
+class Solution {
     public List<Interval> insert(List<Interval> intervals, Interval newInterval) {
         
     }

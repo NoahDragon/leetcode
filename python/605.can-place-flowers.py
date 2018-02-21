@@ -1,11 +1,12 @@
 #
 # [605] Can Place Flowers
 #
-# https://leetcode.com/problems/can-place-flowers
+# https://leetcode.com/problems/can-place-flowers/description/
 #
-# Easy (30.03%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (30.06%)
+# Total Accepted:    27.4K
+# Total Submissions: 91.2K
 # Testcase Example:  '[1,0,0,0,1]\n1'
 #
 # Suppose you have a long flowerbed in which some of the plots are planted and

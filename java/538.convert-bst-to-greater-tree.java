@@ -1,11 +1,12 @@
 /*
  * [538] Convert BST to Greater Tree
  *
- * https://leetcode.com/problems/convert-bst-to-greater-tree
+ * https://leetcode.com/problems/convert-bst-to-greater-tree/description/
  *
- * Easy (52.34%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (49.05%)
+ * Total Accepted:    35.3K
+ * Total Submissions: 71.9K
  * Testcase Example:  '[5,2,13]'
  *
  * Given a Binary Search Tree (BST), convert it to a Greater Tree such that
@@ -36,7 +37,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public TreeNode convertBST(TreeNode root) {
         
     }

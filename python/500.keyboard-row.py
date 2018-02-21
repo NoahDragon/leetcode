@@ -1,11 +1,12 @@
 #
 # [500] Keyboard Row
 #
-# https://leetcode.com/problems/keyboard-row
+# https://leetcode.com/problems/keyboard-row/description/
 #
-# Easy (60.08%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (59.76%)
+# Total Accepted:    55.8K
+# Total Submissions: 93.4K
 # Testcase Example:  '["Hello","Alaska","Dad","Peace"]'
 #
 # Given a List of words, return the words that can be typed using letters of

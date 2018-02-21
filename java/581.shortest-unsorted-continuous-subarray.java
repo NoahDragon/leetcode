@@ -1,11 +1,12 @@
 /*
  * [581] Shortest Unsorted Continuous Subarray
  *
- * https://leetcode.com/problems/shortest-unsorted-continuous-subarray
+ * https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
  *
- * Easy (29.91%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (29.14%)
+ * Total Accepted:    29.1K
+ * Total Submissions: 99.7K
  * Testcase Example:  '[2,6,4,8,10,9,15]'
  *
  * Given an integer array, you need to find one continuous subarray that if you
@@ -26,11 +27,11 @@
  * Note:
  * 
  * Then length of the input array is in range [1, 10,000].
- * The input array may contain duplicates, so ascending order here means <=. 
+ * The input array may contain duplicates, so ascending order here means . 
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int findUnsortedSubarray(int[] nums) {
         
     }

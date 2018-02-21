@@ -1,11 +1,12 @@
 /*
  * [211] Add and Search Word - Data structure design
  *
- * https://leetcode.com/problems/add-and-search-word-data-structure-design
+ * https://leetcode.com/problems/add-and-search-word-data-structure-design/description/
  *
- * Medium (22.33%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (24.93%)
+ * Total Accepted:    71.3K
+ * Total Submissions: 285.9K
  * Testcase Example:  '["WordDictionary","addWord","addWord","addWord","search","search","search","search"]\n[[],["bad"],["dad"],["mad"],["pad"],["bad"],[".ad"],["b.."]]'
  *
  * 
@@ -44,7 +45,7 @@
  * problem: Implement Trie (Prefix Tree) first.
  * 
  */
-public class WordDictionary {
+class WordDictionary {
 
     /** Initialize your data structure here. */
     public WordDictionary() {

@@ -1,11 +1,12 @@
 /*
  * [51] N-Queens
  *
- * https://leetcode.com/problems/n-queens
+ * https://leetcode.com/problems/n-queens/description/
  *
- * Hard (30.61%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (32.86%)
+ * Total Accepted:    94.9K
+ * Total Submissions: 288.9K
  * Testcase Example:  '4'
  *
  * The n-queens puzzle is the problem of placing n queens on an n×n chessboard

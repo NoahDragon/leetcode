@@ -1,11 +1,12 @@
 /*
  * [638] Shopping Offers
  *
- * https://leetcode.com/problems/shopping-offers
+ * https://leetcode.com/problems/shopping-offers/description/
  *
- * Medium (38.84%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (44.59%)
+ * Total Accepted:    9.4K
+ * Total Submissions: 21K
  * Testcase Example:  '[2,5]\n[[3,0,5],[1,2,10]]\n[3,2]'
  *
  * 
@@ -69,7 +70,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int shoppingOffers(List<Integer> price, List<List<Integer>> special, List<Integer> needs) {
         
     }

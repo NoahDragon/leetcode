@@ -1,11 +1,12 @@
 /*
  * [374] Guess Number Higher or Lower
  *
- * https://leetcode.com/problems/guess-number-higher-or-lower
+ * https://leetcode.com/problems/guess-number-higher-or-lower/description/
  *
- * Easy (35.00%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (36.43%)
+ * Total Accepted:    66.9K
+ * Total Submissions: 183.6K
  * Testcase Example:  '10\n6'
  *
  * We are playing the Guess Game. The game is as follows: 

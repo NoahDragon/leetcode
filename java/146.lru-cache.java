@@ -1,11 +1,12 @@
 /*
  * [146] LRU Cache
  *
- * https://leetcode.com/problems/lru-cache
+ * https://leetcode.com/problems/lru-cache/description/
  *
- * Hard (17.41%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (19.43%)
+ * Total Accepted:    162.1K
+ * Total Submissions: 834.3K
  * Testcase Example:  '["LRUCache","put","put","get","put","get","put","get","get","get"]\n[[2],[1,1],[2,2],[1],[3,3],[2],[4,4],[1],[3],[4]]'
  *
  * 
@@ -40,7 +41,7 @@
  * 
  * 
  */
-public class LRUCache {
+class LRUCache {
 
     public LRUCache(int capacity) {
         

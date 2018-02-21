@@ -1,11 +1,12 @@
 /*
  * [576] Out of Boundary Paths
  *
- * https://leetcode.com/problems/out-of-boundary-paths
+ * https://leetcode.com/problems/out-of-boundary-paths/description/
  *
- * Medium (33.02%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (30.66%)
+ * Total Accepted:    8.8K
+ * Total Submissions: 28.6K
  * Testcase Example:  '2\n2\n2\n0\n0'
  *
  * There is an m by n grid with a ball. Given the start coordinate (i,j) of the
@@ -40,7 +41,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int findPaths(int m, int n, int N, int i, int j) {
         
     }

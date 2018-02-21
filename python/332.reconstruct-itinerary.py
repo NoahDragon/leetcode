@@ -1,11 +1,12 @@
 #
 # [332] Reconstruct Itinerary
 #
-# https://leetcode.com/problems/reconstruct-itinerary
+# https://leetcode.com/problems/reconstruct-itinerary/description/
 #
-# Medium (29.00%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (29.77%)
+# Total Accepted:    45.2K
+# Total Submissions: 151.7K
 # Testcase Example:  '[["MUC","LHR"],["JFK","MUC"],["SFO","SJC"],["LHR","SFO"]]'
 #
 # Given a list of airline tickets represented by pairs of departure and arrival

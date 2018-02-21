@@ -1,11 +1,12 @@
 #
 # [124] Binary Tree Maximum Path Sum
 #
-# https://leetcode.com/problems/binary-tree-maximum-path-sum
+# https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
 #
-# Hard (25.87%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (27.00%)
+# Total Accepted:    120.1K
+# Total Submissions: 444.8K
 # Testcase Example:  '[1,2,3]'
 #
 # 

@@ -1,11 +1,12 @@
 #
 # [326] Power of Three
 #
-# https://leetcode.com/problems/power-of-three
+# https://leetcode.com/problems/power-of-three/description/
 #
-# Easy (40.06%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (40.62%)
+# Total Accepted:    118.2K
+# Total Submissions: 291K
 # Testcase Example:  '27'
 #
 # 

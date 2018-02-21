@@ -1,11 +1,12 @@
 /*
  * [63] Unique Paths II
  *
- * https://leetcode.com/problems/unique-paths-ii
+ * https://leetcode.com/problems/unique-paths-ii/description/
  *
- * Medium (31.55%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (32.09%)
+ * Total Accepted:    127.5K
+ * Total Submissions: 397.3K
  * Testcase Example:  '[[0]]'
  *
  * Follow up for "Unique Paths":
@@ -28,7 +29,7 @@
  * 
  * Note: m and n will be at most 100.
  */
-public class Solution {
+class Solution {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [471] Encode String with Shortest Length
  *
- * https://leetcode.com/problems/encode-string-with-shortest-length
+ * https://leetcode.com/problems/encode-string-with-shortest-length/description/
  *
- * Hard (41.61%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (42.99%)
+ * Total Accepted:    7.5K
+ * Total Submissions: 17.5K
  * Testcase Example:  '"aaa"'
  *
  * Given a non-empty string, encode the string such that its encoded length is
@@ -70,7 +71,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public String encode(String s) {
         
     }

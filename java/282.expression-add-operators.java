@@ -1,11 +1,12 @@
 /*
  * [282] Expression Add Operators
  *
- * https://leetcode.com/problems/expression-add-operators
+ * https://leetcode.com/problems/expression-add-operators/description/
  *
- * Hard (29.48%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (30.56%)
+ * Total Accepted:    44.3K
+ * Total Submissions: 144.8K
  * Testcase Example:  '"123"\n6'
  *
  * 
@@ -25,7 +26,7 @@
  * Credits:Special thanks to @davidtan1890 for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public List<String> addOperators(String num, int target) {
         
     }

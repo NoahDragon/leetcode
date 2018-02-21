@@ -1,11 +1,12 @@
 #
 # [631] Design Excel Sum Formula
 #
-# https://leetcode.com/problems/design-excel-sum-formula
+# https://leetcode.com/problems/design-excel-sum-formula/description/
 #
-# Hard (23.23%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (27.60%)
+# Total Accepted:    1.7K
+# Total Submissions: 6.3K
 # Testcase Example:  '["Excel","get","set","get"]\n[[3,"C"],[1,"A"],[1,"A",1],[1,"A"]]'
 #
 # Your task is to design the basic function of Excel and implement the function

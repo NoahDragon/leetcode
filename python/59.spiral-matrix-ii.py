@@ -1,11 +1,12 @@
 #
 # [59] Spiral Matrix II
 #
-# https://leetcode.com/problems/spiral-matrix-ii
+# https://leetcode.com/problems/spiral-matrix-ii/description/
 #
-# Medium (39.32%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (40.76%)
+# Total Accepted:    96.4K
+# Total Submissions: 236.5K
 # Testcase Example:  '0'
 #
 # Given an integer n, generate a square matrix filled with elements from 1 to

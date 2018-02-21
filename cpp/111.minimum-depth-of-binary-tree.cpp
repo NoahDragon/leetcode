@@ -1,11 +1,12 @@
 /*
  * [111] Minimum Depth of Binary Tree
  *
- * https://leetcode.com/problems/minimum-depth-of-binary-tree
+ * https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
  *
- * Easy (32.97%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (33.51%)
+ * Total Accepted:    203K
+ * Total Submissions: 606K
  * Testcase Example:  '[]'
  *
  * Given a binary tree, find its minimum depth.

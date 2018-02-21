@@ -1,12 +1,13 @@
 /*
  * [531] Lonely Pixel I
  *
- * https://leetcode.com/problems/lonely-pixel-i
+ * https://leetcode.com/problems/lonely-pixel-i/description/
  *
- * Medium (53.56%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '["WWB","WBW","BWW"]'
+ * algorithms
+ * Medium (56.22%)
+ * Total Accepted:    9.6K
+ * Total Submissions: 17K
+ * Testcase Example:  '[["W","W","B"],["W","B","W"],["B","W","W"]]'
  *
  * Given a picture consisting of black and white pixels, find the number of
  * black lonely pixels.

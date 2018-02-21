@@ -1,11 +1,12 @@
 /*
  * [547] Friend Circles
  *
- * https://leetcode.com/problems/friend-circles
+ * https://leetcode.com/problems/friend-circles/description/
  *
- * Medium (49.36%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (49.21%)
+ * Total Accepted:    31.2K
+ * Total Submissions: 63.4K
  * Testcase Example:  '[[1,1,0],[1,1,0],[0,0,1]]'
  *
  * 
@@ -58,9 +59,7 @@
  * 
  * 
  */
-
-
-public class Solution {
+class Solution {
     public int findCircleNum(int[][] M) {
         
     }

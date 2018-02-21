@@ -1,11 +1,12 @@
 #
 # [397] Integer Replacement
 #
-# https://leetcode.com/problems/integer-replacement
+# https://leetcode.com/problems/integer-replacement/description/
 #
-# Medium (29.89%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (30.44%)
+# Total Accepted:    27.3K
+# Total Submissions: 89.6K
 # Testcase Example:  '8'
 #
 # 

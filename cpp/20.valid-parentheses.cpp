@@ -1,11 +1,12 @@
 /*
  * [20] Valid Parentheses
  *
- * https://leetcode.com/problems/valid-parentheses
+ * https://leetcode.com/problems/valid-parentheses/description/
  *
- * Easy (33.22%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (33.91%)
+ * Total Accepted:    300.6K
+ * Total Submissions: 886.3K
  * Testcase Example:  '"["'
  *
  * Given a string containing just the characters '(', ')', '{', '}', '[' and

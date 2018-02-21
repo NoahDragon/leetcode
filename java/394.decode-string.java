@@ -1,11 +1,12 @@
 /*
  * [394] Decode String
  *
- * https://leetcode.com/problems/decode-string
+ * https://leetcode.com/problems/decode-string/description/
  *
- * Medium (41.09%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (42.02%)
+ * Total Accepted:    48.2K
+ * Total Submissions: 114.6K
  * Testcase Example:  '"3[a]2[bc]"'
  *
  * 
@@ -33,7 +34,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public String decodeString(String s) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [103] Binary Tree Zigzag Level Order Traversal
  *
- * https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+ * https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
  *
- * Medium (34.17%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (36.37%)
+ * Total Accepted:    128.4K
+ * Total Submissions: 353.1K
  * Testcase Example:  '[3,9,20,null,null,15,7]'
  *
  * Given a binary tree, return the zigzag level order traversal of its nodes'
@@ -43,7 +44,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         
     }

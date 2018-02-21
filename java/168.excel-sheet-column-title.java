@@ -1,11 +1,12 @@
 /*
  * [168] Excel Sheet Column Title
  *
- * https://leetcode.com/problems/excel-sheet-column-title
+ * https://leetcode.com/problems/excel-sheet-column-title/description/
  *
- * Easy (25.69%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (27.11%)
+ * Total Accepted:    128.7K
+ * Total Submissions: 474.8K
  * Testcase Example:  '1'
  *
  * Given a positive integer, return its corresponding column title as appear in
@@ -24,7 +25,7 @@
  * Credits:Special thanks to @ifanchu for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public String convertToTitle(int n) {
         
     }

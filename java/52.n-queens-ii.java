@@ -1,11 +1,12 @@
 /*
  * [52] N-Queens II
  *
- * https://leetcode.com/problems/n-queens-ii
+ * https://leetcode.com/problems/n-queens-ii/description/
  *
- * Hard (44.45%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (46.44%)
+ * Total Accepted:    72.5K
+ * Total Submissions: 156.2K
  * Testcase Example:  '1'
  *
  * Follow up for N-Queens problem.
@@ -15,7 +16,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int totalNQueens(int n) {
         
     }

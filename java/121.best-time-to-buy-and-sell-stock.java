@@ -1,11 +1,12 @@
 /*
  * [121] Best Time to Buy and Sell Stock
  *
- * https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+ * https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
  *
- * Easy (40.85%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (42.65%)
+ * Total Accepted:    267.9K
+ * Total Submissions: 628.2K
  * Testcase Example:  '[7,1,5,3,6,4]'
  *
  * Say you have an array for which the ith element is the price of a given
@@ -34,7 +35,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int maxProfit(int[] prices) {
         
     }

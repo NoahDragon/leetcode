@@ -1,11 +1,12 @@
 #
 # [575] Distribute Candies
 #
-# https://leetcode.com/problems/distribute-candies
+# https://leetcode.com/problems/distribute-candies/description/
 #
-# Easy (59.54%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (58.12%)
+# Total Accepted:    39.5K
+# Total Submissions: 68K
 # Testcase Example:  '[1,1,2,2,3,3]'
 #
 # Given an integer array with even length, where different numbers in this

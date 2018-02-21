@@ -1,11 +1,12 @@
 #
 # [174] Dungeon Game
 #
-# https://leetcode.com/problems/dungeon-game
+# https://leetcode.com/problems/dungeon-game/description/
 #
-# Hard (23.60%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (24.07%)
+# Total Accepted:    47.2K
+# Total Submissions: 196.1K
 # Testcase Example:  '[[0]]'
 #
 # 

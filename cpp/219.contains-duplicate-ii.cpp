@@ -1,11 +1,12 @@
 /*
  * [219] Contains Duplicate II
  *
- * https://leetcode.com/problems/contains-duplicate-ii
+ * https://leetcode.com/problems/contains-duplicate-ii/description/
  *
- * Easy (32.19%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (32.78%)
+ * Total Accepted:    136.1K
+ * Total Submissions: 415K
  * Testcase Example:  '[]\n0'
  *
  * 

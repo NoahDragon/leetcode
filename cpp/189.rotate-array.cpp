@@ -1,11 +1,12 @@
 /*
  * [189] Rotate Array
  *
- * https://leetcode.com/problems/rotate-array
+ * https://leetcode.com/problems/rotate-array/description/
  *
- * Easy (24.40%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (25.19%)
+ * Total Accepted:    166.9K
+ * Total Submissions: 662.5K
  * Testcase Example:  '[1]\n0'
  *
  * Rotate an array of n elements to the right by k steps.

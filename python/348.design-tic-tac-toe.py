@@ -1,11 +1,12 @@
 #
 # [348] Design Tic-Tac-Toe
 #
-# https://leetcode.com/problems/design-tic-tac-toe
+# https://leetcode.com/problems/design-tic-tac-toe/description/
 #
-# Medium (45.88%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (45.92%)
+# Total Accepted:    21.3K
+# Total Submissions: 46.4K
 # Testcase Example:  '["TicTacToe","move","move","move","move","move","move","move"]\n[[3],[0,0,1],[0,2,2],[2,2,1],[1,1,2],[2,0,1],[1,0,2],[2,1,1]]'
 #
 # Design a Tic-tac-toe game that is played between two players on a n x n

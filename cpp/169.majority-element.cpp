@@ -1,11 +1,12 @@
 /*
  * [169] Majority Element
  *
- * https://leetcode.com/problems/majority-element
+ * https://leetcode.com/problems/majority-element/description/
  *
- * Easy (46.33%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (47.75%)
+ * Total Accepted:    244.5K
+ * Total Submissions: 511.9K
  * Testcase Example:  '[1]'
  *
  * Given an array of size n, find the majority element. The majority element is

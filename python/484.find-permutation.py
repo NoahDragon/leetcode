@@ -1,11 +1,12 @@
 #
 # [484] Find Permutation
 #
-# https://leetcode.com/problems/find-permutation
+# https://leetcode.com/problems/find-permutation/description/
 #
-# Medium (53.38%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (55.64%)
+# Total Accepted:    7.9K
+# Total Submissions: 14.2K
 # Testcase Example:  '"DDIIDI"'
 #
 # 

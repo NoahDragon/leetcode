@@ -1,11 +1,12 @@
 #
 # [339] Nested List Weight Sum
 #
-# https://leetcode.com/problems/nested-list-weight-sum
+# https://leetcode.com/problems/nested-list-weight-sum/description/
 #
-# Easy (61.36%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (63.56%)
+# Total Accepted:    32.2K
+# Total Submissions: 50.7K
 # Testcase Example:  '[[1,1],2,[1,1]]'
 #
 # Given a nested list of integers, return the sum of all integers in the list
@@ -28,10 +29,28 @@
 # You should not implement it, or speculate about its implementation
 # """
 #class NestedInteger(object):
+#    def __init__(self, value=None):
+#        """
+#        If value is not specified, initializes an empty list.
+#        Otherwise initializes a single integer equal to value.
+#        """
+#
 #    def isInteger(self):
 #        """
 #        @return True if this NestedInteger holds a single integer, rather than a nested list.
 #        :rtype bool
+#        """
+#
+#    def add(self, elem):
+#        """
+#        Set this NestedInteger to hold a nested list and adds a nested integer elem to it.
+#        :rtype void
+#        """
+#
+#    def setInteger(self, value):
+#        """
+#        Set this NestedInteger to hold a single integer equal to value.
+#        :rtype void
 #        """
 #
 #    def getInteger(self):

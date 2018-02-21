@@ -1,11 +1,12 @@
 /*
  * [289] Game of Life
  *
- * https://leetcode.com/problems/game-of-life
+ * https://leetcode.com/problems/game-of-life/description/
  *
- * Medium (36.74%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (37.27%)
+ * Total Accepted:    62.8K
+ * Total Submissions: 168.5K
  * Testcase Example:  '[[]]'
  *
  * 
@@ -53,7 +54,7 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
-public class Solution {
+class Solution {
     public void gameOfLife(int[][] board) {
         
     }

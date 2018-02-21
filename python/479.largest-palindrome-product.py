@@ -1,11 +1,12 @@
 #
 # [479] Largest Palindrome Product
 #
-# https://leetcode.com/problems/largest-palindrome-product
+# https://leetcode.com/problems/largest-palindrome-product/description/
 #
-# Easy (18.95%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (25.16%)
+# Total Accepted:    8.7K
+# Total Submissions: 34.5K
 # Testcase Example:  '1'
 #
 # Find the largest palindrome made from the product of two n-digit numbers.

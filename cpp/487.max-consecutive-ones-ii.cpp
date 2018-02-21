@@ -1,11 +1,12 @@
 /*
  * [487] Max Consecutive Ones II
  *
- * https://leetcode.com/problems/max-consecutive-ones-ii
+ * https://leetcode.com/problems/max-consecutive-ones-ii/description/
  *
- * Medium (44.92%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (45.96%)
+ * Total Accepted:    11.3K
+ * Total Submissions: 24.6K
  * Testcase Example:  '[1,0,1,1,0,1]'
  *
  * 

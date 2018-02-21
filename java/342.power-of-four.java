@@ -1,11 +1,12 @@
 /*
  * [342] Power of Four
  *
- * https://leetcode.com/problems/power-of-four
+ * https://leetcode.com/problems/power-of-four/description/
  *
- * Easy (38.33%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (38.98%)
+ * Total Accepted:    80.5K
+ * Total Submissions: 206.6K
  * Testcase Example:  '16'
  *
  * 
@@ -22,7 +23,7 @@
  * Credits:Special thanks to @yukuairoy  for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public boolean isPowerOfFour(int num) {
         
     }

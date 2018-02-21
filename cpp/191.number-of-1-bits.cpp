@@ -1,11 +1,12 @@
 /*
  * [191] Number of 1 Bits
  *
- * https://leetcode.com/problems/number-of-1-bits
+ * https://leetcode.com/problems/number-of-1-bits/description/
  *
- * Easy (39.40%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (40.24%)
+ * Total Accepted:    183.5K
+ * Total Submissions: 455.9K
  * Testcase Example:  '           0 (00000000000000000000000000000000)'
  *
  * Write a function that takes an unsigned integer and returns the number of

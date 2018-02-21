@@ -1,11 +1,12 @@
 /*
  * [255] Verify Preorder Sequence in Binary Search Tree
  *
- * https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+ * https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/
  *
- * Medium (39.96%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (40.89%)
+ * Total Accepted:    23.9K
+ * Total Submissions: 58.6K
  * Testcase Example:  '[]'
  *
  * Given an array of numbers, verify whether it is the correct preorder

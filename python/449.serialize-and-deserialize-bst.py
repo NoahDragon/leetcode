@@ -1,11 +1,12 @@
 #
 # [449] Serialize and Deserialize BST
 #
-# https://leetcode.com/problems/serialize-and-deserialize-bst
+# https://leetcode.com/problems/serialize-and-deserialize-bst/description/
 #
-# Medium (42.24%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (42.76%)
+# Total Accepted:    23.9K
+# Total Submissions: 56K
 # Testcase Example:  '[2,1,3]'
 #
 # Serialization is the process of converting a data structure or object into a

@@ -1,11 +1,12 @@
 /*
  * [639] Decode Ways II
  *
- * https://leetcode.com/problems/decode-ways-ii
+ * https://leetcode.com/problems/decode-ways-ii/description/
  *
- * Hard (22.02%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (24.49%)
+ * Total Accepted:    10.1K
+ * Total Submissions: 41.4K
  * Testcase Example:  '"*"'
  *
  * 

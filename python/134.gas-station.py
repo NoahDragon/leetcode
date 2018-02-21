@@ -1,11 +1,12 @@
 #
 # [134] Gas Station
 #
-# https://leetcode.com/problems/gas-station
+# https://leetcode.com/problems/gas-station/description/
 #
-# Medium (29.18%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (29.89%)
+# Total Accepted:    99.2K
+# Total Submissions: 331.8K
 # Testcase Example:  '[4]\n[5]'
 #
 # 

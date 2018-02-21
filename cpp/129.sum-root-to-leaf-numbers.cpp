@@ -1,11 +1,12 @@
 /*
  * [129] Sum Root to Leaf Numbers
  *
- * https://leetcode.com/problems/sum-root-to-leaf-numbers
+ * https://leetcode.com/problems/sum-root-to-leaf-numbers/description/
  *
- * Medium (36.33%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (37.53%)
+ * Total Accepted:    130K
+ * Total Submissions: 346.3K
  * Testcase Example:  '[]'
  *
  * Given a binary tree containing digits from 0-9 only, each root-to-leaf path

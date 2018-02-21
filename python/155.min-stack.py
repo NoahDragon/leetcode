@@ -1,11 +1,12 @@
 #
 # [155] Min Stack
 #
-# https://leetcode.com/problems/min-stack
+# https://leetcode.com/problems/min-stack/description/
 #
-# Easy (28.24%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (30.67%)
+# Total Accepted:    172.7K
+# Total Submissions: 563K
 # Testcase Example:  '["MinStack","push","push","push","getMin","pop","top","getMin"]\n[[],[-2],[0],[-3],[],[],[],[]]'
 #
 # 

@@ -1,11 +1,12 @@
 #
 # [494] Target Sum
 #
-# https://leetcode.com/problems/target-sum
+# https://leetcode.com/problems/target-sum/description/
 #
-# Medium (43.86%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (43.79%)
+# Total Accepted:    45.2K
+# Total Submissions: 103.1K
 # Testcase Example:  '[1,1,1,1,1]\n3'
 #
 # 

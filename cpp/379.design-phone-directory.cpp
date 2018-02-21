@@ -1,11 +1,12 @@
 /*
  * [379] Design Phone Directory
  *
- * https://leetcode.com/problems/design-phone-directory
+ * https://leetcode.com/problems/design-phone-directory/description/
  *
- * Medium (32.05%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (35.44%)
+ * Total Accepted:    13.9K
+ * Total Submissions: 39.1K
  * Testcase Example:  '["PhoneDirectory","get","get","check","get","check","release","check"]\n[[3],[],[],[2],[],[2],[2],[2]]'
  *
  * Design a Phone Directory which supports the following operations:

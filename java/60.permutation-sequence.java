@@ -1,11 +1,12 @@
 /*
  * [60] Permutation Sequence
  *
- * https://leetcode.com/problems/permutation-sequence
+ * https://leetcode.com/problems/permutation-sequence/description/
  *
- * Medium (28.23%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (29.31%)
+ * Total Accepted:    98.1K
+ * Total Submissions: 334.7K
  * Testcase Example:  '1\n1'
  *
  * The set [1,2,3,…,n] contains a total of n! unique permutations.
@@ -26,7 +27,7 @@
  * 
  * Note: Given n will be between 1 and 9 inclusive.
  */
-public class Solution {
+class Solution {
     public String getPermutation(int n, int k) {
         
     }

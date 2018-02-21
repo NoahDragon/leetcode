@@ -1,11 +1,12 @@
 /*
  * [600] Non-negative Integers without Consecutive Ones
  *
- * https://leetcode.com/problems/non-negative-integers-without-consecutive-ones
+ * https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/
  *
- * Hard (27.55%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (31.53%)
+ * Total Accepted:    5.1K
+ * Total Submissions: 16.1K
  * Testcase Example:  '1'
  *
  * Given a positive integer n, find the number of non-negative integers less
@@ -17,21 +18,11 @@
  * Input: 5
  * Output: 5
  * Explanation: 
- * Here are the non-negative integers <= 5 with their corresponding binary
- * representations:
- * 0 : 0
- * 1 : 1
- * 2 : 10
- * 3 : 11
- * 4 : 100
- * 5 : 101
- * Among them, only integer 3 disobeys the rule (two consecutive ones) and the
- * other 5 satisfy the rule. 
- * 
+ * Here are the non-negative integers 
  * 
  * 
  * Note:
- * 1 <= n <= 109
+ * 1 9
  * 
  * 
  */

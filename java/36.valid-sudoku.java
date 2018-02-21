@@ -1,12 +1,13 @@
 /*
  * [36] Valid Sudoku
  *
- * https://leetcode.com/problems/valid-sudoku
+ * https://leetcode.com/problems/valid-sudoku/description/
  *
- * Medium (35.41%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '[".87654321","2........","3........","4........","5........","6........","7........","8........","9........"]'
+ * algorithms
+ * Medium (37.23%)
+ * Total Accepted:    145.4K
+ * Total Submissions: 390.6K
+ * Testcase Example:  '[[".","8","7","6","5","4","3","2","1"],["2",".",".",".",".",".",".",".","."],["3",".",".",".",".",".",".",".","."],["4",".",".",".",".",".",".",".","."],["5",".",".",".",".",".",".",".","."],["6",".",".",".",".",".",".",".","."],["7",".",".",".",".",".",".",".","."],["8",".",".",".",".",".",".",".","."],["9",".",".",".",".",".",".",".","."]]'
  *
  * Determine if a Sudoku is valid, according to: Sudoku Puzzles - The Rules.
  * 
@@ -23,7 +24,7 @@
  * the filled cells need to be validated.
  * 
  */
-public class Solution {
+class Solution {
     public boolean isValidSudoku(char[][] board) {
         
     }

@@ -1,18 +1,19 @@
 #
 # [321] Create Maximum Number
 #
-# https://leetcode.com/problems/create-maximum-number
+# https://leetcode.com/problems/create-maximum-number/description/
 #
-# Hard (24.42%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (24.77%)
+# Total Accepted:    22.2K
+# Total Submissions: 89.5K
 # Testcase Example:  '[3,4,6,5]\n[9,1,2,5,8,3]\n5'
 #
 # 
 # ⁠   Given two arrays of length m and n with digits 0-9 representing two
 # numbers.
-# ⁠   Create the maximum number of length k <= m + n from digits of the two.
-# The relative order of the digits
+# ⁠   Create the maximum number of length k  from digits of the two. The
+# relative order of the digits
 # ⁠   from the same array must be preserved. Return an array of the k digits.
 # You should try to optimize your time and space complexity.
 # 

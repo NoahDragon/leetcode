@@ -1,11 +1,12 @@
 /*
  * [609] Find Duplicate File in System
  *
- * https://leetcode.com/problems/find-duplicate-file-in-system
+ * https://leetcode.com/problems/find-duplicate-file-in-system/description/
  *
- * Medium (52.69%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (52.34%)
+ * Total Accepted:    11K
+ * Total Submissions: 20.9K
  * Testcase Example:  '["root/a 1.txt(abcd) 2.txt(efgh)","root/c 3.txt(abcd)","root/c/d 4.txt(efgh)","root 4.txt(efgh)"]'
  *
  * Given a list of directory info including directory path, and all the files
@@ -69,7 +70,7 @@
  * ⁠How to make sure the duplicated files you find are not false positive?
  * 
  */
-public class Solution {
+class Solution {
     public List<List<String>> findDuplicate(String[] paths) {
         
     }

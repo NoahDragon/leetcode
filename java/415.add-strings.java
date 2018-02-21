@@ -1,11 +1,12 @@
 /*
  * [415] Add Strings
  *
- * https://leetcode.com/problems/add-strings
+ * https://leetcode.com/problems/add-strings/description/
  *
- * Easy (41.24%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (41.75%)
+ * Total Accepted:    51.9K
+ * Total Submissions: 124.4K
  * Testcase Example:  '"0"\n"0"'
  *
  * Given two non-negative integers num1 and num2 represented as string, return
@@ -21,7 +22,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public String addStrings(String num1, String num2) {
         
     }

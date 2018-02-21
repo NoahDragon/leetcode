@@ -1,11 +1,12 @@
 /*
  * [247] Strobogrammatic Number II
  *
- * https://leetcode.com/problems/strobogrammatic-number-ii
+ * https://leetcode.com/problems/strobogrammatic-number-ii/description/
  *
- * Medium (39.48%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (40.91%)
+ * Total Accepted:    27K
+ * Total Submissions: 66.1K
  * Testcase Example:  '2'
  *
  * A strobogrammatic number is a number that looks the same when rotated 180

@@ -1,17 +1,19 @@
 #
 # [5] Longest Palindromic Substring
 #
-# https://leetcode.com/problems/longest-palindromic-substring
+# https://leetcode.com/problems/longest-palindromic-substring/description/
 #
-# Medium (25.15%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (25.16%)
+# Total Accepted:    283.3K
+# Total Submissions: 1.1M
 # Testcase Example:  '"babad"'
 #
 # Given a string s, find the longest palindromic substring in s. You may assume
 # that the maximum length of s is 1000.
 # 
 # Example:
+# 
 # 
 # Input: "babad"
 # 
@@ -21,11 +23,14 @@
 # 
 # 
 # 
+# 
 # Example:
+# 
 # 
 # Input: "cbbd"
 # 
 # Output: "bb"
+# 
 # 
 # 
 #
@@ -35,4 +40,3 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        

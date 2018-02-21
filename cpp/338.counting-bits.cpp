@@ -1,11 +1,12 @@
 /*
  * [338] Counting Bits
  *
- * https://leetcode.com/problems/counting-bits
+ * https://leetcode.com/problems/counting-bits/description/
  *
- * Medium (60.99%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (62.07%)
+ * Total Accepted:    103.7K
+ * Total Submissions: 167.1K
  * Testcase Example:  '2'
  *
  * Given a non negative integer number num. For every numbers i in the range 0

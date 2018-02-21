@@ -1,11 +1,12 @@
 #
 # [324] Wiggle Sort II
 #
-# https://leetcode.com/problems/wiggle-sort-ii
+# https://leetcode.com/problems/wiggle-sort-ii/description/
 #
-# Medium (25.83%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (26.36%)
+# Total Accepted:    36.8K
+# Total Submissions: 139.6K
 # Testcase Example:  '[1,5,1,1,6,4]'
 #
 # 

@@ -1,11 +1,12 @@
 /*
  * [38] Count and Say
  *
- * https://leetcode.com/problems/count-and-say
+ * https://leetcode.com/problems/count-and-say/description/
  *
- * Easy (34.26%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (36.40%)
+ * Total Accepted:    178.6K
+ * Total Submissions: 490.7K
  * Testcase Example:  '1'
  *
  * The count-and-say sequence is the sequence of integers with the first five

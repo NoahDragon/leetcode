@@ -1,11 +1,12 @@
 /*
  * [114] Flatten Binary Tree to Linked List
  *
- * https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+ * https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
  *
- * Medium (34.80%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (36.29%)
+ * Total Accepted:    156.3K
+ * Total Submissions: 430.6K
  * Testcase Example:  '[]'
  *
  * 
@@ -55,7 +56,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public void flatten(TreeNode root) {
         
     }

@@ -1,12 +1,13 @@
 /*
  * [212] Word Search II
  *
- * https://leetcode.com/problems/word-search-ii
+ * https://leetcode.com/problems/word-search-ii/description/
  *
- * Hard (23.17%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '["oaan","etae","ihkr","iflv"]\n["oath","pea","eat","rain"]'
+ * algorithms
+ * Hard (24.53%)
+ * Total Accepted:    60.5K
+ * Total Submissions: 246.6K
+ * Testcase Example:  '[["o","a","a","n"],["e","t","a","e"],["i","h","k","r"],["i","f","l","v"]]\n["oath","pea","eat","rain"]'
  *
  * 
  * Given a 2D board and a list of words from the dictionary, find all words in
@@ -50,7 +51,7 @@
  * this problem: Implement Trie (Prefix Tree) first.
  * 
  */
-public class Solution {
+class Solution {
     public List<String> findWords(char[][] board, String[] words) {
         
     }

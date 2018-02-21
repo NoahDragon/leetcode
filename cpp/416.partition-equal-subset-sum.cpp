@@ -1,11 +1,12 @@
 /*
  * [416] Partition Equal Subset Sum
  *
- * https://leetcode.com/problems/partition-equal-subset-sum
+ * https://leetcode.com/problems/partition-equal-subset-sum/description/
  *
- * Medium (38.97%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (39.01%)
+ * Total Accepted:    38.2K
+ * Total Submissions: 98K
  * Testcase Example:  '[1,5,11,5]'
  *
  * Given a non-empty array containing only positive integers, find if the array

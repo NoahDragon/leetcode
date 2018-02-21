@@ -1,11 +1,12 @@
 #
 # [6] ZigZag Conversion
 #
-# https://leetcode.com/problems/zigzag-conversion
+# https://leetcode.com/problems/zigzag-conversion/description/
 #
-# Medium (26.66%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (27.17%)
+# Total Accepted:    194.1K
+# Total Submissions: 714.2K
 # Testcase Example:  '""\n1'
 #
 # 

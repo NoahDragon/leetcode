@@ -1,11 +1,12 @@
 #
 # [535] Encode and Decode TinyURL
 #
-# https://leetcode.com/problems/encode-and-decode-tinyurl
+# https://leetcode.com/problems/encode-and-decode-tinyurl/description/
 #
-# Medium (74.08%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (73.83%)
+# Total Accepted:    31.5K
+# Total Submissions: 42.6K
 # Testcase Example:  '"https://leetcode.com/problems/design-tinyurl"'
 #
 # Note: This is a companion problem to the System Design problem: Design

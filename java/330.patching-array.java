@@ -1,11 +1,12 @@
 /*
  * [330] Patching Array
  *
- * https://leetcode.com/problems/patching-array
+ * https://leetcode.com/problems/patching-array/description/
  *
- * Hard (31.90%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (32.57%)
+ * Total Accepted:    25.5K
+ * Total Submissions: 78.2K
  * Testcase Example:  '[1,3]\n6'
  *
  * Given a sorted positive integer array nums and an integer n, add/patch
@@ -37,7 +38,7 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public int minPatches(int[] nums, int n) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [463] Island Perimeter
  *
- * https://leetcode.com/problems/island-perimeter
+ * https://leetcode.com/problems/island-perimeter/description/
  *
- * Easy (57.12%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (57.75%)
+ * Total Accepted:    71.8K
+ * Total Submissions: 124.3K
  * Testcase Example:  '[[0,1,0,0],[1,1,1,0],[0,1,0,0],[1,1,0,0]]'
  *
  * You are given a map in form of a two-dimensional integer grid where 1

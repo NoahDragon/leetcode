@@ -1,11 +1,12 @@
 #
 # [8] String to Integer (atoi)
 #
-# https://leetcode.com/problems/string-to-integer-atoi
+# https://leetcode.com/problems/string-to-integer-atoi/description/
 #
-# Medium (13.96%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (13.95%)
+# Total Accepted:    212.6K
+# Total Submissions: 1.5M
 # Testcase Example:  '""'
 #
 # Implement atoi to convert a string to an integer.
@@ -13,19 +14,11 @@
 # Hint: Carefully consider all possible input cases. If you want a challenge,
 # please do not see below and ask yourself what are the possible input cases.
 # 
-# 
-# Notes: 
-# It is intended for this problem to be specified vaguely (ie, no given input
-# specs). You are responsible to gather all the input requirements up front. 
-# 
-# 
-# Update (2015-02-10):
-# The signature of the C++ function had been updated. If you still see your
-# function signature accepts a const char * argument, please click the reload
-# button  to reset your code definition.
+# Notes: It is intended for this problem to be specified vaguely (ie, no given
+# input specs). You are responsible to gather all the input requirements up
+# front.
 # 
 # 
-# spoilers alert... click to show requirements for atoi.
 # 
 # Requirements for atoi:
 # 
@@ -45,7 +38,6 @@
 # If no valid conversion could be performed, a zero value is returned. If the
 # correct value is out of the range of representable values, INT_MAX
 # (2147483647) or INT_MIN (-2147483648) is returned.
-# 
 # 
 #
 class Solution(object):

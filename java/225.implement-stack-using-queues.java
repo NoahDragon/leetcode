@@ -1,11 +1,12 @@
 /*
  * [225] Implement Stack using Queues
  *
- * https://leetcode.com/problems/implement-stack-using-queues
+ * https://leetcode.com/problems/implement-stack-using-queues/description/
  *
- * Easy (32.60%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (34.04%)
+ * Total Accepted:    89K
+ * Total Submissions: 261.5K
  * Testcase Example:  '["MyStack","empty"]\n[[],[]]'
  *
  * 
@@ -39,7 +40,7 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * all test cases.
  */
-public class MyStack {
+class MyStack {
 
     /** Initialize your data structure here. */
     public MyStack() {

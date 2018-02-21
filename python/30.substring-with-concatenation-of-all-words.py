@@ -1,11 +1,12 @@
 #
 # [30] Substring with Concatenation of All Words
 #
-# https://leetcode.com/problems/substring-with-concatenation-of-all-words
+# https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/
 #
-# Hard (21.91%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (22.25%)
+# Total Accepted:    93.2K
+# Total Submissions: 419.1K
 # Testcase Example:  '"barfoothefoobarman"\n["foo","bar"]'
 #
 # 

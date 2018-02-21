@@ -1,11 +1,12 @@
 #
 # [351] Android Unlock Patterns
 #
-# https://leetcode.com/problems/android-unlock-patterns
+# https://leetcode.com/problems/android-unlock-patterns/description/
 #
-# Medium (43.42%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (44.65%)
+# Total Accepted:    19.3K
+# Total Submissions: 43.2K
 # Testcase Example:  '1\n1'
 #
 # 

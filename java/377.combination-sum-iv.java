@@ -1,11 +1,12 @@
 /*
  * [377] Combination Sum IV
  *
- * https://leetcode.com/problems/combination-sum-iv
+ * https://leetcode.com/problems/combination-sum-iv/description/
  *
- * Medium (41.75%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (42.69%)
+ * Total Accepted:    54.5K
+ * Total Submissions: 127.7K
  * Testcase Example:  '[1,2,3]\n4'
  *
  * ⁠Given an integer array with all positive numbers and no duplicates, find
@@ -40,7 +41,7 @@
  * Credits:Special thanks to @pbrother for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public int combinationSum4(int[] nums, int target) {
         
     }

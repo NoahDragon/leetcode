@@ -1,11 +1,12 @@
 /*
  * [256] Paint House
  *
- * https://leetcode.com/problems/paint-house
+ * https://leetcode.com/problems/paint-house/description/
  *
- * Easy (45.91%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (46.21%)
+ * Total Accepted:    32.4K
+ * Total Submissions: 70.1K
  * Testcase Example:  '[]'
  *
  * 

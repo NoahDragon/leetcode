@@ -1,11 +1,12 @@
 /*
  * [67] Add Binary
  *
- * https://leetcode.com/problems/add-binary
+ * https://leetcode.com/problems/add-binary/description/
  *
- * Easy (32.09%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (33.79%)
+ * Total Accepted:    187.5K
+ * Total Submissions: 554.9K
  * Testcase Example:  '"0"\n"0"'
  *
  * 
@@ -19,7 +20,7 @@
  * Return "100".
  * 
  */
-public class Solution {
+class Solution {
     public String addBinary(String a, String b) {
         
     }

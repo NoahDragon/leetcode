@@ -1,11 +1,12 @@
 /*
  * [187] Repeated DNA Sequences
  *
- * https://leetcode.com/problems/repeated-dna-sequences
+ * https://leetcode.com/problems/repeated-dna-sequences/description/
  *
- * Medium (31.12%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (32.79%)
+ * Total Accepted:    90.7K
+ * Total Submissions: 276.6K
  * Testcase Example:  '"AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"'
  *
  * 

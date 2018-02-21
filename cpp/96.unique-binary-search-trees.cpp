@@ -1,11 +1,12 @@
 /*
  * [96] Unique Binary Search Trees
  *
- * https://leetcode.com/problems/unique-binary-search-trees
+ * https://leetcode.com/problems/unique-binary-search-trees/description/
  *
- * Medium (40.73%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (41.78%)
+ * Total Accepted:    143.4K
+ * Total Submissions: 343.2K
  * Testcase Example:  '1'
  *
  * Given n, how many structurally unique BST's (binary search trees) that store

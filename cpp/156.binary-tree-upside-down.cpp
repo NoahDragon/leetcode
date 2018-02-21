@@ -1,11 +1,12 @@
 /*
  * [156] Binary Tree Upside Down
  *
- * https://leetcode.com/problems/binary-tree-upside-down
+ * https://leetcode.com/problems/binary-tree-upside-down/description/
  *
- * Medium (44.10%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (45.69%)
+ * Total Accepted:    33K
+ * Total Submissions: 72.3K
  * Testcase Example:  '[]'
  *
  * 

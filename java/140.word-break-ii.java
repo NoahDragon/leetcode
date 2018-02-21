@@ -1,12 +1,12 @@
 /*
  * [140] Word Break II
  *
- * https://leetcode.com/problems/word-break-ii
+ * https://leetcode.com/problems/word-break-ii/description/
  *
  * algorithms
- * Hard (23.08%)
- * Total Accepted:    89.4K
- * Total Submissions: 387.2K
+ * Hard (24.31%)
+ * Total Accepted:    108.3K
+ * Total Submissions: 445.6K
  * Testcase Example:  '"catsanddog"\n["cat","cats","and","sand","dog"]'
  *
  * 
@@ -37,7 +37,7 @@
  * changes.
  * 
  */
-public class Solution {
+class Solution {
     public List<String> wordBreak(String s, List<String> wordDict) {
         
     }

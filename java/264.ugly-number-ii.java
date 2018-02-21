@@ -1,11 +1,12 @@
 /*
  * [264] Ugly Number II
  *
- * https://leetcode.com/problems/ugly-number-ii
+ * https://leetcode.com/problems/ugly-number-ii/description/
  *
- * Medium (32.41%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (33.24%)
+ * Total Accepted:    71.1K
+ * Total Submissions: 213.8K
  * Testcase Example:  '1'
  *
  * 
@@ -26,7 +27,7 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
-public class Solution {
+class Solution {
     public int nthUglyNumber(int n) {
         
     }

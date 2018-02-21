@@ -1,11 +1,12 @@
 #
 # [138] Copy List with Random Pointer
 #
-# https://leetcode.com/problems/copy-list-with-random-pointer
+# https://leetcode.com/problems/copy-list-with-random-pointer/description/
 #
-# Medium (26.36%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (25.93%)
+# Total Accepted:    146.1K
+# Total Submissions: 563.5K
 # Testcase Example:  '{}'
 #
 # 

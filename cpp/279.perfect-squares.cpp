@@ -1,11 +1,12 @@
 /*
  * [279] Perfect Squares
  *
- * https://leetcode.com/problems/perfect-squares
+ * https://leetcode.com/problems/perfect-squares/description/
  *
- * Medium (36.47%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (37.72%)
+ * Total Accepted:    102K
+ * Total Submissions: 270.4K
  * Testcase Example:  '1'
  *
  * 

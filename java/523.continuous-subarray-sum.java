@@ -1,11 +1,12 @@
 /*
  * [523] Continuous Subarray Sum
  *
- * https://leetcode.com/problems/continuous-subarray-sum
+ * https://leetcode.com/problems/continuous-subarray-sum/description/
  *
- * Medium (22.34%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (23.36%)
+ * Total Accepted:    29.8K
+ * Total Submissions: 127.4K
  * Testcase Example:  '[23,2,4,6,7]\n6'
  *
  * 
@@ -43,7 +44,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
         
     }

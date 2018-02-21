@@ -1,11 +1,12 @@
 /*
  * [190] Reverse Bits
  *
- * https://leetcode.com/problems/reverse-bits
+ * https://leetcode.com/problems/reverse-bits/description/
  *
- * Easy (29.54%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (29.44%)
+ * Total Accepted:    126.4K
+ * Total Submissions: 429.2K
  * Testcase Example:  '           0 (00000000000000000000000000000000)'
  *
  * Reverse bits of a given 32 bits unsigned integer.

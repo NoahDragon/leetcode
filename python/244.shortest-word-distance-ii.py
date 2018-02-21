@@ -1,11 +1,12 @@
 #
 # [244] Shortest Word Distance II
 #
-# https://leetcode.com/problems/shortest-word-distance-ii
+# https://leetcode.com/problems/shortest-word-distance-ii/description/
 #
-# Medium (37.23%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (40.79%)
+# Total Accepted:    29.2K
+# Total Submissions: 71.5K
 # Testcase Example:  '["WordDistance","shortest","shortest"]\n[[["practice","makes","perfect","coding","makes"]],["coding","practice"],["makes","coding"]]'
 #
 # This is a follow up of Shortest Word Distance. The only difference is now you
@@ -19,12 +20,8 @@
 # For example,
 # Assume that words = ["practice", "makes", "perfect", "coding", "makes"].
 # 
-# 
-# 
 # Given word1 = “coding”, word2 = “practice”, return 3.
 # Given word1 = "makes", word2 = "coding", return 1.
-# 
-# 
 # 
 # Note:
 # You may assume that word1 does not equal to word2, and word1 and word2 are

@@ -1,11 +1,12 @@
 #
 # [294] Flip Game II
 #
-# https://leetcode.com/problems/flip-game-ii
+# https://leetcode.com/problems/flip-game-ii/description/
 #
-# Medium (46.10%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (46.85%)
+# Total Accepted:    31.7K
+# Total Submissions: 67.8K
 # Testcase Example:  '"++++"'
 #
 # 

@@ -1,11 +1,12 @@
 /*
  * [418] Sentence Screen Fitting
  *
- * https://leetcode.com/problems/sentence-screen-fitting
+ * https://leetcode.com/problems/sentence-screen-fitting/description/
  *
- * Medium (27.35%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (28.12%)
+ * Total Accepted:    17.8K
+ * Total Submissions: 63.2K
  * Testcase Example:  '["hello","world"]\n2\n8'
  *
  * Given a rows x cols screen and a sentence represented by a list of non-empty

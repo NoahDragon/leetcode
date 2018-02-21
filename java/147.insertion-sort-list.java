@@ -1,11 +1,12 @@
 /*
  * [147] Insertion Sort List
  *
- * https://leetcode.com/problems/insertion-sort-list
+ * https://leetcode.com/problems/insertion-sort-list/description/
  *
- * Medium (32.87%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (33.69%)
+ * Total Accepted:    115.2K
+ * Total Submissions: 342K
  * Testcase Example:  '[]'
  *
  * Sort a linked list using insertion sort.
@@ -18,7 +19,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public ListNode insertionSortList(ListNode head) {
         
     }

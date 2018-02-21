@@ -1,11 +1,12 @@
 /*
  * [22] Generate Parentheses
  *
- * https://leetcode.com/problems/generate-parentheses
+ * https://leetcode.com/problems/generate-parentheses/description/
  *
- * Medium (44.38%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (47.42%)
+ * Total Accepted:    194.3K
+ * Total Submissions: 409.8K
  * Testcase Example:  '3'
  *
  * 

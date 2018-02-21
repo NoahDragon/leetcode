@@ -1,11 +1,12 @@
 /*
  * [81] Search in Rotated Sorted Array II
  *
- * https://leetcode.com/problems/search-in-rotated-sorted-array-ii
+ * https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
  *
- * Medium (32.78%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (32.71%)
+ * Total Accepted:    113.8K
+ * Total Submissions: 347.8K
  * Testcase Example:  '[]\n5'
  *
  * 

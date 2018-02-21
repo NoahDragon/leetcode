@@ -1,11 +1,12 @@
 #
 # [401] Binary Watch
 #
-# https://leetcode.com/problems/binary-watch
+# https://leetcode.com/problems/binary-watch/description/
 #
-# Easy (44.82%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (44.84%)
+# Total Accepted:    43.8K
+# Total Submissions: 97.8K
 # Testcase Example:  '0'
 #
 # A binary watch has 4 LEDs on the top which represent the hours (0-11), and

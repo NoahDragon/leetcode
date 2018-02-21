@@ -1,11 +1,12 @@
 /*
  * [473] Matchsticks to Square
  *
- * https://leetcode.com/problems/matchsticks-to-square
+ * https://leetcode.com/problems/matchsticks-to-square/description/
  *
- * Medium (34.89%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (35.38%)
+ * Total Accepted:    14.4K
+ * Total Submissions: 40.8K
  * Testcase Example:  '[1,1,2,2,2]'
  *
  * Remember the story of Little Match Girl? By now, you know exactly what
@@ -46,7 +47,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean makesquare(int[] nums) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [216] Combination Sum III
  *
- * https://leetcode.com/problems/combination-sum-iii
+ * https://leetcode.com/problems/combination-sum-iii/description/
  *
- * Medium (44.55%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (46.79%)
+ * Total Accepted:    84.4K
+ * Total Submissions: 180.3K
  * Testcase Example:  '3\n7'
  *
  * 

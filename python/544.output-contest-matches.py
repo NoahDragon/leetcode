@@ -1,11 +1,12 @@
 #
 # [544] Output Contest Matches
 #
-# https://leetcode.com/problems/output-contest-matches
+# https://leetcode.com/problems/output-contest-matches/description/
 #
-# Medium (72.74%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (71.79%)
+# Total Accepted:    6.8K
+# Total Submissions: 9.5K
 # Testcase Example:  '4'
 #
 # 

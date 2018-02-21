@@ -1,11 +1,12 @@
 /*
  * [95] Unique Binary Search Trees II
  *
- * https://leetcode.com/problems/unique-binary-search-trees-ii
+ * https://leetcode.com/problems/unique-binary-search-trees-ii/description/
  *
- * Medium (31.23%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (32.09%)
+ * Total Accepted:    97.2K
+ * Total Submissions: 302.9K
  * Testcase Example:  '3'
  *
  * Given an integer n, generate all structurally unique BST's (binary search
@@ -33,7 +34,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public List<TreeNode> generateTrees(int n) {
         
     }

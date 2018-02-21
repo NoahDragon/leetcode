@@ -1,11 +1,12 @@
 #
 # [300] Longest Increasing Subsequence
 #
-# https://leetcode.com/problems/longest-increasing-subsequence
+# https://leetcode.com/problems/longest-increasing-subsequence/description/
 #
-# Medium (38.19%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (38.88%)
+# Total Accepted:    114.1K
+# Total Submissions: 293.5K
 # Testcase Example:  '[10,9,2,5,3,7,101,18]'
 #
 # 

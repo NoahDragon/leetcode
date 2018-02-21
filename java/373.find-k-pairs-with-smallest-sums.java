@@ -1,11 +1,12 @@
 /*
  * [373] Find K Pairs with Smallest Sums
  *
- * https://leetcode.com/problems/find-k-pairs-with-smallest-sums
+ * https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
  *
- * Medium (30.59%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (31.19%)
+ * Total Accepted:    37.7K
+ * Total Submissions: 121K
  * Testcase Example:  '[1,7,11]\n[2,4,6]\n3'
  *
  * 
@@ -55,7 +56,7 @@
  * Credits:Special thanks to @elmirap and @StefanPochmann for adding this
  * problem and creating all test cases.
  */
-public class Solution {
+class Solution {
     public List<int[]> kSmallestPairs(int[] nums1, int[] nums2, int k) {
         
     }

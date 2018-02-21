@@ -1,11 +1,12 @@
 /*
  * [527] Word Abbreviation
  *
- * https://leetcode.com/problems/word-abbreviation
+ * https://leetcode.com/problems/word-abbreviation/description/
  *
- * Hard (38.81%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (44.07%)
+ * Total Accepted:    4.7K
+ * Total Submissions: 10.7K
  * Testcase Example:  '["like","god","internal","me","internet","interval","intension","face","intrusion"]'
  *
  * Given an array of n distinct non-empty strings, you need to generate minimal
@@ -40,7 +41,7 @@
  * ⁠The return answers should be in the same order as the original array.
  * 
  */
-public class Solution {
+class Solution {
     public List<String> wordsAbbreviation(List<String> dict) {
         
     }

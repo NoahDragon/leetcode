@@ -1,11 +1,12 @@
 /*
  * [555] Split Concatenated Strings
  *
- * https://leetcode.com/problems/split-concatenated-strings
+ * https://leetcode.com/problems/split-concatenated-strings/description/
  *
- * Medium (33.05%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (38.06%)
+ * Total Accepted:    2.5K
+ * Total Submissions: 6.5K
  * Testcase Example:  '["abc","xyz"]'
  *
  * Given a list of strings, you could concatenate these strings together into a
@@ -47,7 +48,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public String splitLoopedString(String[] strs) {
         
     }

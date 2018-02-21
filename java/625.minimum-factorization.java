@@ -1,11 +1,12 @@
 /*
  * [625] Minimum Factorization
  *
- * https://leetcode.com/problems/minimum-factorization
+ * https://leetcode.com/problems/minimum-factorization/description/
  *
- * Medium (29.57%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (31.21%)
+ * Total Accepted:    4.4K
+ * Total Submissions: 14K
  * Testcase Example:  '48'
  *
  * Given a positive integer a, find the smallest positive integer b whose
@@ -32,7 +33,7 @@
  * 35
  * 
  */
-public class Solution {
+class Solution {
     public int smallestFactorization(int a) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [467] Unique Substrings in Wraparound String
  *
- * https://leetcode.com/problems/unique-substrings-in-wraparound-string
+ * https://leetcode.com/problems/unique-substrings-in-wraparound-string/description/
  *
- * Medium (32.15%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (33.18%)
+ * Total Accepted:    11.6K
+ * Total Submissions: 35K
  * Testcase Example:  '"a"'
  *
  * Consider the string s to be the infinite wraparound string of
@@ -47,7 +48,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int findSubstringInWraproundString(String p) {
         
     }

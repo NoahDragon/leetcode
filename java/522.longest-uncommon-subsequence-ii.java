@@ -1,11 +1,12 @@
 /*
  * [522] Longest Uncommon Subsequence II
  *
- * https://leetcode.com/problems/longest-uncommon-subsequence-ii
+ * https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/
  *
- * Medium (30.54%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (32.00%)
+ * Total Accepted:    10K
+ * Total Submissions: 31.2K
  * Testcase Example:  '["aba","cdc","eae"]'
  *
  * 
@@ -42,7 +43,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int findLUSlength(String[] strs) {
         
     }

@@ -1,15 +1,17 @@
 /*
  * [78] Subsets
  *
- * https://leetcode.com/problems/subsets
+ * https://leetcode.com/problems/subsets/description/
  *
- * Medium (39.82%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (43.95%)
+ * Total Accepted:    217.4K
+ * Total Submissions: 494.6K
  * Testcase Example:  '[1,2,3]'
  *
  * 
- * Given a set of distinct integers, nums, return all possible subsets.
+ * Given a set of distinct integers, nums, return all possible subsets (the
+ * power set).
  * 
  * Note: The solution set must not contain duplicate subsets.
  * 
@@ -31,7 +33,7 @@
  * ]
  * 
  */
-public class Solution {
+class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         
     }

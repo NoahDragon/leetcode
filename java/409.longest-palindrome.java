@@ -1,11 +1,12 @@
 /*
  * [409] Longest Palindrome
  *
- * https://leetcode.com/problems/longest-palindrome
+ * https://leetcode.com/problems/longest-palindrome/description/
  *
- * Easy (45.31%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (45.81%)
+ * Total Accepted:    59.1K
+ * Total Submissions: 128.9K
  * Testcase Example:  '"abccccdd"'
  *
  * Given a string which consists of lowercase or uppercase letters, find the
@@ -31,7 +32,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int longestPalindrome(String s) {
         
     }

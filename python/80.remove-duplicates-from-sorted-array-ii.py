@@ -1,11 +1,12 @@
 #
 # [80] Remove Duplicates from Sorted Array II
 #
-# https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
+# https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
 #
-# Medium (35.80%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (36.69%)
+# Total Accepted:    142.1K
+# Total Submissions: 387.3K
 # Testcase Example:  '[]'
 #
 # 

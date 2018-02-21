@@ -1,11 +1,12 @@
 /*
  * [390] Elimination Game
  *
- * https://leetcode.com/problems/elimination-game
+ * https://leetcode.com/problems/elimination-game/description/
  *
- * Medium (41.42%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (42.56%)
+ * Total Accepted:    15.5K
+ * Total Submissions: 36.5K
  * Testcase Example:  '9'
  *
  * 

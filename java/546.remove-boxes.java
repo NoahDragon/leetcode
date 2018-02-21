@@ -1,11 +1,12 @@
 /*
  * [546] Remove Boxes
  *
- * https://leetcode.com/problems/remove-boxes
+ * https://leetcode.com/problems/remove-boxes/description/
  *
- * Hard (31.59%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (35.16%)
+ * Total Accepted:    5.1K
+ * Total Submissions: 14.6K
  * Testcase Example:  '[1,3,2,2,2,3,4,3,1]'
  *
  * Given several boxes with different colors represented by different positive
@@ -40,7 +41,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int removeBoxes(int[] boxes) {
         
     }

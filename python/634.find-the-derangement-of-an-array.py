@@ -1,11 +1,12 @@
 #
 # [634] Find the Derangement of An Array
 #
-# https://leetcode.com/problems/find-the-derangement-of-an-array
+# https://leetcode.com/problems/find-the-derangement-of-an-array/description/
 #
-# Medium (30.21%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (35.44%)
+# Total Accepted:    3.1K
+# Total Submissions: 8.9K
 # Testcase Example:  '1'
 #
 # 

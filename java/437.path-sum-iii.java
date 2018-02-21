@@ -1,11 +1,12 @@
 /*
  * [437] Path Sum III
  *
- * https://leetcode.com/problems/path-sum-iii
+ * https://leetcode.com/problems/path-sum-iii/description/
  *
- * Easy (39.66%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (40.07%)
+ * Total Accepted:    50.3K
+ * Total Submissions: 125.5K
  * Testcase Example:  '[10,5,-3,3,2,null,11,3,-2,null,1]\n8'
  *
  * You are given a binary tree in which each node contains an integer value.
@@ -48,7 +49,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public int pathSum(TreeNode root, int sum) {
         
     }

@@ -1,11 +1,12 @@
 #
 # [476] Number Complement
 #
-# https://leetcode.com/problems/number-complement
+# https://leetcode.com/problems/number-complement/description/
 #
-# Easy (61.34%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (61.06%)
+# Total Accepted:    70.4K
+# Total Submissions: 115.3K
 # Testcase Example:  '5'
 #
 # Given a positive integer, output its complement number. The complement

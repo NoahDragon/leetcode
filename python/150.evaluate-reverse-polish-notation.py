@@ -1,11 +1,12 @@
 #
 # [150] Evaluate Reverse Polish Notation
 #
-# https://leetcode.com/problems/evaluate-reverse-polish-notation
+# https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
 #
-# Medium (26.96%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (28.20%)
+# Total Accepted:    110.2K
+# Total Submissions: 390.7K
 # Testcase Example:  '["18"]'
 #
 # 

@@ -1,11 +1,12 @@
 /*
  * [624] Maximum Distance in Arrays
  *
- * https://leetcode.com/problems/maximum-distance-in-arrays
+ * https://leetcode.com/problems/maximum-distance-in-arrays/description/
  *
- * Easy (32.81%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (35.03%)
+ * Total Accepted:    9.8K
+ * Total Submissions: 28K
  * Testcase Example:  '[[1,2,3],[4,5],[1,2,3]]'
  *
  * 
@@ -39,7 +40,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int maxDistance(List<List<Integer>> arrays) {
         
     }

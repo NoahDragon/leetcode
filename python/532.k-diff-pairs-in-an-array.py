@@ -1,11 +1,12 @@
 #
 # [532] K-diff Pairs in an Array
 #
-# https://leetcode.com/problems/k-diff-pairs-in-an-array
+# https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
 #
-# Easy (28.14%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (28.20%)
+# Total Accepted:    33.2K
+# Total Submissions: 117.7K
 # Testcase Example:  '[3,1,4,1,5]\n2'
 #
 # 

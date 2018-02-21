@@ -1,11 +1,12 @@
 /*
  * [239] Sliding Window Maximum
  *
- * https://leetcode.com/problems/sliding-window-maximum
+ * https://leetcode.com/problems/sliding-window-maximum/description/
  *
- * Hard (32.73%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (34.07%)
+ * Total Accepted:    83.4K
+ * Total Submissions: 244.7K
  * Testcase Example:  '[]\n0'
  *
  * Given an array nums, there is a sliding window of size k which is moving

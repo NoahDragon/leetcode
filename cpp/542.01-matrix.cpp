@@ -1,11 +1,12 @@
 /*
  * [542] 01 Matrix
  *
- * https://leetcode.com/problems/01-matrix
+ * https://leetcode.com/problems/01-matrix/description/
  *
- * Medium (33.09%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (32.87%)
+ * Total Accepted:    17.7K
+ * Total Submissions: 53.8K
  * Testcase Example:  '[[0,0,0],[0,1,0],[0,0,0]]'
  *
  * 

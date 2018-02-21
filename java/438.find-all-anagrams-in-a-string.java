@@ -1,11 +1,12 @@
 /*
  * [438] Find All Anagrams in a String
  *
- * https://leetcode.com/problems/find-all-anagrams-in-a-string
+ * https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
  *
- * Easy (33.55%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (33.99%)
+ * Total Accepted:    56.3K
+ * Total Submissions: 165.7K
  * Testcase Example:  '"cbaebabacd"\n"abc"'
  *
  * Given a string s and a non-empty string p, find all the start indices of p's
@@ -46,7 +47,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         
     }

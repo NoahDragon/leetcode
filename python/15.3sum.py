@@ -1,11 +1,12 @@
 #
 # [15] 3Sum
 #
-# https://leetcode.com/problems/3sum
+# https://leetcode.com/problems/3sum/description/
 #
-# Medium (21.58%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (21.82%)
+# Total Accepted:    295.4K
+# Total Submissions: 1.4M
 # Testcase Example:  '[-1,0,1,2,-1,-4]'
 #
 # Given an array S of n integers, are there elements a, b, c in S such that a +

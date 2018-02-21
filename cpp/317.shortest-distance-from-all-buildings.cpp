@@ -1,11 +1,12 @@
 /*
  * [317] Shortest Distance from All Buildings
  *
- * https://leetcode.com/problems/shortest-distance-from-all-buildings
+ * https://leetcode.com/problems/shortest-distance-from-all-buildings/description/
  *
- * Hard (33.75%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (34.74%)
+ * Total Accepted:    22.1K
+ * Total Submissions: 63.6K
  * Testcase Example:  '[[1,0,2,0,1],[0,0,0,0,0],[0,0,1,0,0]]'
  *
  * You want to build a house on an empty land which reaches all buildings in

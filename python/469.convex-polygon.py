@@ -1,11 +1,12 @@
 #
 # [469] Convex Polygon
 #
-# https://leetcode.com/problems/convex-polygon
+# https://leetcode.com/problems/convex-polygon/description/
 #
-# Medium (31.56%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (34.14%)
+# Total Accepted:    5K
+# Total Submissions: 14.6K
 # Testcase Example:  '[[0,0],[0,1],[1,1],[1,0]]'
 #
 # Given a list of points that form a polygon when joined sequentially, find if

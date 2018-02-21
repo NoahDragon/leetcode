@@ -1,11 +1,12 @@
 /*
  * [65] Valid Number
  *
- * https://leetcode.com/problems/valid-number
+ * https://leetcode.com/problems/valid-number/description/
  *
- * Hard (12.71%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (12.94%)
+ * Total Accepted:    81K
+ * Total Submissions: 625.9K
  * Testcase Example:  '"3"'
  *
  * Validate if a given string is numeric.
@@ -30,7 +31,7 @@
  * button  to reset your code definition.
  * 
  */
-public class Solution {
+class Solution {
     public boolean isNumber(String s) {
         
     }

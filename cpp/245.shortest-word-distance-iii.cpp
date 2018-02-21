@@ -1,11 +1,12 @@
 /*
  * [245] Shortest Word Distance III
  *
- * https://leetcode.com/problems/shortest-word-distance-iii
+ * https://leetcode.com/problems/shortest-word-distance-iii/description/
  *
- * Medium (50.14%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (51.17%)
+ * Total Accepted:    26.1K
+ * Total Submissions: 51K
  * Testcase Example:  '["a","b"]\n"a"\n"b"'
  *
  * This is a follow up of Shortest Word Distance. The only difference is now

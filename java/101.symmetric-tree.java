@@ -1,11 +1,12 @@
 /*
  * [101] Symmetric Tree
  *
- * https://leetcode.com/problems/symmetric-tree
+ * https://leetcode.com/problems/symmetric-tree/description/
  *
- * Easy (38.46%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (40.09%)
+ * Total Accepted:    231K
+ * Total Submissions: 576.3K
  * Testcase Example:  '[1,2,2,3,4,4,3]'
  *
  * Given a binary tree, check whether it is a mirror of itself (ie, symmetric
@@ -46,7 +47,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public boolean isSymmetric(TreeNode root) {
         
     }

@@ -1,11 +1,12 @@
 /*
  * [218] The Skyline Problem
  *
- * https://leetcode.com/problems/the-skyline-problem
+ * https://leetcode.com/problems/the-skyline-problem/description/
  *
- * Hard (26.88%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (28.79%)
+ * Total Accepted:    57.2K
+ * Total Submissions: 198.8K
  * Testcase Example:  '[[2,9,10],[3,7,15],[5,12,12],[15,20,10],[19,24,8]]'
  *
  * A city's skyline is the outer contour of the silhouette formed by all the
@@ -30,7 +31,7 @@
  * The geometric information of each building is represented by a triplet of
  * integers [Li, Ri, Hi], where Li and Ri are the x coordinates of the left and
  * right edge of the ith building, respectively, and Hi is its height. It is
- * guaranteed that 0 ? Li, Ri ? INT_MAX, 0 < Hi ? INT_MAX, and Ri - Li > 0. You
+ * guaranteed that 0 ≤ Li, Ri ≤ INT_MAX, 0 < Hi ≤ INT_MAX, and Ri - Li > 0. You
  * may assume all buildings are perfect rectangles grounded on an absolutely
  * flat surface at height 0.
  * 
@@ -65,7 +66,7 @@
  * Credits:Special thanks to @stellari for adding this problem, creating these
  * two awesome images and all test cases.
  */
-public class Solution {
+class Solution {
     public List<int[]> getSkyline(int[][] buildings) {
         
     }

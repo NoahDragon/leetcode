@@ -1,11 +1,12 @@
 /*
  * [132] Palindrome Partitioning II
  *
- * https://leetcode.com/problems/palindrome-partitioning-ii
+ * https://leetcode.com/problems/palindrome-partitioning-ii/description/
  *
- * Hard (24.03%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (24.72%)
+ * Total Accepted:    78.9K
+ * Total Submissions: 319.3K
  * Testcase Example:  '"aab"'
  *
  * 

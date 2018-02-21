@@ -1,11 +1,12 @@
 #
 # [252] Meeting Rooms
 #
-# https://leetcode.com/problems/meeting-rooms
+# https://leetcode.com/problems/meeting-rooms/description/
 #
-# Easy (46.92%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (48.83%)
+# Total Accepted:    46K
+# Total Submissions: 94.3K
 # Testcase Example:  '[]'
 #
 # Given an array of meeting time intervals consisting of start and end times

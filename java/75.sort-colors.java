@@ -1,11 +1,12 @@
 /*
  * [75] Sort Colors
  *
- * https://leetcode.com/problems/sort-colors
+ * https://leetcode.com/problems/sort-colors/description/
  *
- * Medium (37.73%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (38.79%)
+ * Total Accepted:    207.9K
+ * Total Submissions: 536K
  * Testcase Example:  '[0]'
  *
  * 
@@ -36,7 +37,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public void sortColors(int[] nums) {
         
     }

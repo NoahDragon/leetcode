@@ -1,11 +1,12 @@
 /*
  * [123] Best Time to Buy and Sell Stock III
  *
- * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+ * https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
  *
- * Hard (29.06%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (30.21%)
+ * Total Accepted:    103K
+ * Total Submissions: 341K
  * Testcase Example:  '[]'
  *
  * Say you have an array for which the ith element is the price of a given
@@ -18,7 +19,7 @@
  * You may not engage in multiple transactions at the same time (ie, you must
  * sell the stock before you buy again).
  */
-public class Solution {
+class Solution {
     public int maxProfit(int[] prices) {
         
     }

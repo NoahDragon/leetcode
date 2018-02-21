@@ -1,11 +1,12 @@
 /*
  * [87] Scramble String
  *
- * https://leetcode.com/problems/scramble-string
+ * https://leetcode.com/problems/scramble-string/description/
  *
- * Hard (28.96%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (29.63%)
+ * Total Accepted:    71.6K
+ * Total Submissions: 241.7K
  * Testcase Example:  '"a"\n"a"'
  *
  * 
@@ -65,7 +66,7 @@
  * scrambled string of s1.
  * 
  */
-public class Solution {
+class Solution {
     public boolean isScramble(String s1, String s2) {
         
     }

@@ -1,11 +1,12 @@
 #
 # [445] Add Two Numbers II
 #
-# https://leetcode.com/problems/add-two-numbers-ii
+# https://leetcode.com/problems/add-two-numbers-ii/description/
 #
-# Medium (46.07%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (46.09%)
+# Total Accepted:    43.5K
+# Total Submissions: 94.3K
 # Testcase Example:  '[7,2,4,3]\n[5,6,4]'
 #
 # You are given two non-empty linked lists representing two non-negative

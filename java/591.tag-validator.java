@@ -1,11 +1,12 @@
 /*
  * [591] Tag Validator
  *
- * https://leetcode.com/problems/tag-validator
+ * https://leetcode.com/problems/tag-validator/description/
  *
- * Hard (26.42%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (30.82%)
+ * Total Accepted:    2.7K
+ * Total Submissions: 8.9K
  * Testcase Example:  '"<DIV>This is the first line <![CDATA[<div>]]></DIV>"'
  *
  * Given a string representing a code snippet, you need to implement a tag
@@ -102,7 +103,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean isValid(String code) {
         
     }

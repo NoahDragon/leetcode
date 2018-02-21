@@ -1,11 +1,12 @@
 #
 # [139] Word Break
 #
-# https://leetcode.com/problems/word-break
+# https://leetcode.com/problems/word-break/description/
 #
-# Medium (29.58%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (31.25%)
+# Total Accepted:    197.1K
+# Total Submissions: 630.7K
 # Testcase Example:  '"leetcode"\n["leet","code"]'
 #
 # 

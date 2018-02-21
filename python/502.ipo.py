@@ -1,11 +1,12 @@
 #
 # [502] IPO
 #
-# https://leetcode.com/problems/ipo
+# https://leetcode.com/problems/ipo/description/
 #
-# Hard (35.43%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (36.63%)
+# Total Accepted:    6.6K
+# Total Submissions: 17.9K
 # Testcase Example:  '2\n0\n[1,2,3]\n[0,1,1]'
 #
 # 

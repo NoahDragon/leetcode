@@ -1,11 +1,12 @@
 /*
  * [270] Closest Binary Search Tree Value
  *
- * https://leetcode.com/problems/closest-binary-search-tree-value
+ * https://leetcode.com/problems/closest-binary-search-tree-value/description/
  *
- * Easy (39.21%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (40.53%)
+ * Total Accepted:    47K
+ * Total Submissions: 116K
  * Testcase Example:  '[1]\n4.428571'
  *
  * 

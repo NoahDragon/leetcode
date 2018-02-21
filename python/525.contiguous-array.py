@@ -1,11 +1,12 @@
 #
 # [525] Contiguous Array
 #
-# https://leetcode.com/problems/contiguous-array
+# https://leetcode.com/problems/contiguous-array/description/
 #
-# Medium (38.04%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (41.43%)
+# Total Accepted:    21.8K
+# Total Submissions: 52.5K
 # Testcase Example:  '[0,1]'
 #
 # Given a binary array, find the maximum length of a contiguous subarray with

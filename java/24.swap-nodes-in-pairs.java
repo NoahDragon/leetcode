@@ -1,11 +1,12 @@
 /*
  * [24] Swap Nodes in Pairs
  *
- * https://leetcode.com/problems/swap-nodes-in-pairs
+ * https://leetcode.com/problems/swap-nodes-in-pairs/description/
  *
- * Medium (38.14%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (38.98%)
+ * Total Accepted:    202.5K
+ * Total Submissions: 519.6K
  * Testcase Example:  '[]'
  *
  * 
@@ -30,7 +31,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public ListNode swapPairs(ListNode head) {
         
     }

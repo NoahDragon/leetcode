@@ -1,11 +1,12 @@
 /*
  * [324] Wiggle Sort II
  *
- * https://leetcode.com/problems/wiggle-sort-ii
+ * https://leetcode.com/problems/wiggle-sort-ii/description/
  *
- * Medium (25.83%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (26.36%)
+ * Total Accepted:    36.8K
+ * Total Submissions: 139.6K
  * Testcase Example:  '[1,5,1,1,6,4]'
  *
  * 
@@ -34,7 +35,7 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
-public class Solution {
+class Solution {
     public void wiggleSort(int[] nums) {
         
     }

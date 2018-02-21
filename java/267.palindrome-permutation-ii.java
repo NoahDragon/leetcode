@@ -1,11 +1,12 @@
 /*
  * [267] Palindrome Permutation II
  *
- * https://leetcode.com/problems/palindrome-permutation-ii
+ * https://leetcode.com/problems/palindrome-permutation-ii/description/
  *
- * Medium (31.79%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (32.12%)
+ * Total Accepted:    17.1K
+ * Total Submissions: 53.3K
  * Testcase Example:  '"aabb"'
  *
  * 
@@ -23,7 +24,7 @@
  * Given s = "abc", return [].
  * 
  */
-public class Solution {
+class Solution {
     public List<String> generatePalindromes(String s) {
         
     }

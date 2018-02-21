@@ -1,11 +1,12 @@
 /*
  * [408] Valid Word Abbreviation
  *
- * https://leetcode.com/problems/valid-word-abbreviation
+ * https://leetcode.com/problems/valid-word-abbreviation/description/
  *
- * Easy (27.84%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (28.35%)
+ * Total Accepted:    14.7K
+ * Total Submissions: 51.8K
  * Testcase Example:  '"internationalization"\n"i12iz4n"'
  *
  * 
@@ -43,7 +44,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean validWordAbbreviation(String word, String abbr) {
         
     }

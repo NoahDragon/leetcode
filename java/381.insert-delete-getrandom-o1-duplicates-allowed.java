@@ -1,11 +1,12 @@
 /*
  * [381] Insert Delete GetRandom O(1) - Duplicates allowed
  *
- * https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+ * https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/
  *
- * Hard (28.68%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (29.50%)
+ * Total Accepted:    22.8K
+ * Total Submissions: 77.3K
  * Testcase Example:  '["RandomizedCollection","insert","insert","insert","getRandom","remove","getRandom"]\n[[],[1],[1],[2],[],[1],[]]'
  *
  * Design a data structure that supports all following operations in average
@@ -51,7 +52,7 @@
  * 
  * 
  */
-public class RandomizedCollection {
+class RandomizedCollection {
 
     /** Initialize your data structure here. */
     public RandomizedCollection() {

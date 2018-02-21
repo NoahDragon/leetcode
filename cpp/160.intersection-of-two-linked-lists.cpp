@@ -1,11 +1,12 @@
 /*
  * [160] Intersection of Two Linked Lists
  *
- * https://leetcode.com/problems/intersection-of-two-linked-lists
+ * https://leetcode.com/problems/intersection-of-two-linked-lists/description/
  *
- * Easy (30.50%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (30.87%)
+ * Total Accepted:    175.2K
+ * Total Submissions: 567.5K
  * Testcase Example:  'No intersection: []\n[]'
  *
  * Write a program to find the node at which the intersection of two singly

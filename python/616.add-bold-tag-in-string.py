@@ -1,11 +1,12 @@
 #
 # [616] Add Bold Tag in String
 #
-# https://leetcode.com/problems/add-bold-tag-in-string
+# https://leetcode.com/problems/add-bold-tag-in-string/description/
 #
-# Medium (37.23%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (38.48%)
+# Total Accepted:    8.5K
+# Total Submissions: 22.1K
 # Testcase Example:  '"abcxyz123"\n["abc","123"]'
 #
 # Given a string s and a list of strings dict, you need to add a closed pair of

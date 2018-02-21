@@ -1,11 +1,12 @@
 /*
  * [462] Minimum Moves to Equal Array Elements II
  *
- * https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii
+ * https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/
  *
- * Medium (51.41%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (51.89%)
+ * Total Accepted:    22.7K
+ * Total Submissions: 43.8K
  * Testcase Example:  '[1,2,3]'
  *
  * Given a non-empty integer array, find the minimum number of moves required

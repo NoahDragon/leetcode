@@ -1,11 +1,12 @@
 /*
  * [572] Subtree of Another Tree
  *
- * https://leetcode.com/problems/subtree-of-another-tree
+ * https://leetcode.com/problems/subtree-of-another-tree/description/
  *
- * Easy (40.97%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (40.35%)
+ * Total Accepted:    39.6K
+ * Total Submissions: 98.2K
  * Testcase Example:  '[3,4,5,1,2]\n[4,1,2]'
  *
  * 

@@ -1,12 +1,12 @@
 #
 # [642] Design Search Autocomplete System
 #
-# https://leetcode.com/problems/design-search-autocomplete-system
+# https://leetcode.com/problems/design-search-autocomplete-system/description/
 #
 # algorithms
-# Hard (27.41%)
-# Total Accepted:    585
-# Total Submissions: 2.1K
+# Hard (31.17%)
+# Total Accepted:    4.8K
+# Total Submissions: 15.4K
 # Testcase Example:  '["AutocompleteSystem","input","input","input","input"]\n[[["i love you","island","iroman","i love leetcode"],[5,3,2,2]],["i"],[" "],["a"],["#"]]'
 #
 # Design a search autocomplete system for a search engine. Users may input a

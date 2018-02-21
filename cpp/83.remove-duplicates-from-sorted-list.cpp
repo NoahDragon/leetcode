@@ -1,11 +1,12 @@
 /*
  * [83] Remove Duplicates from Sorted List
  *
- * https://leetcode.com/problems/remove-duplicates-from-sorted-list
+ * https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
  *
- * Easy (39.71%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (40.17%)
+ * Total Accepted:    222.8K
+ * Total Submissions: 554.8K
  * Testcase Example:  '[]'
  *
  * 

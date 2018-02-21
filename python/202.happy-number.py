@@ -1,11 +1,12 @@
 #
 # [202] Happy Number
 #
-# https://leetcode.com/problems/happy-number
+# https://leetcode.com/problems/happy-number/description/
 #
-# Easy (40.43%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Easy (41.34%)
+# Total Accepted:    152.3K
+# Total Submissions: 368.5K
 # Testcase Example:  '1'
 #
 # Write an algorithm to determine if a number is "happy".

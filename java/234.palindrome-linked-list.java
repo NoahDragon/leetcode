@@ -1,11 +1,12 @@
 /*
  * [234] Palindrome Linked List
  *
- * https://leetcode.com/problems/palindrome-linked-list
+ * https://leetcode.com/problems/palindrome-linked-list/description/
  *
- * Easy (32.51%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (33.39%)
+ * Total Accepted:    145.9K
+ * Total Submissions: 436.8K
  * Testcase Example:  '[]'
  *
  * Given a singly linked list, determine if it is a palindrome.
@@ -21,7 +22,7 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public boolean isPalindrome(ListNode head) {
         
     }

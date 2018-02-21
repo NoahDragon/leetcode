@@ -1,11 +1,12 @@
 /*
  * [501] Find Mode in Binary Search Tree
  *
- * https://leetcode.com/problems/find-mode-in-binary-search-tree
+ * https://leetcode.com/problems/find-mode-in-binary-search-tree/description/
  *
- * Easy (38.08%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (37.66%)
+ * Total Accepted:    30.3K
+ * Total Submissions: 80.3K
  * Testcase Example:  '[1,null,2,2]'
  *
  * Given a binary search tree (BST) with duplicates, find all the mode(s) (the
@@ -55,7 +56,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public int[] findMode(TreeNode root) {
         
     }

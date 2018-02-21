@@ -1,11 +1,12 @@
 /*
  * [56] Merge Intervals
  *
- * https://leetcode.com/problems/merge-intervals
+ * https://leetcode.com/problems/merge-intervals/description/
  *
- * Medium (29.74%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (31.71%)
+ * Total Accepted:    181.8K
+ * Total Submissions: 573.4K
  * Testcase Example:  '[[1,3],[2,6],[8,10],[15,18]]'
  *
  * Given a collection of intervals, merge all overlapping intervals.
@@ -25,7 +26,7 @@
  *     Interval(int s, int e) { start = s; end = e; }
  * }
  */
-public class Solution {
+class Solution {
     public List<Interval> merge(List<Interval> intervals) {
         
     }

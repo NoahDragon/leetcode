@@ -1,11 +1,12 @@
 /*
  * [279] Perfect Squares
  *
- * https://leetcode.com/problems/perfect-squares
+ * https://leetcode.com/problems/perfect-squares/description/
  *
- * Medium (36.47%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (37.72%)
+ * Total Accepted:    102K
+ * Total Submissions: 270.4K
  * Testcase Example:  '1'
  *
  * 
@@ -21,7 +22,7 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
-public class Solution {
+class Solution {
     public int numSquares(int n) {
         
     }

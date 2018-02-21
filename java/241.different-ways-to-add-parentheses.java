@@ -1,11 +1,12 @@
 /*
  * [241] Different Ways to Add Parentheses
  *
- * https://leetcode.com/problems/different-ways-to-add-parentheses
+ * https://leetcode.com/problems/different-ways-to-add-parentheses/description/
  *
- * Medium (43.51%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (45.76%)
+ * Total Accepted:    53.1K
+ * Total Submissions: 116K
  * Testcase Example:  '"2-1-1"'
  *
  * Given a string of numbers and operators, return all possible results from
@@ -30,7 +31,7 @@
  * Credits:Special thanks to @mithmatt for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public List<Integer> diffWaysToCompute(String input) {
         
     }

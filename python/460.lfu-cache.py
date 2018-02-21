@@ -1,11 +1,12 @@
 #
 # [460] LFU Cache
 #
-# https://leetcode.com/problems/lfu-cache
+# https://leetcode.com/problems/lfu-cache/description/
 #
-# Hard (23.21%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Hard (24.97%)
+# Total Accepted:    18.7K
+# Total Submissions: 74.9K
 # Testcase Example:  '["LFUCache","put","put","get","put","get","get","put","get","get","get"]\n[[2],[1,1],[2,2],[1],[3,3],[2],[3],[4,4],[1],[3],[4]]'
 #
 # Design and implement a data structure for Least Frequently Used (LFU) cache.

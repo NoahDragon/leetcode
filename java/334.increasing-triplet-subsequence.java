@@ -1,11 +1,12 @@
 /*
  * [334] Increasing Triplet Subsequence
  *
- * https://leetcode.com/problems/increasing-triplet-subsequence
+ * https://leetcode.com/problems/increasing-triplet-subsequence/description/
  *
- * Medium (39.00%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (39.90%)
+ * Total Accepted:    55.6K
+ * Total Submissions: 139.4K
  * Testcase Example:  '[1,2,3,4,5]'
  *
  * 
@@ -36,7 +37,7 @@
  * Credits:Special thanks to @DjangoUnchained for adding this problem and
  * creating all test cases.
  */
-public class Solution {
+class Solution {
     public boolean increasingTriplet(int[] nums) {
         
     }

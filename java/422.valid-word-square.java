@@ -1,11 +1,12 @@
 /*
  * [422] Valid Word Square
  *
- * https://leetcode.com/problems/valid-word-square
+ * https://leetcode.com/problems/valid-word-square/description/
  *
- * Easy (36.15%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (36.58%)
+ * Total Accepted:    14.8K
+ * Total Submissions: 40.6K
  * Testcase Example:  '["abcd","bnrt","crmy","dtye"]'
  *
  * Given a sequence of words, check whether it forms a valid word square.
@@ -87,7 +88,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public boolean validWordSquare(List<String> words) {
         
     }

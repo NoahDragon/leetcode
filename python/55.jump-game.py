@@ -1,11 +1,12 @@
 #
 # [55] Jump Game
 #
-# https://leetcode.com/problems/jump-game
+# https://leetcode.com/problems/jump-game/description/
 #
-# Medium (29.47%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (29.58%)
+# Total Accepted:    154.4K
+# Total Submissions: 521.9K
 # Testcase Example:  '[2,3,1,1,4]'
 #
 # 

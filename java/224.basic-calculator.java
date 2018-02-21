@@ -1,12 +1,13 @@
 /*
  * [224] Basic Calculator
  *
- * https://leetcode.com/problems/basic-calculator
+ * https://leetcode.com/problems/basic-calculator/description/
  *
- * Hard (26.78%)
- * Total Accepted:    
- * Total Submissions: 
- * Testcase Example:  '"0"'
+ * algorithms
+ * Hard (28.40%)
+ * Total Accepted:    62.3K
+ * Total Submissions: 219.5K
+ * Testcase Example:  '"1 + 1"'
  *
  * Implement a basic calculator to evaluate a simple expression string.
  * 
@@ -27,7 +28,7 @@
  * Note: Do not use the eval built-in library function.
  * 
  */
-public class Solution {
+class Solution {
     public int calculate(String s) {
         
     }

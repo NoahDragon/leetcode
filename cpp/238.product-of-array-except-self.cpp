@@ -1,11 +1,12 @@
 /*
  * [238] Product of Array Except Self
  *
- * https://leetcode.com/problems/product-of-array-except-self
+ * https://leetcode.com/problems/product-of-array-except-self/description/
  *
- * Medium (48.75%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (50.20%)
+ * Total Accepted:    137.9K
+ * Total Submissions: 274.7K
  * Testcase Example:  '[0,0]'
  *
  * 

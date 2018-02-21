@@ -1,11 +1,12 @@
 /*
  * [587] Erect the Fence
  *
- * https://leetcode.com/problems/erect-the-fence
+ * https://leetcode.com/problems/erect-the-fence/description/
  *
- * Hard (30.05%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (33.26%)
+ * Total Accepted:    4K
+ * Total Submissions: 12K
  * Testcase Example:  '[[1,1],[2,2],[2,0],[2,4],[3,3],[4,2]]'
  *
  * There are some trees, where each tree is represented by (x,y) coordinate in

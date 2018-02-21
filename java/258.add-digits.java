@@ -1,11 +1,12 @@
 /*
  * [258] Add Digits
  *
- * https://leetcode.com/problems/add-digits
+ * https://leetcode.com/problems/add-digits/description/
  *
- * Easy (50.97%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (51.68%)
+ * Total Accepted:    188.7K
+ * Total Submissions: 365.1K
  * Testcase Example:  '0'
  *
  * 
@@ -28,7 +29,7 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
-public class Solution {
+class Solution {
     public int addDigits(int num) {
         
     }

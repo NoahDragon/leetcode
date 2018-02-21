@@ -1,11 +1,12 @@
 /*
  * [452] Minimum Number of Arrows to Burst Balloons
  *
- * https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
+ * https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/
  *
- * Medium (43.83%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (44.55%)
+ * Total Accepted:    19.7K
+ * Total Submissions: 44.3K
  * Testcase Example:  '[[10,16],[2,8],[1,6],[7,12]]'
  *
  * There are a number of spherical balloons spread in two-dimensional space.
@@ -35,7 +36,7 @@
  * 
  * 
  */
-public class Solution {
+class Solution {
     public int findMinArrowShots(int[][] points) {
         
     }

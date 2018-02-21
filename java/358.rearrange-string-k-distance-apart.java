@@ -1,11 +1,12 @@
 /*
  * [358] Rearrange String k Distance Apart
  *
- * https://leetcode.com/problems/rearrange-string-k-distance-apart
+ * https://leetcode.com/problems/rearrange-string-k-distance-apart/description/
  *
- * Hard (31.81%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (31.70%)
+ * Total Accepted:    13.5K
+ * Total Submissions: 42.5K
  * Testcase Example:  '"aabbcc"\n3'
  *
  * 
@@ -51,7 +52,7 @@
  * Credits:Special thanks to @elmirap for adding this problem and creating all
  * test cases.
  */
-public class Solution {
+class Solution {
     public String rearrangeString(String s, int k) {
         
     }

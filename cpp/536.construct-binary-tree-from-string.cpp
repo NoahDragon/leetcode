@@ -1,11 +1,12 @@
 /*
  * [536] Construct Binary Tree from String
  *
- * https://leetcode.com/problems/construct-binary-tree-from-string
+ * https://leetcode.com/problems/construct-binary-tree-from-string/description/
  *
- * Medium (40.22%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (42.63%)
+ * Total Accepted:    9.8K
+ * Total Submissions: 22.9K
  * Testcase Example:  '"4(2(3)(1))(6(5))"'
  *
  * You need to construct a binary tree from a string consisting of parenthesis

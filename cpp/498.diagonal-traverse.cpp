@@ -1,11 +1,12 @@
 /*
  * [498] Diagonal Traverse
  *
- * https://leetcode.com/problems/diagonal-traverse
+ * https://leetcode.com/problems/diagonal-traverse/description/
  *
+ * algorithms
  * Medium (46.15%)
- * Total Accepted:    
- * Total Submissions: 
+ * Total Accepted:    16.2K
+ * Total Submissions: 35.2K
  * Testcase Example:  '[[1,2,3],[4,5,6],[7,8,9]]'
  *
  * 

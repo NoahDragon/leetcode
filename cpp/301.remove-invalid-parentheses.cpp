@@ -1,11 +1,12 @@
 /*
  * [301] Remove Invalid Parentheses
  *
- * https://leetcode.com/problems/remove-invalid-parentheses
+ * https://leetcode.com/problems/remove-invalid-parentheses/description/
  *
- * Hard (35.00%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Hard (35.86%)
+ * Total Accepted:    63.2K
+ * Total Submissions: 176.4K
  * Testcase Example:  '"()())()"'
  *
  * 

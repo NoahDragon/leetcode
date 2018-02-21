@@ -1,11 +1,12 @@
 #
 # [442] Find All Duplicates in an Array
 #
-# https://leetcode.com/problems/find-all-duplicates-in-an-array
+# https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 #
-# Medium (55.08%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (56.71%)
+# Total Accepted:    51.2K
+# Total Submissions: 90.3K
 # Testcase Example:  '[4,3,2,7,8,2,3,1]'
 #
 # Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements

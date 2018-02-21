@@ -1,11 +1,12 @@
 /*
  * [364] Nested List Weight Sum II
  *
- * https://leetcode.com/problems/nested-list-weight-sum-ii
+ * https://leetcode.com/problems/nested-list-weight-sum-ii/description/
  *
- * Medium (51.99%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (53.85%)
+ * Total Accepted:    20.5K
+ * Total Submissions: 38.1K
  * Testcase Example:  '[[1,1],2,[1,1]]'
  *
  * Given a nested list of integers, return the sum of all integers in the list

@@ -1,11 +1,12 @@
 #
 # [29] Divide Two Integers
 #
-# https://leetcode.com/problems/divide-two-integers
+# https://leetcode.com/problems/divide-two-integers/description/
 #
-# Medium (15.97%)
-# Total Accepted:    
-# Total Submissions: 
+# algorithms
+# Medium (15.83%)
+# Total Accepted:    125.3K
+# Total Submissions: 791.5K
 # Testcase Example:  '0\n1'
 #
 # 

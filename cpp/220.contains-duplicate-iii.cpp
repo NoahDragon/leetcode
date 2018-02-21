@@ -1,11 +1,12 @@
 /*
  * [220] Contains Duplicate III
  *
- * https://leetcode.com/problems/contains-duplicate-iii
+ * https://leetcode.com/problems/contains-duplicate-iii/description/
  *
- * Medium (19.12%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Medium (18.83%)
+ * Total Accepted:    64.5K
+ * Total Submissions: 342.5K
  * Testcase Example:  '[]\n0\n0'
  *
  * 

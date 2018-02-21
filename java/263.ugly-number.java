@@ -1,11 +1,12 @@
 /*
  * [263] Ugly Number
  *
- * https://leetcode.com/problems/ugly-number
+ * https://leetcode.com/problems/ugly-number/description/
  *
- * Easy (39.06%)
- * Total Accepted:    
- * Total Submissions: 
+ * algorithms
+ * Easy (39.60%)
+ * Total Accepted:    118.2K
+ * Total Submissions: 298.5K
  * Testcase Example:  '-2147483648'
  *
  * 
@@ -25,7 +26,7 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
-public class Solution {
+class Solution {
     public boolean isUgly(int num) {
         
     }
