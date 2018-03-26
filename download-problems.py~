@@ -18,7 +18,7 @@ if __name__ == "__main__":
     if exists("mysql"):
 	havingProblems.update(listFiles("mysql"))
     if exists("bash"):
-	havingProblems.update(listFiles("bash"))
+	havingProblems.add(listFiles("bash"))
 
     missingProblems = [p for p in range(1, totalNumOfProblems + 1) if str(p) not in havingProblems]
     
