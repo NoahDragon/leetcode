@@ -2,6 +2,13 @@
 #	Merge k sorted linked lists and return it as one sorted list. 
 #	Analyze and describe its complexity.
 #
+# Note:
+#	Python list sort has the complexity O(nlogn), which is better
+#	than my original approach O(n*n).
+#	One thing noticed that r.sort() return empty list in python3.
+#	So used the sorted() function instead. Not sure if it would be
+#	same in python2?
+#
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
